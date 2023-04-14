@@ -58,7 +58,7 @@ int main() {
     
     // Print estimate of pi and runtime
     cout << "Pi Estimate: " << pi << endl;
-    cout << "Elapsed time: " << runtime << " s" << endl;
+    cout << "Elapsed time: " << runtime << " seconds" << endl;
     
     return 0;
 }
