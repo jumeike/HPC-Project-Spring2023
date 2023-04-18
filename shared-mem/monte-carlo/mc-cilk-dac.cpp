@@ -6,7 +6,7 @@ using namespace std;
 
 double estimate_pi(int num_samples) {
     int num_inside = 0;
-    cilk_for(int i = 0; i < num_samples; i++) {
+    for(int i = 0; i < num_samples; i++) {
         double x = static_cast<double>(rand()) / RAND_MAX;
         double y = static_cast<double>(rand()) / RAND_MAX;
         if (x * x + y * y <= 1.0) {

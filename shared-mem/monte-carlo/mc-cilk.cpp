@@ -3,14 +3,14 @@
 #include <cmath>
 #include <sys/time.h>
 #include <cilk/cilk.h>
-
+#include <atomic>
 using namespace std;
 
 int main()
 {
-    int N = 10000000; // number of darts to throw
+    int N = 1000000000; // number of darts to throw
     double x, y; // coordinates of the dart
-    int hits = 0; // number of darts that hit the circle
+    atomic<int> hits(0); // number of darts that hit the circle
 
     // seed the random number generator
     srand(time(0));
