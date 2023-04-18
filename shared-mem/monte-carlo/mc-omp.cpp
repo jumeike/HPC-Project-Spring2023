@@ -25,6 +25,7 @@ double estimate_pi(int N, int num_threads) {
         x = dis(gen);
         y = dis(gen);
         if (x * x + y * y <= 1) {
+            #pragma omp atomic update
             hits++;
         }
     }
