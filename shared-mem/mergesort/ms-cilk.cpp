@@ -69,8 +69,8 @@ int main(int argc, char * argv[]) {
     double elapsedTime = (end.tv_sec - start.tv_sec) * 1000.0;
     elapsedTime += (end.tv_usec - start.tv_usec) / 1000.0;
     elapsedTime /= 1000.0;
-    // char* env_var = getenv("CILK_NWORKERS");
-    // cout << "Number of threads: " << atoi(env_var) << endl;
+    char* env_var = getenv("CILK_NWORKERS");
+    cout << "Number of threads: " << atoi(env_var) << endl;
     cout << "Elapsed time: " << elapsedTime << " seconds" << endl;
     delete[] arr;
     return 0;

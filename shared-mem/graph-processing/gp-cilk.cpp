@@ -70,7 +70,7 @@ int main() {
     gettimeofday(&start, nullptr);
 
     // Traverse graph using DFS (parallelized with Cilk)
-    for(int i = 0; i < V; ++i) {
+    cilk_for(int i = 0; i < V; ++i) {
         if (!visited[i]) {
             dfs(i, visited, graph);
         }
