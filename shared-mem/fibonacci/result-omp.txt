@@ -1,0 +1,672 @@
+Number of threads: 1
+Elapsed time: 0.000211 seconds
+fib(10) = 55
+# started on Wed Apr 26 17:15:51 2023
+
+
+ Performance counter stats for './fib-omp 10':
+
+         1,676,166      instructions              #    0.62  insn per cycle         
+         1,676,166      inst_retired.any                                            
+         2,693,306      cycles                                                      
+         2,693,306      cpu_clk_unhalted.thread                                     
+         1,634,650      cycle_activity.stalls_total                                   
+            30,598      L1-dcache-load-misses     #    7.21% of all L1-dcache accesses
+           424,312      L1-dcache-loads                                             
+   <not supported>      L1-dcache-store-misses                                      
+           210,074      L1-dcache-stores                                            
+            40,714      L1-icache-load-misses                                       
+   <not supported>      L1-icache-loads                                             
+            61,289      l2_rqsts.miss                                               
+     <not counted>      l2_rqsts.references                                           (0.00%)
+     <not counted>      LLC-load-misses                                               (0.00%)
+     <not counted>      LLC-loads                                                     (0.00%)
+     <not counted>      LLC-store-misses                                              (0.00%)
+     <not counted>      LLC-stores                                                    (0.00%)
+     <not counted>      branches                                                      (0.00%)
+     <not counted>      branch-misses                                                 (0.00%)
+     <not counted>      icache_64b.iftag_miss                                         (0.00%)
+     <not counted>      itlb_misses.walk_completed                                     (0.00%)
+     <not counted>      dTLB-load-misses                                              (0.00%)
+     <not counted>      dTLB-loads                                                    (0.00%)
+     <not counted>      dTLB-store-misses                                             (0.00%)
+     <not counted>      dTLB-store                                                    (0.00%)
+     <not counted>      iTLB-load-misses                                              (0.00%)
+
+       0.001196932 seconds time elapsed
+
+       0.000000000 seconds user
+       0.001237000 seconds sys
+
+
+====================================================================
+Number of threads: 2
+Elapsed time: 0.000268 seconds
+fib(10) = 55
+# started on Wed Apr 26 17:15:51 2023
+
+
+ Performance counter stats for './fib-omp 10':
+
+         1,809,375      instructions              #    0.48  insn per cycle         
+         1,809,375      inst_retired.any                                            
+         3,784,644      cycles                                                      
+         3,784,644      cpu_clk_unhalted.thread                                     
+         2,585,343      cycle_activity.stalls_total                                   
+            36,355      L1-dcache-load-misses     #    7.91% of all L1-dcache accesses
+           459,853      L1-dcache-loads                                             
+   <not supported>      L1-dcache-store-misses                                      
+           232,736      L1-dcache-stores                                            
+            58,037      L1-icache-load-misses                                       
+   <not supported>      L1-icache-loads                                             
+            83,559      l2_rqsts.miss                                               
+     <not counted>      l2_rqsts.references                                           (0.00%)
+     <not counted>      LLC-load-misses                                               (0.00%)
+     <not counted>      LLC-loads                                                     (0.00%)
+     <not counted>      LLC-store-misses                                              (0.00%)
+     <not counted>      LLC-stores                                                    (0.00%)
+     <not counted>      branches                                                      (0.00%)
+     <not counted>      branch-misses                                                 (0.00%)
+     <not counted>      icache_64b.iftag_miss                                         (0.00%)
+     <not counted>      itlb_misses.walk_completed                                     (0.00%)
+     <not counted>      dTLB-load-misses                                              (0.00%)
+     <not counted>      dTLB-loads                                                    (0.00%)
+     <not counted>      dTLB-store-misses                                             (0.00%)
+     <not counted>      dTLB-store                                                    (0.00%)
+     <not counted>      iTLB-load-misses                                              (0.00%)
+
+       0.001299893 seconds time elapsed
+
+       0.001685000 seconds user
+       0.000000000 seconds sys
+
+
+====================================================================
+Number of threads: 3
+Elapsed time: 0.000400 seconds
+fib(10) = 55
+# started on Wed Apr 26 17:15:51 2023
+
+
+ Performance counter stats for './fib-omp 10':
+
+         2,005,987      instructions              #    0.42  insn per cycle         
+         2,005,987      inst_retired.any                                            
+         4,732,553      cycles                                                      
+         4,732,553      cpu_clk_unhalted.thread                                     
+         3,401,378      cycle_activity.stalls_total                                   
+            40,297      L1-dcache-load-misses     #    7.92% of all L1-dcache accesses
+           508,990      L1-dcache-loads                                             
+   <not supported>      L1-dcache-store-misses                                      
+           258,870      L1-dcache-stores                                            
+            64,642      L1-icache-load-misses                                       
+   <not supported>      L1-icache-loads                                             
+            92,460      l2_rqsts.miss                                               
+     <not counted>      l2_rqsts.references                                           (0.00%)
+     <not counted>      LLC-load-misses                                               (0.00%)
+     <not counted>      LLC-loads                                                     (0.00%)
+     <not counted>      LLC-store-misses                                              (0.00%)
+     <not counted>      LLC-stores                                                    (0.00%)
+     <not counted>      branches                                                      (0.00%)
+     <not counted>      branch-misses                                                 (0.00%)
+     <not counted>      icache_64b.iftag_miss                                         (0.00%)
+     <not counted>      itlb_misses.walk_completed                                     (0.00%)
+     <not counted>      dTLB-load-misses                                              (0.00%)
+     <not counted>      dTLB-loads                                                    (0.00%)
+     <not counted>      dTLB-store-misses                                             (0.00%)
+     <not counted>      dTLB-store                                                    (0.00%)
+     <not counted>      iTLB-load-misses                                              (0.00%)
+
+       0.001670281 seconds time elapsed
+
+       0.002662000 seconds user
+       0.000000000 seconds sys
+
+
+====================================================================
+Number of threads: 4
+Elapsed time: 0.000876 seconds
+fib(10) = 55
+# started on Wed Apr 26 17:15:51 2023
+
+
+ Performance counter stats for './fib-omp 10':
+
+         1,842,236      instructions              #    0.36  insn per cycle         
+         1,842,236      inst_retired.any                                            
+         5,131,463      cycles                                                      
+         5,131,463      cpu_clk_unhalted.thread                                     
+         3,800,529      cycle_activity.stalls_total                                   
+            35,019      L1-dcache-load-misses     #    7.18% of all L1-dcache accesses
+           487,625      L1-dcache-loads                                             
+   <not supported>      L1-dcache-store-misses                                      
+           268,870      L1-dcache-stores                                            
+            71,558      L1-icache-load-misses                                       
+   <not supported>      L1-icache-loads                                             
+            89,725      l2_rqsts.miss                                               
+     <not counted>      l2_rqsts.references                                           (0.00%)
+     <not counted>      LLC-load-misses                                               (0.00%)
+     <not counted>      LLC-loads                                                     (0.00%)
+     <not counted>      LLC-store-misses                                              (0.00%)
+     <not counted>      LLC-stores                                                    (0.00%)
+     <not counted>      branches                                                      (0.00%)
+     <not counted>      branch-misses                                                 (0.00%)
+     <not counted>      icache_64b.iftag_miss                                         (0.00%)
+     <not counted>      itlb_misses.walk_completed                                     (0.00%)
+     <not counted>      dTLB-load-misses                                              (0.00%)
+     <not counted>      dTLB-loads                                                    (0.00%)
+     <not counted>      dTLB-store-misses                                             (0.00%)
+     <not counted>      dTLB-store                                                    (0.00%)
+     <not counted>      iTLB-load-misses                                              (0.00%)
+
+       0.003137805 seconds time elapsed
+
+       0.000000000 seconds user
+       0.005589000 seconds sys
+
+
+====================================================================
+Number of threads: 1
+Elapsed time: 0.023075 seconds
+fib(20) = 6765
+# started on Wed Apr 26 17:15:51 2023
+
+
+ Performance counter stats for './fib-omp 20':
+
+        27,255,433      instructions              #    0.35  insn per cycle           (15.79%)
+        26,851,029      inst_retired.any                                              (32.66%)
+        78,490,981      cycles                                                        (49.53%)
+        79,261,553      cpu_clk_unhalted.thread                                       (66.38%)
+        55,058,799      cycle_activity.stalls_total                                     (83.24%)
+            41,728      L1-dcache-load-misses     #    0.60% of all L1-dcache accesses
+         6,936,585      L1-dcache-loads                                             
+   <not supported>      L1-dcache-store-misses                                      
+         5,014,669      L1-dcache-stores                                            
+            50,158      L1-icache-load-misses                                       
+   <not supported>      L1-icache-loads                                             
+            72,083      l2_rqsts.miss                                               
+            74,595      l2_rqsts.references                                           (84.21%)
+             3,077      LLC-load-misses           #   14.26% of all LL-cache accesses  (50.47%)
+            21,572      LLC-loads                                                     (16.76%)
+     <not counted>      LLC-store-misses                                              (0.00%)
+     <not counted>      LLC-stores                                                    (0.00%)
+     <not counted>      branches                                                      (0.00%)
+     <not counted>      branch-misses                                                 (0.00%)
+     <not counted>      icache_64b.iftag_miss                                         (0.00%)
+     <not counted>      itlb_misses.walk_completed                                     (0.00%)
+     <not counted>      dTLB-load-misses                                              (0.00%)
+     <not counted>      dTLB-loads                                                    (0.00%)
+     <not counted>      dTLB-store-misses                                             (0.00%)
+     <not counted>      dTLB-store                                                    (0.00%)
+     <not counted>      iTLB-load-misses                                              (0.00%)
+
+       0.024179459 seconds time elapsed
+
+       0.008068000 seconds user
+       0.016136000 seconds sys
+
+
+====================================================================
+Number of threads: 2
+Elapsed time: 0.015008 seconds
+fib(20) = 6765
+# started on Wed Apr 26 17:15:51 2023
+
+
+ Performance counter stats for './fib-omp 20':
+
+        21,312,925      instructions              #    0.25  insn per cycle           (30.64%)
+        25,666,042      inst_retired.any                                              (61.28%)
+        85,571,374      cycles                                                        (82.53%)
+        98,443,282      cpu_clk_unhalted.thread                                       (97.93%)
+        74,338,800      cycle_activity.stalls_total                                   
+            62,728      L1-dcache-load-misses     #    0.85% of all L1-dcache accesses
+         7,352,360      L1-dcache-loads                                             
+   <not supported>      L1-dcache-store-misses                                      
+         5,214,098      L1-dcache-stores                                            
+            75,785      L1-icache-load-misses                                       
+   <not supported>      L1-icache-loads                                             
+           133,631      l2_rqsts.miss                                               
+           124,256      l2_rqsts.references                                           (81.84%)
+             9,360      LLC-load-misses           #    0.00% of all LL-cache accesses  (29.48%)
+     <not counted>      LLC-loads                                                     (0.00%)
+     <not counted>      LLC-store-misses                                              (0.00%)
+     <not counted>      LLC-stores                                                    (0.00%)
+     <not counted>      branches                                                      (0.00%)
+     <not counted>      branch-misses                                                 (0.00%)
+     <not counted>      icache_64b.iftag_miss                                         (0.00%)
+     <not counted>      itlb_misses.walk_completed                                     (0.00%)
+     <not counted>      dTLB-load-misses                                              (0.00%)
+     <not counted>      dTLB-loads                                                    (0.00%)
+     <not counted>      dTLB-store-misses                                             (0.00%)
+     <not counted>      dTLB-store                                                    (0.00%)
+     <not counted>      iTLB-load-misses                                              (0.00%)
+
+       0.016074800 seconds time elapsed
+
+       0.023275000 seconds user
+       0.007758000 seconds sys
+
+
+====================================================================
+Number of threads: 3
+Elapsed time: 0.015101 seconds
+fib(20) = 6765
+# started on Wed Apr 26 17:15:51 2023
+
+
+ Performance counter stats for './fib-omp 20':
+
+        16,624,167      instructions              #    0.14  insn per cycle           (29.48%)
+        22,375,177      inst_retired.any                                              (65.11%)
+       114,898,378      cycles                                                        (84.46%)
+       140,282,326      cpu_clk_unhalted.thread                                       (96.62%)
+       117,595,850      cycle_activity.stalls_total                                   
+            53,564      L1-dcache-load-misses     #    0.70% of all L1-dcache accesses
+         7,693,306      L1-dcache-loads                                             
+   <not supported>      L1-dcache-store-misses                                      
+         5,260,885      L1-dcache-stores                                            
+            80,939      L1-icache-load-misses                                       
+   <not supported>      L1-icache-loads                                             
+           116,816      l2_rqsts.miss                                               
+            77,615      l2_rqsts.references                                           (87.26%)
+             4,649      LLC-load-misses           #    0.00% of all LL-cache accesses  (32.89%)
+     <not counted>      LLC-loads                                                     (0.00%)
+     <not counted>      LLC-store-misses                                              (0.00%)
+     <not counted>      LLC-stores                                                    (0.00%)
+     <not counted>      branches                                                      (0.00%)
+     <not counted>      branch-misses                                                 (0.00%)
+     <not counted>      icache_64b.iftag_miss                                         (0.00%)
+     <not counted>      itlb_misses.walk_completed                                     (0.00%)
+     <not counted>      dTLB-load-misses                                              (0.00%)
+     <not counted>      dTLB-loads                                                    (0.00%)
+     <not counted>      dTLB-store-misses                                             (0.00%)
+     <not counted>      dTLB-store                                                    (0.00%)
+     <not counted>      iTLB-load-misses                                              (0.00%)
+
+       0.016087730 seconds time elapsed
+
+       0.029737000 seconds user
+       0.014868000 seconds sys
+
+
+====================================================================
+Number of threads: 4
+Elapsed time: 0.015325 seconds
+fib(20) = 6765
+# started on Wed Apr 26 17:15:51 2023
+
+
+ Performance counter stats for './fib-omp 20':
+
+        13,124,228      instructions              #    0.10  insn per cycle           (18.00%)
+        19,235,097      inst_retired.any                                              (67.35%)
+       130,430,048      cycles                                                        (87.13%)
+       169,910,246      cpu_clk_unhalted.thread                                       (97.80%)
+       161,394,585      cycle_activity.stalls_total                                   
+            61,489      L1-dcache-load-misses     #    0.74% of all L1-dcache accesses
+         8,342,984      L1-dcache-loads                                             
+   <not supported>      L1-dcache-store-misses                                      
+         5,488,176      L1-dcache-stores                                            
+           104,226      L1-icache-load-misses                                       
+   <not supported>      L1-icache-loads                                             
+           147,744      l2_rqsts.miss                                               
+           111,626      l2_rqsts.references                                           (95.05%)
+             3,904      LLC-load-misses           #    0.00% of all LL-cache accesses  (40.24%)
+     <not counted>      LLC-loads                                                     (0.00%)
+     <not counted>      LLC-store-misses                                              (0.00%)
+     <not counted>      LLC-stores                                                    (0.00%)
+     <not counted>      branches                                                      (0.00%)
+     <not counted>      branch-misses                                                 (0.00%)
+     <not counted>      icache_64b.iftag_miss                                         (0.00%)
+     <not counted>      itlb_misses.walk_completed                                     (0.00%)
+     <not counted>      dTLB-load-misses                                              (0.00%)
+     <not counted>      dTLB-loads                                                    (0.00%)
+     <not counted>      dTLB-store-misses                                             (0.00%)
+     <not counted>      dTLB-store                                                    (0.00%)
+     <not counted>      iTLB-load-misses                                              (0.00%)
+
+       0.016318877 seconds time elapsed
+
+       0.050351000 seconds user
+       0.008391000 seconds sys
+
+
+====================================================================
+Number of threads: 1
+Elapsed time: 2.773812 seconds
+fib(30) = 832040
+# started on Wed Apr 26 17:15:51 2023
+
+
+ Performance counter stats for './fib-omp 30':
+
+     3,214,616,278      instructions              #    0.34  insn per cycle           (37.28%)
+     3,214,634,279      inst_retired.any                                              (37.28%)
+     9,416,002,830      cycles                                                        (41.46%)
+     9,418,825,288      cpu_clk_unhalted.thread                                       (41.46%)
+     6,523,882,888      cycle_activity.stalls_total                                     (41.46%)
+         1,086,260      L1-dcache-load-misses     #    0.13% of all L1-dcache accesses  (41.46%)
+       814,760,776      L1-dcache-loads                                               (41.46%)
+   <not supported>      L1-dcache-store-misses                                      
+       600,903,577      L1-dcache-stores                                              (41.46%)
+           567,671      L1-icache-load-misses                                         (41.58%)
+   <not supported>      L1-icache-loads                                             
+           415,994      l2_rqsts.miss                                                 (41.73%)
+         2,369,582      l2_rqsts.references                                           (41.81%)
+             1,886      LLC-load-misses           #    3.90% of all LL-cache accesses  (37.63%)
+            48,309      LLC-loads                                                     (33.45%)
+             2,928      LLC-store-misses                                              (8.37%)
+            39,562      LLC-stores                                                    (8.36%)
+       517,450,443      branches                                                      (12.55%)
+         4,200,206      branch-misses             #    0.81% of all branches          (16.73%)
+           471,425      icache_64b.iftag_miss                                         (20.91%)
+         2,693,964      itlb_misses.walk_completed                                     (25.08%)
+         2,693,248      dTLB-load-misses          #    0.33% of all dTLB cache accesses  (29.27%)
+       814,043,142      dTLB-loads                                                    (33.45%)
+             1,755      dTLB-store-misses                                             (33.44%)
+       600,998,382      dTLB-store                                                    (33.32%)
+         2,694,229      iTLB-load-misses                                              (33.18%)
+
+       2.774830244 seconds time elapsed
+
+       1.710905000 seconds user
+       1.063319000 seconds sys
+
+
+====================================================================
+Number of threads: 2
+Elapsed time: 1.732769 seconds
+fib(30) = 832040
+# started on Wed Apr 26 17:15:54 2023
+
+
+ Performance counter stats for './fib-omp 30':
+
+     3,387,837,337      instructions              #    0.35  insn per cycle           (36.79%)
+     3,398,328,446      inst_retired.any                                              (36.93%)
+     9,625,751,737      cycles                                                        (41.16%)
+     9,623,542,776      cpu_clk_unhalted.thread                                       (41.23%)
+     6,504,217,280      cycle_activity.stalls_total                                     (42.11%)
+         2,380,010      L1-dcache-load-misses     #    0.29% of all L1-dcache accesses  (42.19%)
+       832,761,122      L1-dcache-loads                                               (42.27%)
+   <not supported>      L1-dcache-store-misses                                      
+       612,458,247      L1-dcache-stores                                              (42.36%)
+           572,049      L1-icache-load-misses                                         (42.44%)
+   <not supported>      L1-icache-loads                                             
+         4,081,446      l2_rqsts.miss                                                 (42.52%)
+         6,526,013      l2_rqsts.references                                           (42.58%)
+             3,575      LLC-load-misses           #    1.93% of all LL-cache accesses  (38.12%)
+           185,183      LLC-loads                                                     (33.84%)
+             3,741      LLC-store-misses                                              (8.45%)
+         1,936,126      LLC-stores                                                    (8.43%)
+       555,139,995      branches                                                      (12.63%)
+         4,244,491      branch-misses             #    0.76% of all branches          (16.82%)
+           431,500      icache_64b.iftag_miss                                         (20.94%)
+         2,654,948      itlb_misses.walk_completed                                     (25.00%)
+         2,665,427      dTLB-load-misses          #    0.32% of all dTLB cache accesses  (29.07%)
+       833,782,608      dTLB-loads                                                    (33.13%)
+             1,809      dTLB-store-misses                                             (32.99%)
+       614,521,574      dTLB-store                                                    (32.85%)
+         2,694,472      iTLB-load-misses                                              (32.71%)
+
+       1.733779122 seconds time elapsed
+
+       1.798218000 seconds user
+       1.057304000 seconds sys
+
+
+====================================================================
+Number of threads: 3
+Elapsed time: 1.724563 seconds
+fib(30) = 832040
+# started on Wed Apr 26 17:15:56 2023
+
+
+ Performance counter stats for './fib-omp 30':
+
+     3,339,164,966      instructions              #    0.35  insn per cycle           (37.49%)
+     3,328,662,465      inst_retired.any                                              (37.75%)
+     9,475,239,938      cycles                                                        (42.06%)
+     9,492,084,598      cpu_clk_unhalted.thread                                       (42.16%)
+     6,567,824,855      cycle_activity.stalls_total                                     (42.24%)
+         2,360,950      L1-dcache-load-misses     #    0.28% of all L1-dcache accesses  (42.32%)
+       831,420,043      L1-dcache-loads                                               (42.41%)
+   <not supported>      L1-dcache-store-misses                                      
+       610,991,749      L1-dcache-stores                                              (42.49%)
+           716,128      L1-icache-load-misses                                         (42.57%)
+   <not supported>      L1-icache-loads                                             
+         3,844,223      l2_rqsts.miss                                                 (42.68%)
+         6,101,409      l2_rqsts.references                                           (42.74%)
+             2,882      LLC-load-misses           #    1.94% of all LL-cache accesses  (38.05%)
+           148,669      LLC-loads                                                     (33.76%)
+             3,507      LLC-store-misses                                              (8.47%)
+         1,916,259      LLC-stores                                                    (8.35%)
+       560,306,796      branches                                                      (12.45%)
+         4,275,263      branch-misses             #    0.76% of all branches          (16.54%)
+           531,627      icache_64b.iftag_miss                                         (20.63%)
+         3,664,839      itlb_misses.walk_completed                                     (24.72%)
+         2,692,355      dTLB-load-misses          #    0.32% of all dTLB cache accesses  (28.81%)
+       840,624,264      dTLB-loads                                                    (32.90%)
+             2,106      dTLB-store-misses                                             (32.76%)
+       621,029,441      dTLB-store                                                    (32.73%)
+         3,619,430      iTLB-load-misses                                              (33.37%)
+
+       1.725666399 seconds time elapsed
+
+       1.817937000 seconds user
+       1.029096000 seconds sys
+
+
+====================================================================
+Number of threads: 4
+Elapsed time: 1.792065 seconds
+fib(30) = 832040
+# started on Wed Apr 26 17:15:57 2023
+
+
+ Performance counter stats for './fib-omp 30':
+
+     3,556,513,979      instructions              #    0.37  insn per cycle           (36.81%)
+     3,542,166,290      inst_retired.any                                              (37.23%)
+     9,557,190,530      cycles                                                        (42.45%)
+     9,590,178,607      cpu_clk_unhalted.thread                                       (42.76%)
+     6,674,958,085      cycle_activity.stalls_total                                     (42.92%)
+         2,584,326      L1-dcache-load-misses     #    0.30% of all L1-dcache accesses  (43.21%)
+       852,809,945      L1-dcache-loads                                               (43.37%)
+   <not supported>      L1-dcache-store-misses                                      
+       624,492,871      L1-dcache-stores                                              (43.53%)
+           706,273      L1-icache-load-misses                                         (43.69%)
+   <not supported>      L1-icache-loads                                             
+         4,226,717      l2_rqsts.miss                                                 (43.84%)
+         6,710,991      l2_rqsts.references                                           (43.61%)
+             8,748      LLC-load-misses           #    4.54% of all LL-cache accesses  (38.69%)
+           192,734      LLC-loads                                                     (34.16%)
+             2,499      LLC-store-misses                                              (8.52%)
+         1,826,738      LLC-stores                                                    (8.50%)
+       610,392,526      branches                                                      (12.68%)
+         4,640,432      branch-misses             #    0.76% of all branches          (16.69%)
+           462,784      icache_64b.iftag_miss                                         (20.65%)
+         3,818,410      itlb_misses.walk_completed                                     (24.61%)
+         2,681,945      dTLB-load-misses          #    0.31% of all dTLB cache accesses  (28.58%)
+       878,683,452      dTLB-loads                                                    (32.54%)
+             1,834      dTLB-store-misses                                             (32.27%)
+       647,416,748      dTLB-store                                                    (31.99%)
+         3,930,611      iTLB-load-misses                                              (31.75%)
+
+       1.793135503 seconds time elapsed
+
+       1.897735000 seconds user
+       1.042755000 seconds sys
+
+
+====================================================================
+Number of threads: 1
+Elapsed time: 342.394096 seconds
+fib(40) = 102334155
+# started on Wed Apr 26 17:15:59 2023
+
+
+ Performance counter stats for './fib-omp 40':
+
+   396,242,595,827      instructions              #    0.34  insn per cycle           (37.49%)
+   396,276,868,864      inst_retired.any                                              (37.49%)
+ 1,165,336,472,617      cycles                                                        (41.66%)
+ 1,165,368,656,274      cpu_clk_unhalted.thread                                       (41.66%)
+   811,761,466,145      cycle_activity.stalls_total                                     (41.66%)
+       129,331,760      L1-dcache-load-misses     #    0.13% of all L1-dcache accesses  (41.66%)
+   100,440,396,736      L1-dcache-loads                                               (41.66%)
+   <not supported>      L1-dcache-store-misses                                      
+    74,222,853,956      L1-dcache-stores                                              (41.67%)
+        55,721,553      L1-icache-load-misses                                         (41.67%)
+   <not supported>      L1-icache-loads                                             
+        42,673,162      l2_rqsts.miss                                                 (41.67%)
+       278,383,445      l2_rqsts.references                                           (41.67%)
+           342,499      LLC-load-misses           #    5.75% of all LL-cache accesses  (37.51%)
+         5,952,504      LLC-loads                                                     (33.34%)
+           464,630      LLC-store-misses                                              (8.34%)
+         7,107,128      LLC-stores                                                    (8.33%)
+    63,906,870,351      branches                                                      (12.50%)
+       492,329,978      branch-misses             #    0.77% of all branches          (16.67%)
+        55,967,722      icache_64b.iftag_miss                                         (20.83%)
+       512,986,852      itlb_misses.walk_completed                                     (25.00%)
+       331,241,688      dTLB-load-misses          #    0.33% of all dTLB cache accesses  (29.16%)
+   100,436,308,729      dTLB-loads                                                    (33.33%)
+           215,335      dTLB-store-misses                                             (33.33%)
+    74,212,374,264      dTLB-store                                                    (33.33%)
+       515,983,490      iTLB-load-misses                                              (33.32%)
+
+     342.395080835 seconds time elapsed
+
+     212.949549000 seconds user
+     129.428079000 seconds sys
+
+
+====================================================================
+Number of threads: 2
+Elapsed time: 211.793531 seconds
+fib(40) = 102334155
+# started on Wed Apr 26 17:21:42 2023
+
+
+ Performance counter stats for './fib-omp 40':
+
+   419,966,768,710      instructions              #    0.36  insn per cycle           (37.49%)
+   419,987,101,378      inst_retired.any                                              (37.49%)
+ 1,179,466,020,656      cycles                                                        (41.66%)
+ 1,179,465,797,994      cpu_clk_unhalted.thread                                       (41.66%)
+   810,338,504,516      cycle_activity.stalls_total                                     (41.66%)
+       294,436,438      L1-dcache-load-misses     #    0.28% of all L1-dcache accesses  (41.66%)
+   104,224,775,208      L1-dcache-loads                                               (41.66%)
+   <not supported>      L1-dcache-store-misses                                      
+    76,642,499,198      L1-dcache-stores                                              (41.67%)
+        49,760,617      L1-icache-load-misses                                         (41.67%)
+   <not supported>      L1-icache-loads                                             
+       418,160,703      l2_rqsts.miss                                                 (41.68%)
+       713,403,415      l2_rqsts.references                                           (41.68%)
+           277,044      LLC-load-misses           #    1.70% of all LL-cache accesses  (37.51%)
+        16,279,330      LLC-loads                                                     (33.34%)
+           486,346      LLC-store-misses                                              (8.34%)
+       241,275,064      LLC-stores                                                    (8.33%)
+    70,258,332,833      branches                                                      (12.50%)
+       528,977,111      branch-misses             #    0.75% of all branches          (16.67%)
+        50,028,367      icache_64b.iftag_miss                                         (20.83%)
+       332,491,350      itlb_misses.walk_completed                                     (25.00%)
+       331,186,008      dTLB-load-misses          #    0.32% of all dTLB cache accesses  (29.17%)
+   104,211,776,569      dTLB-loads                                                    (33.33%)
+           218,402      dTLB-store-misses                                             (33.33%)
+    76,624,287,887      dTLB-store                                                    (33.33%)
+       332,434,684      iTLB-load-misses                                              (33.33%)
+
+     211.794732930 seconds time elapsed
+
+     218.704441000 seconds user
+     128.404516000 seconds sys
+
+
+====================================================================
+Number of threads: 3
+Elapsed time: 217.476711 seconds
+fib(40) = 102334155
+# started on Wed Apr 26 17:25:14 2023
+
+
+ Performance counter stats for './fib-omp 40':
+
+   428,579,015,790      instructions              #    0.36  insn per cycle           (37.50%)
+   428,576,085,739      inst_retired.any                                              (37.50%)
+ 1,190,680,492,411      cycles                                                        (41.67%)
+ 1,190,727,686,970      cpu_clk_unhalted.thread                                       (41.67%)
+   820,203,734,719      cycle_activity.stalls_total                                     (41.67%)
+       321,064,738      L1-dcache-load-misses     #    0.30% of all L1-dcache accesses  (41.67%)
+   105,346,092,489      L1-dcache-loads                                               (41.67%)
+   <not supported>      L1-dcache-store-misses                                      
+    77,314,167,528      L1-dcache-stores                                              (41.67%)
+        61,121,703      L1-icache-load-misses                                         (41.68%)
+   <not supported>      L1-icache-loads                                             
+       497,152,423      l2_rqsts.miss                                                 (41.68%)
+       850,518,093      l2_rqsts.references                                           (41.68%)
+           313,582      LLC-load-misses           #    1.25% of all LL-cache accesses  (37.51%)
+        24,993,085      LLC-loads                                                     (33.34%)
+           468,421      LLC-store-misses                                              (8.33%)
+       233,500,683      LLC-stores                                                    (8.33%)
+    72,496,588,176      branches                                                      (12.50%)
+       536,660,459      branch-misses             #    0.74% of all branches          (16.67%)
+        60,726,451      icache_64b.iftag_miss                                         (20.83%)
+       581,601,280      itlb_misses.walk_completed                                     (25.00%)
+       331,182,055      dTLB-load-misses          #    0.31% of all dTLB cache accesses  (29.16%)
+   105,335,788,157      dTLB-loads                                                    (33.33%)
+           253,286      dTLB-store-misses                                             (33.33%)
+    77,312,041,620      dTLB-store                                                    (33.33%)
+       582,215,159      iTLB-load-misses                                              (33.33%)
+
+     217.477756510 seconds time elapsed
+
+     219.392260000 seconds user
+     129.608338000 seconds sys
+
+
+====================================================================
+Number of threads: 4
+Elapsed time: 215.339087 seconds
+fib(40) = 102334155
+# started on Wed Apr 26 17:28:51 2023
+
+
+ Performance counter stats for './fib-omp 40':
+
+   449,079,836,278      instructions              #    0.38  insn per cycle           (37.50%)
+   449,069,489,402      inst_retired.any                                              (37.50%)
+ 1,193,979,444,085      cycles                                                        (41.67%)
+ 1,194,033,503,999      cpu_clk_unhalted.thread                                       (41.67%)
+   816,686,357,136      cycle_activity.stalls_total                                     (41.67%)
+       324,333,423      L1-dcache-load-misses     #    0.30% of all L1-dcache accesses  (41.67%)
+   108,765,386,677      L1-dcache-loads                                               (41.67%)
+   <not supported>      L1-dcache-store-misses                                      
+    79,486,381,795      L1-dcache-stores                                              (41.68%)
+        70,637,215      L1-icache-load-misses                                         (41.68%)
+   <not supported>      L1-icache-loads                                             
+       533,066,301      l2_rqsts.miss                                                 (41.68%)
+       903,133,233      l2_rqsts.references                                           (41.68%)
+           777,889      LLC-load-misses           #    2.69% of all LL-cache accesses  (37.51%)
+        28,952,606      LLC-loads                                                     (33.34%)
+         1,123,566      LLC-store-misses                                              (8.33%)
+       216,586,403      LLC-stores                                                    (8.33%)
+    77,744,836,757      branches                                                      (12.50%)
+       572,650,426      branch-misses             #    0.74% of all branches          (16.67%)
+        70,476,398      icache_64b.iftag_miss                                         (20.84%)
+       570,084,514      itlb_misses.walk_completed                                     (25.00%)
+       331,202,385      dTLB-load-misses          #    0.30% of all dTLB cache accesses  (29.17%)
+   108,764,450,787      dTLB-loads                                                    (33.33%)
+           275,948      dTLB-store-misses                                             (33.33%)
+    79,484,138,183      dTLB-store                                                    (33.33%)
+       570,350,545      iTLB-load-misses                                              (33.33%)
+
+     215.340074939 seconds time elapsed
+
+     222.204765000 seconds user
+     128.069997000 seconds sys
+
+
+====================================================================
