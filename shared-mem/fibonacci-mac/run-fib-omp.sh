@@ -10,7 +10,7 @@ do
 		for i in $(seq 1 $(sysctl -n hw.physicalcpu))
 		do
 			OMP_NUM_THREADS=$i ./fib-omp $j >> $file 
-			echo "====================================================================" >> $file
+			echo "==================================" >> $file
 		done
 	done
 done
