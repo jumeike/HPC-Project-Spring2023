@@ -7,7 +7,7 @@ for iteration in {1..10..1}
 do
 	for j in 10 20 30 40 50 
 	do
-		for i in $(seq 1 $(nproc))
+		for i in $(seq 1 $(sysctl -n hw.physicalcpu))
 		do
 			CILK_NWORKERS=$i ./fib-cilk $j >> $file 
 			echo "====================================================================" >> $file
