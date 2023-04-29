@@ -1,11 +1,11 @@
 #!/bin/bash
 
-file=result-fib.txt
+file=result-fib-cilk.txt
 rm -f $file
 touch $file
 for iteration in {1..10..1}
 do
-	for j in 10 20 30 40 50 
+	for j in 10 20 30 40 
 	do
 		for i in $(seq 1 $(nproc))
 		do
