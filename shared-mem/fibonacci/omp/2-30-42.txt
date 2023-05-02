@@ -1,0 +1,39 @@
+Elapsed time: 2.198383 seconds
+# started on Wed Apr 26 21:05:21 2023
+
+
+ Performance counter stats for './fib-omp 30':
+
+     3,361,628,835      instructions              #    0.35  insn per cycle           (37.34%)
+     3,365,617,657      inst_retired.any                                              (37.40%)
+     9,540,169,770      cycles                                                        (41.64%)
+     9,551,074,207      cpu_clk_unhalted.thread                                       (41.71%)
+     6,581,750,974      cycle_activity.stalls_total                                     (41.77%)
+         2,512,819      L1-dcache-load-misses     #    0.30% of all L1-dcache accesses  (41.84%)
+       840,974,842      L1-dcache-loads                                               (41.90%)
+   <not supported>      L1-dcache-store-misses                                      
+       617,179,909      L1-dcache-stores                                              (41.97%)
+           700,095      L1-icache-load-misses                                         (42.07%)
+   <not supported>      L1-icache-loads                                             
+         3,813,271      l2_rqsts.miss                                                 (42.25%)
+         6,522,854      l2_rqsts.references                                           (42.42%)
+             3,334      LLC-load-misses           #    2.11% of all LL-cache accesses  (38.09%)
+           157,794      LLC-loads                                                     (33.74%)
+             3,001      LLC-store-misses                                              (8.26%)
+         1,882,214      LLC-stores                                                    (8.45%)
+       553,775,443      branches                                                      (12.66%)
+         4,220,665      branch-misses             #    0.76% of all branches          (16.86%)
+           536,604      icache_64b.iftag_miss                                         (21.05%)
+         2,657,761      itlb_misses.walk_completed                                     (25.24%)
+         2,660,673      dTLB-load-misses          #    0.32% of all dTLB cache accesses  (29.41%)
+       830,791,842      dTLB-loads                                                    (33.57%)
+             2,278      dTLB-store-misses                                             (33.53%)
+       612,028,435      dTLB-store                                                    (33.46%)
+         2,672,039      iTLB-load-misses                                              (33.31%)
+
+       2.199585650 seconds time elapsed
+
+       2.352023000 seconds user
+       1.232012000 seconds sys
+
+

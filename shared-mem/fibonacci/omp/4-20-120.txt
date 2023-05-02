@@ -1,0 +1,39 @@
+Elapsed time: 0.019114 seconds
+# started on Wed Apr 26 22:46:59 2023
+
+
+ Performance counter stats for './fib-omp 20':
+
+        24,530,350      instructions              #    0.22  insn per cycle           (0.38%)
+        16,930,764      inst_retired.any                                              (47.79%)
+       109,607,509      cycles                                                        (71.70%)
+       140,044,108      cpu_clk_unhalted.thread                                       (85.20%)
+       144,613,626      cycle_activity.stalls_total                                     (94.14%)
+            69,121      L1-dcache-load-misses     #    0.86% of all L1-dcache accesses
+         8,072,672      L1-dcache-loads                                             
+   <not supported>      L1-dcache-store-misses                                      
+         5,312,150      L1-dcache-stores                                            
+           116,706      L1-icache-load-misses                                       
+   <not supported>      L1-icache-loads                                             
+           167,527      l2_rqsts.miss                                               
+           244,452      l2_rqsts.references                                           (99.89%)
+             3,105      LLC-load-misses           #   12.24% of all LL-cache accesses  (58.58%)
+            25,374      LLC-loads                                                     (15.27%)
+     <not counted>      LLC-store-misses                                              (0.00%)
+     <not counted>      LLC-stores                                                    (0.00%)
+     <not counted>      branches                                                      (0.00%)
+     <not counted>      branch-misses                                                 (0.00%)
+     <not counted>      icache_64b.iftag_miss                                         (0.00%)
+     <not counted>      itlb_misses.walk_completed                                     (0.00%)
+     <not counted>      dTLB-load-misses                                              (0.00%)
+     <not counted>      dTLB-loads                                                    (0.00%)
+     <not counted>      dTLB-store-misses                                             (0.00%)
+     <not counted>      dTLB-store                                                    (0.00%)
+     <not counted>      iTLB-load-misses                                              (0.00%)
+
+       0.020282779 seconds time elapsed
+
+       0.063161000 seconds user
+       0.008421000 seconds sys
+
+

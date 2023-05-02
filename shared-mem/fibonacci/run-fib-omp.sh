@@ -1,11 +1,11 @@
 #!/bin/bash
 
 file=result-fib-omp.txt
-rm -f $file
-touch $file
+#rm -f $file
+#touch $file
 for iterations in {1..10..1}
 do
-	for j in 10 20 30 40
+	for j in 50
 	do
 		for i in $(seq 1 $(nproc))
 		do
