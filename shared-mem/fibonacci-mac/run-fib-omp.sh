@@ -3,7 +3,7 @@
 file=result-omp.txt
 rm -f $file
 touch $file
-for iterations in {1..10..1}
+for iterations in $(seq 1 10)
 do
 	for j in 10 20 30 40 50
 	do
