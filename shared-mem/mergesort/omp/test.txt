@@ -1,0 +1,41 @@
+Number of threads: 1
+Elapsed time: 2.8513 seconds
+# started on Thu Apr 27 10:13:57 2023
+
+
+ Performance counter stats for './ms-omp 1000000':
+
+     3,251,779,207      instructions              #    0.42  insn per cycle           (37.41%)
+     3,278,971,483      inst_retired.any                                              (37.41%)
+     7,723,653,490      cycles                                                        (41.58%)
+     7,723,854,717      cpu_clk_unhalted.thread                                       (41.58%)
+     5,083,308,157      cycle_activity.stalls_total                                     (41.58%)
+         6,458,039      L1-dcache-load-misses     #    0.79% of all L1-dcache accesses  (41.58%)
+       814,744,044      L1-dcache-loads                                               (41.58%)
+   <not supported>      L1-dcache-store-misses
+       567,834,765      L1-dcache-stores                                              (41.58%)
+           943,948      L1-icache-load-misses                                         (41.58%)
+   <not supported>      L1-icache-loads
+         4,159,087      l2_rqsts.miss                                                 (41.67%)
+        11,678,599      l2_rqsts.references                                           (41.73%)
+            77,367      LLC-load-misses           #   20.55% of all LL-cache accesses  (37.56%)
+           376,503      LLC-loads                                                     (33.39%)
+             6,025      LLC-store-misses                                              (8.35%)
+           310,449      LLC-stores                                                    (8.35%)
+       577,529,898      branches                                                      (12.52%)
+        16,585,999      branch-misses             #    2.87% of all branches          (16.69%)
+           674,219      icache_64b.iftag_miss                                         (20.86%)
+         2,958,925      itlb_misses.walk_completed                                     (25.04%)
+         2,038,867      dTLB-load-misses          #    0.26% of all dTLB cache accesses  (29.21%)
+       782,503,246      dTLB-loads                                                    (33.38%)
+            13,581      dTLB-store-misses                                             (33.38%)
+       551,992,860      dTLB-store                                                    (33.38%)
+         2,829,129      iTLB-load-misses                                              (33.29%)
+
+       2.876431822 seconds time elapsed
+
+       1.888182000 seconds user
+       0.988095000 seconds sys
+
+
+====================================================================

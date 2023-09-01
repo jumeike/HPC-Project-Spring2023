@@ -1,0 +1,38 @@
+Elapsed time: 148.886 seconds
+# started on Thu Apr 27 23:43:04 2023
+
+
+
+   365,965,756,027      instructions              #    0.46  insn per cycle           (37.49%)
+   366,026,065,939      inst_retired.any                                              (37.49%)
+   797,784,800,298      cycles                                                        (41.66%)
+   797,806,792,865      cpu_clk_unhalted.thread                                       (41.66%)
+   519,922,421,413      cycle_activity.stalls_total                                     (41.66%)
+       909,804,486      L1-dcache-load-misses     #    1.04% of all L1-dcache accesses  (41.66%)
+    87,761,320,254      L1-dcache-loads                                               (41.67%)
+   <not supported>      L1-dcache-store-misses                                      
+    60,468,292,025      L1-dcache-stores                                              (41.67%)
+        70,690,574      L1-icache-load-misses                                         (41.67%)
+   <not supported>      L1-icache-loads                                             
+       933,507,277      l2_rqsts.miss                                                 (41.67%)
+     1,918,035,889      l2_rqsts.references                                           (41.67%)
+        15,018,816      LLC-load-misses           #   25.02% of all LL-cache accesses  (37.51%)
+        60,030,717      LLC-loads                                                     (33.34%)
+        56,797,783      LLC-store-misses                                              (8.34%)
+       268,951,944      LLC-stores                                                    (8.34%)
+    68,296,128,933      branches                                                      (12.50%)
+     1,764,145,739      branch-misses             #    2.58% of all branches          (16.67%)
+        68,539,058      icache_64b.iftag_miss                                         (20.83%)
+       264,924,728      itlb_misses.walk_completed                                     (25.00%)
+       202,660,809      dTLB-load-misses          #    0.23% of all dTLB cache accesses  (29.17%)
+    87,602,700,440      dTLB-loads                                                    (33.33%)
+         9,089,119      dTLB-store-misses                                             (33.33%)
+    60,390,857,661      dTLB-store                                                    (33.33%)
+       265,138,576      iTLB-load-misses                                              (33.32%)
+
+     151.187515111 seconds time elapsed
+
+     196.089855000 seconds user
+     100.984595000 seconds sys
+
+

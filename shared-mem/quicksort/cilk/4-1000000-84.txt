@@ -1,0 +1,40 @@
+Sorting 1000000 integers
+All sorts succeeded
+Elapsed time: 0.031479 seconds
+# started on Fri Apr 28 11:43:42 2023
+
+
+
+       129,709,951      instructions              #    1.11  insn per cycle           (9.43%)
+       137,522,154      inst_retired.any                                              (19.40%)
+       116,962,517      cycles                                                        (35.10%)
+       148,011,893      cpu_clk_unhalted.thread                                       (54.96%)
+        82,368,136      cycle_activity.stalls_total                                     (69.05%)
+           667,758      L1-dcache-load-misses     #    1.20% of all L1-dcache accesses  (78.66%)
+        55,867,869      L1-dcache-loads                                               (85.91%)
+   <not supported>      L1-dcache-store-misses                                      
+        54,157,374      L1-dcache-stores                                              (91.50%)
+           189,435      L1-icache-load-misses                                         (95.92%)
+   <not supported>      L1-icache-loads                                             
+         1,020,766      l2_rqsts.miss                                                 (99.49%)
+         2,079,646      l2_rqsts.references                                           (96.96%)
+             4,771      LLC-load-misses           #   11.59% of all LL-cache accesses  (87.69%)
+            41,153      LLC-loads                                                     (63.03%)
+     <not counted>      LLC-store-misses                                              (0.00%)
+     <not counted>      LLC-stores                                                    (0.00%)
+     <not counted>      branches                                                      (0.00%)
+     <not counted>      branch-misses                                                 (0.00%)
+     <not counted>      icache_64b.iftag_miss                                         (0.00%)
+     <not counted>      itlb_misses.walk_completed                                     (0.00%)
+     <not counted>      dTLB-load-misses                                              (0.00%)
+     <not counted>      dTLB-loads                                                    (0.00%)
+     <not counted>      dTLB-store-misses                                             (0.00%)
+     <not counted>      dTLB-store                                                    (0.00%)
+     <not counted>      iTLB-load-misses                                              (0.00%)
+
+       0.041442757 seconds time elapsed
+
+       0.125075000 seconds user
+       0.000000000 seconds sys
+
+
