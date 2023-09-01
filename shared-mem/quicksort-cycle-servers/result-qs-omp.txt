@@ -1,0 +1,440 @@
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 1.125877 seconds
+==========================================
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 0.971887 seconds
+==========================================
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 0.952260 seconds
+==========================================
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 0.941320 seconds
+==========================================
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 1.079420 seconds
+==========================================
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 1.072896 seconds
+==========================================
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 0.945226 seconds
+==========================================
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 0.961857 seconds
+==========================================
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 9
+Elapsed time: 0.942192 seconds
+==========================================
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 10
+Elapsed time: 0.945286 seconds
+==========================================
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 11
+Elapsed time: 0.949065 seconds
+==========================================
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 12
+Elapsed time: 0.957762 seconds
+==========================================
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 10.134675 seconds
+==========================================
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 5.681961 seconds
+==========================================
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 5.504297 seconds
+==========================================
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 5.757640 seconds
+==========================================
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 5.569648 seconds
+==========================================
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 5.893213 seconds
+==========================================
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 5.602751 seconds
+==========================================
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 5.674058 seconds
+==========================================
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 9
+Elapsed time: 6.137767 seconds
+==========================================
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 10
+Elapsed time: 6.009151 seconds
+==========================================
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 11
+Elapsed time: 5.619956 seconds
+==========================================
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 12
+Elapsed time: 6.468950 seconds
+==========================================
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 107.814039 seconds
+==========================================
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 85.141887 seconds
+==========================================
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 84.975878 seconds
+==========================================
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 85.190905 seconds
+==========================================
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 85.691754 seconds
+==========================================
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 84.896828 seconds
+==========================================
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 85.668562 seconds
+==========================================
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 87.133012 seconds
+==========================================
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 9
+Elapsed time: 84.093326 seconds
+==========================================
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 10
+Elapsed time: 84.920952 seconds
+==========================================
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 11
+Elapsed time: 87.136275 seconds
+==========================================
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 12
+Elapsed time: 88.681792 seconds
+==========================================
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 1041.534398 seconds
+==========================================
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 862.017522 seconds
+==========================================
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 891.567239 seconds
+==========================================
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 884.070895 seconds
+==========================================
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 889.568301 seconds
+==========================================
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 883.776084 seconds
+==========================================
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 864.351010 seconds
+==========================================
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 863.757358 seconds
+==========================================
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 9
+Elapsed time: 865.115287 seconds
+==========================================
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 10
+Elapsed time: 862.705902 seconds
+==========================================
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 11
+Elapsed time: 865.782339 seconds
+==========================================
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 12
+Elapsed time: 866.440327 seconds
+==========================================
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 1.107544 seconds
+==========================================
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 0.953609 seconds
+==========================================
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 0.947132 seconds
+==========================================
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 0.949945 seconds
+==========================================
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 0.951850 seconds
+==========================================
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 0.958659 seconds
+==========================================
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 0.950759 seconds
+==========================================
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 0.977067 seconds
+==========================================
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 9
+Elapsed time: 0.948164 seconds
+==========================================
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 10
+Elapsed time: 0.950599 seconds
+==========================================
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 11
+Elapsed time: 0.944469 seconds
+==========================================
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 12
+Elapsed time: 0.948110 seconds
+==========================================
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 10.415178 seconds
+==========================================
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 6.252826 seconds
+==========================================
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 5.498401 seconds
+==========================================
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 6.052827 seconds
+==========================================
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 6.262843 seconds
+==========================================
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 5.529704 seconds
+==========================================
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 5.648034 seconds
+==========================================
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 5.989245 seconds
+==========================================
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 9
+Elapsed time: 5.692705 seconds
+==========================================
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 10
+Elapsed time: 6.146805 seconds
+==========================================
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 11
+Elapsed time: 5.796825 seconds
+==========================================
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 12
+Elapsed time: 5.905774 seconds
+==========================================
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 107.470626 seconds
+==========================================
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 87.509703 seconds
+==========================================
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 85.831701 seconds
+==========================================
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 85.885059 seconds
+==========================================
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 84.303899 seconds
+==========================================
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 83.856160 seconds
+==========================================
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 85.273223 seconds
+==========================================
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 84.125659 seconds
+==========================================
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 9
+Elapsed time: 84.669444 seconds
+==========================================
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 10
+Elapsed time: 83.934858 seconds
+==========================================
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 11
+Elapsed time: 84.834141 seconds
+==========================================
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 12
+Elapsed time: 83.973796 seconds
+==========================================
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 1053.502980 seconds
+==========================================
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 870.910283 seconds
+==========================================
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 863.335988 seconds
+==========================================
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 863.078282 seconds
+==========================================

@@ -1,0 +1,1440 @@
+Number of threads: 1
+Elapsed time: 1.25868 seconds
+==================================
+Number of threads: 2
+Elapsed time: 0.698867 seconds
+==================================
+Number of threads: 3
+Elapsed time: 0.673068 seconds
+==================================
+Number of threads: 4
+Elapsed time: 0.654034 seconds
+==================================
+Number of threads: 5
+Elapsed time: 0.66231 seconds
+==================================
+Number of threads: 6
+Elapsed time: 0.657096 seconds
+==================================
+Number of threads: 7
+Elapsed time: 0.67237 seconds
+==================================
+Number of threads: 8
+Elapsed time: 0.68018 seconds
+==================================
+Number of threads: 9
+Elapsed time: 0.695811 seconds
+==================================
+Number of threads: 10
+Elapsed time: 0.679812 seconds
+==================================
+Number of threads: 11
+Elapsed time: 0.654285 seconds
+==================================
+Number of threads: 12
+Elapsed time: 0.689666 seconds
+==================================
+Number of threads: 1
+Elapsed time: 12.2752 seconds
+==================================
+Number of threads: 2
+Elapsed time: 6.47426 seconds
+==================================
+Number of threads: 3
+Elapsed time: 6.57367 seconds
+==================================
+Number of threads: 4
+Elapsed time: 6.52457 seconds
+==================================
+Number of threads: 5
+Elapsed time: 6.57659 seconds
+==================================
+Number of threads: 6
+Elapsed time: 6.60549 seconds
+==================================
+Number of threads: 7
+Elapsed time: 6.60643 seconds
+==================================
+Number of threads: 8
+Elapsed time: 7.53658 seconds
+==================================
+Number of threads: 9
+Elapsed time: 6.43634 seconds
+==================================
+Number of threads: 10
+Elapsed time: 6.64278 seconds
+==================================
+Number of threads: 11
+Elapsed time: 6.8066 seconds
+==================================
+Number of threads: 12
+Elapsed time: 6.61561 seconds
+==================================
+Number of threads: 1
+Elapsed time: 120.301 seconds
+==================================
+Number of threads: 2
+Elapsed time: 68.039 seconds
+==================================
+Number of threads: 3
+Elapsed time: 71.2385 seconds
+==================================
+Number of threads: 4
+Elapsed time: 66.507 seconds
+==================================
+Number of threads: 5
+Elapsed time: 67.2172 seconds
+==================================
+Number of threads: 6
+Elapsed time: 68.2841 seconds
+==================================
+Number of threads: 7
+Elapsed time: 71.0088 seconds
+==================================
+Number of threads: 8
+Elapsed time: 64.7477 seconds
+==================================
+Number of threads: 9
+Elapsed time: 68.8796 seconds
+==================================
+Number of threads: 10
+Elapsed time: 66.4796 seconds
+==================================
+Number of threads: 11
+Elapsed time: 66.3675 seconds
+==================================
+Number of threads: 12
+Elapsed time: 66.0931 seconds
+==================================
+Number of threads: 1
+Elapsed time: 1202.48 seconds
+==================================
+Number of threads: 2
+Elapsed time: 665.934 seconds
+==================================
+Number of threads: 3
+Elapsed time: 671.712 seconds
+==================================
+Number of threads: 4
+Elapsed time: 682.386 seconds
+==================================
+Number of threads: 5
+Elapsed time: 663.389 seconds
+==================================
+Number of threads: 6
+Elapsed time: 671.555 seconds
+==================================
+Number of threads: 7
+Elapsed time: 667.278 seconds
+==================================
+Number of threads: 8
+Elapsed time: 662.108 seconds
+==================================
+Number of threads: 9
+Elapsed time: 659.793 seconds
+==================================
+Number of threads: 10
+Elapsed time: 654.871 seconds
+==================================
+Number of threads: 11
+Elapsed time: 659.162 seconds
+==================================
+Number of threads: 12
+Elapsed time: 660.339 seconds
+==================================
+Number of threads: 1
+Elapsed time: 1.26142 seconds
+==================================
+Number of threads: 2
+Elapsed time: 0.663413 seconds
+==================================
+Number of threads: 3
+Elapsed time: 0.706847 seconds
+==================================
+Number of threads: 4
+Elapsed time: 0.688474 seconds
+==================================
+Number of threads: 5
+Elapsed time: 0.697055 seconds
+==================================
+Number of threads: 6
+Elapsed time: 0.674871 seconds
+==================================
+Number of threads: 7
+Elapsed time: 0.660692 seconds
+==================================
+Number of threads: 8
+Elapsed time: 0.68613 seconds
+==================================
+Number of threads: 9
+Elapsed time: 0.657963 seconds
+==================================
+Number of threads: 10
+Elapsed time: 0.682051 seconds
+==================================
+Number of threads: 11
+Elapsed time: 0.676626 seconds
+==================================
+Number of threads: 12
+Elapsed time: 0.649979 seconds
+==================================
+Number of threads: 1
+Elapsed time: 11.3807 seconds
+==================================
+Number of threads: 2
+Elapsed time: 6.65645 seconds
+==================================
+Number of threads: 3
+Elapsed time: 7.18228 seconds
+==================================
+Number of threads: 4
+Elapsed time: 6.68072 seconds
+==================================
+Number of threads: 5
+Elapsed time: 6.79966 seconds
+==================================
+Number of threads: 6
+Elapsed time: 6.84066 seconds
+==================================
+Number of threads: 7
+Elapsed time: 6.78883 seconds
+==================================
+Number of threads: 8
+Elapsed time: 6.62195 seconds
+==================================
+Number of threads: 9
+Elapsed time: 6.47293 seconds
+==================================
+Number of threads: 10
+Elapsed time: 6.63927 seconds
+==================================
+Number of threads: 11
+Elapsed time: 6.78264 seconds
+==================================
+Number of threads: 12
+Elapsed time: 6.31094 seconds
+==================================
+Number of threads: 1
+Elapsed time: 118.16 seconds
+==================================
+Number of threads: 2
+Elapsed time: 74.2989 seconds
+==================================
+Number of threads: 3
+Elapsed time: 66.903 seconds
+==================================
+Number of threads: 4
+Elapsed time: 68.4905 seconds
+==================================
+Number of threads: 5
+Elapsed time: 68.9102 seconds
+==================================
+Number of threads: 6
+Elapsed time: 68.9566 seconds
+==================================
+Number of threads: 7
+Elapsed time: 71.9543 seconds
+==================================
+Number of threads: 8
+Elapsed time: 67.8959 seconds
+==================================
+Number of threads: 9
+Elapsed time: 67.4985 seconds
+==================================
+Number of threads: 10
+Elapsed time: 67.2775 seconds
+==================================
+Number of threads: 11
+Elapsed time: 69.0544 seconds
+==================================
+Number of threads: 12
+Elapsed time: 67.9356 seconds
+==================================
+Number of threads: 1
+Elapsed time: 1172.29 seconds
+==================================
+Number of threads: 2
+Elapsed time: 661.136 seconds
+==================================
+Number of threads: 3
+Elapsed time: 671.413 seconds
+==================================
+Number of threads: 4
+Elapsed time: 677.097 seconds
+==================================
+Number of threads: 5
+Elapsed time: 651.355 seconds
+==================================
+Number of threads: 6
+Elapsed time: 673.787 seconds
+==================================
+Number of threads: 7
+Elapsed time: 659.554 seconds
+==================================
+Number of threads: 8
+Elapsed time: 664.133 seconds
+==================================
+Number of threads: 9
+Elapsed time: 669.206 seconds
+==================================
+Number of threads: 10
+Elapsed time: 652.122 seconds
+==================================
+Number of threads: 11
+Elapsed time: 657.01 seconds
+==================================
+Number of threads: 12
+Elapsed time: 675.993 seconds
+==================================
+Number of threads: 1
+Elapsed time: 1.26203 seconds
+==================================
+Number of threads: 2
+Elapsed time: 0.704533 seconds
+==================================
+Number of threads: 3
+Elapsed time: 0.669797 seconds
+==================================
+Number of threads: 4
+Elapsed time: 0.657446 seconds
+==================================
+Number of threads: 5
+Elapsed time: 0.680134 seconds
+==================================
+Number of threads: 6
+Elapsed time: 0.672783 seconds
+==================================
+Number of threads: 7
+Elapsed time: 0.655104 seconds
+==================================
+Number of threads: 8
+Elapsed time: 0.696946 seconds
+==================================
+Number of threads: 9
+Elapsed time: 0.689937 seconds
+==================================
+Number of threads: 10
+Elapsed time: 0.696199 seconds
+==================================
+Number of threads: 11
+Elapsed time: 0.676791 seconds
+==================================
+Number of threads: 12
+Elapsed time: 0.661012 seconds
+==================================
+Number of threads: 1
+Elapsed time: 12.0677 seconds
+==================================
+Number of threads: 2
+Elapsed time: 6.5019 seconds
+==================================
+Number of threads: 3
+Elapsed time: 6.75614 seconds
+==================================
+Number of threads: 4
+Elapsed time: 6.70611 seconds
+==================================
+Number of threads: 5
+Elapsed time: 6.65903 seconds
+==================================
+Number of threads: 6
+Elapsed time: 6.60205 seconds
+==================================
+Number of threads: 7
+Elapsed time: 6.467 seconds
+==================================
+Number of threads: 8
+Elapsed time: 6.72416 seconds
+==================================
+Number of threads: 9
+Elapsed time: 6.34486 seconds
+==================================
+Number of threads: 10
+Elapsed time: 6.64523 seconds
+==================================
+Number of threads: 11
+Elapsed time: 6.49706 seconds
+==================================
+Number of threads: 12
+Elapsed time: 6.74133 seconds
+==================================
+Number of threads: 1
+Elapsed time: 126.389 seconds
+==================================
+Number of threads: 2
+Elapsed time: 65.5629 seconds
+==================================
+Number of threads: 3
+Elapsed time: 67.5107 seconds
+==================================
+Number of threads: 4
+Elapsed time: 66.6245 seconds
+==================================
+Number of threads: 5
+Elapsed time: 69.7532 seconds
+==================================
+Number of threads: 6
+Elapsed time: 68.1085 seconds
+==================================
+Number of threads: 7
+Elapsed time: 68.5403 seconds
+==================================
+Number of threads: 8
+Elapsed time: 68.1066 seconds
+==================================
+Number of threads: 9
+Elapsed time: 71.6754 seconds
+==================================
+Number of threads: 10
+Elapsed time: 67.8545 seconds
+==================================
+Number of threads: 11
+Elapsed time: 73.0241 seconds
+==================================
+Number of threads: 12
+Elapsed time: 72.2768 seconds
+==================================
+Number of threads: 1
+Elapsed time: 1195.78 seconds
+==================================
+Number of threads: 2
+Elapsed time: 660.247 seconds
+==================================
+Number of threads: 3
+Elapsed time: 668.346 seconds
+==================================
+Number of threads: 4
+Elapsed time: 676.444 seconds
+==================================
+Number of threads: 5
+Elapsed time: 667.494 seconds
+==================================
+Number of threads: 6
+Elapsed time: 686.124 seconds
+==================================
+Number of threads: 7
+Elapsed time: 652.49 seconds
+==================================
+Number of threads: 8
+Elapsed time: 652.9 seconds
+==================================
+Number of threads: 9
+Elapsed time: 668.568 seconds
+==================================
+Number of threads: 10
+Elapsed time: 672.334 seconds
+==================================
+Number of threads: 11
+Elapsed time: 678.401 seconds
+==================================
+Number of threads: 12
+Elapsed time: 633.96 seconds
+==================================
+Number of threads: 1
+Elapsed time: 1.25846 seconds
+==================================
+Number of threads: 2
+Elapsed time: 0.762304 seconds
+==================================
+Number of threads: 3
+Elapsed time: 0.694174 seconds
+==================================
+Number of threads: 4
+Elapsed time: 0.669073 seconds
+==================================
+Number of threads: 5
+Elapsed time: 0.649478 seconds
+==================================
+Number of threads: 6
+Elapsed time: 0.661712 seconds
+==================================
+Number of threads: 7
+Elapsed time: 0.66165 seconds
+==================================
+Number of threads: 8
+Elapsed time: 0.649228 seconds
+==================================
+Number of threads: 9
+Elapsed time: 0.680042 seconds
+==================================
+Number of threads: 10
+Elapsed time: 0.651704 seconds
+==================================
+Number of threads: 11
+Elapsed time: 0.65948 seconds
+==================================
+Number of threads: 12
+Elapsed time: 0.66251 seconds
+==================================
+Number of threads: 1
+Elapsed time: 12.7689 seconds
+==================================
+Number of threads: 2
+Elapsed time: 6.50766 seconds
+==================================
+Number of threads: 3
+Elapsed time: 6.43745 seconds
+==================================
+Number of threads: 4
+Elapsed time: 6.4114 seconds
+==================================
+Number of threads: 5
+Elapsed time: 6.16409 seconds
+==================================
+Number of threads: 6
+Elapsed time: 6.26591 seconds
+==================================
+Number of threads: 7
+Elapsed time: 6.60185 seconds
+==================================
+Number of threads: 8
+Elapsed time: 6.4429 seconds
+==================================
+Number of threads: 9
+Elapsed time: 6.39625 seconds
+==================================
+Number of threads: 10
+Elapsed time: 6.48641 seconds
+==================================
+Number of threads: 11
+Elapsed time: 6.65976 seconds
+==================================
+Number of threads: 12
+Elapsed time: 6.25611 seconds
+==================================
+Number of threads: 1
+Elapsed time: 119.441 seconds
+==================================
+Number of threads: 2
+Elapsed time: 63.9396 seconds
+==================================
+Number of threads: 3
+Elapsed time: 68.2556 seconds
+==================================
+Number of threads: 4
+Elapsed time: 67.3012 seconds
+==================================
+Number of threads: 5
+Elapsed time: 71.8002 seconds
+==================================
+Number of threads: 6
+Elapsed time: 66.9439 seconds
+==================================
+Number of threads: 7
+Elapsed time: 69.3962 seconds
+==================================
+Number of threads: 8
+Elapsed time: 68.6142 seconds
+==================================
+Number of threads: 9
+Elapsed time: 68.8282 seconds
+==================================
+Number of threads: 10
+Elapsed time: 67.8271 seconds
+==================================
+Number of threads: 11
+Elapsed time: 67.4813 seconds
+==================================
+Number of threads: 12
+Elapsed time: 69.5592 seconds
+==================================
+Number of threads: 1
+Elapsed time: 1203.95 seconds
+==================================
+Number of threads: 2
+Elapsed time: 663.24 seconds
+==================================
+Number of threads: 3
+Elapsed time: 668.969 seconds
+==================================
+Number of threads: 4
+Elapsed time: 679.865 seconds
+==================================
+Number of threads: 5
+Elapsed time: 653.611 seconds
+==================================
+Number of threads: 6
+Elapsed time: 681.784 seconds
+==================================
+Number of threads: 7
+Elapsed time: 667.525 seconds
+==================================
+Number of threads: 8
+Elapsed time: 640.057 seconds
+==================================
+Number of threads: 9
+Elapsed time: 659.093 seconds
+==================================
+Number of threads: 10
+Elapsed time: 671.188 seconds
+==================================
+Number of threads: 11
+Elapsed time: 689.153 seconds
+==================================
+Number of threads: 12
+Elapsed time: 657.353 seconds
+==================================
+Number of threads: 1
+Elapsed time: 1.09944 seconds
+==================================
+Number of threads: 2
+Elapsed time: 0.663155 seconds
+==================================
+Number of threads: 3
+Elapsed time: 0.697749 seconds
+==================================
+Number of threads: 4
+Elapsed time: 0.672107 seconds
+==================================
+Number of threads: 5
+Elapsed time: 0.685087 seconds
+==================================
+Number of threads: 6
+Elapsed time: 0.701579 seconds
+==================================
+Number of threads: 7
+Elapsed time: 0.669435 seconds
+==================================
+Number of threads: 8
+Elapsed time: 0.658501 seconds
+==================================
+Number of threads: 9
+Elapsed time: 0.682914 seconds
+==================================
+Number of threads: 10
+Elapsed time: 0.652121 seconds
+==================================
+Number of threads: 11
+Elapsed time: 0.684748 seconds
+==================================
+Number of threads: 12
+Elapsed time: 0.68692 seconds
+==================================
+Number of threads: 1
+Elapsed time: 11.4519 seconds
+==================================
+Number of threads: 2
+Elapsed time: 6.51486 seconds
+==================================
+Number of threads: 3
+Elapsed time: 6.62726 seconds
+==================================
+Number of threads: 4
+Elapsed time: 6.42169 seconds
+==================================
+Number of threads: 5
+Elapsed time: 6.78657 seconds
+==================================
+Number of threads: 6
+Elapsed time: 6.46181 seconds
+==================================
+Number of threads: 7
+Elapsed time: 6.8788 seconds
+==================================
+Number of threads: 8
+Elapsed time: 7.03236 seconds
+==================================
+Number of threads: 9
+Elapsed time: 6.58575 seconds
+==================================
+Number of threads: 10
+Elapsed time: 6.68428 seconds
+==================================
+Number of threads: 11
+Elapsed time: 6.10123 seconds
+==================================
+Number of threads: 12
+Elapsed time: 6.37536 seconds
+==================================
+Number of threads: 1
+Elapsed time: 119.297 seconds
+==================================
+Number of threads: 2
+Elapsed time: 66.7804 seconds
+==================================
+Number of threads: 3
+Elapsed time: 70.122 seconds
+==================================
+Number of threads: 4
+Elapsed time: 67.4548 seconds
+==================================
+Number of threads: 5
+Elapsed time: 70.861 seconds
+==================================
+Number of threads: 6
+Elapsed time: 68.3236 seconds
+==================================
+Number of threads: 7
+Elapsed time: 66.9258 seconds
+==================================
+Number of threads: 8
+Elapsed time: 70.099 seconds
+==================================
+Number of threads: 9
+Elapsed time: 72.2632 seconds
+==================================
+Number of threads: 10
+Elapsed time: 66.9978 seconds
+==================================
+Number of threads: 11
+Elapsed time: 67.7029 seconds
+==================================
+Number of threads: 12
+Elapsed time: 67.4876 seconds
+==================================
+Number of threads: 1
+Elapsed time: 1209.97 seconds
+==================================
+Number of threads: 2
+Elapsed time: 663.295 seconds
+==================================
+Number of threads: 3
+Elapsed time: 671.616 seconds
+==================================
+Number of threads: 4
+Elapsed time: 677.76 seconds
+==================================
+Number of threads: 5
+Elapsed time: 640.347 seconds
+==================================
+Number of threads: 6
+Elapsed time: 659.227 seconds
+==================================
+Number of threads: 7
+Elapsed time: 652.137 seconds
+==================================
+Number of threads: 8
+Elapsed time: 669.528 seconds
+==================================
+Number of threads: 9
+Elapsed time: 670.948 seconds
+==================================
+Number of threads: 10
+Elapsed time: 670.591 seconds
+==================================
+Number of threads: 11
+Elapsed time: 681.71 seconds
+==================================
+Number of threads: 12
+Elapsed time: 660.983 seconds
+==================================
+Number of threads: 1
+Elapsed time: 1.25401 seconds
+==================================
+Number of threads: 2
+Elapsed time: 0.667009 seconds
+==================================
+Number of threads: 3
+Elapsed time: 0.677975 seconds
+==================================
+Number of threads: 4
+Elapsed time: 0.688354 seconds
+==================================
+Number of threads: 5
+Elapsed time: 0.674436 seconds
+==================================
+Number of threads: 6
+Elapsed time: 0.652824 seconds
+==================================
+Number of threads: 7
+Elapsed time: 0.681344 seconds
+==================================
+Number of threads: 8
+Elapsed time: 0.662532 seconds
+==================================
+Number of threads: 9
+Elapsed time: 0.666097 seconds
+==================================
+Number of threads: 10
+Elapsed time: 0.653128 seconds
+==================================
+Number of threads: 11
+Elapsed time: 0.675974 seconds
+==================================
+Number of threads: 12
+Elapsed time: 0.672053 seconds
+==================================
+Number of threads: 1
+Elapsed time: 12.1557 seconds
+==================================
+Number of threads: 2
+Elapsed time: 6.80977 seconds
+==================================
+Number of threads: 3
+Elapsed time: 6.70329 seconds
+==================================
+Number of threads: 4
+Elapsed time: 6.14144 seconds
+==================================
+Number of threads: 5
+Elapsed time: 6.71033 seconds
+==================================
+Number of threads: 6
+Elapsed time: 6.89408 seconds
+==================================
+Number of threads: 7
+Elapsed time: 6.75276 seconds
+==================================
+Number of threads: 8
+Elapsed time: 6.82016 seconds
+==================================
+Number of threads: 9
+Elapsed time: 6.50418 seconds
+==================================
+Number of threads: 10
+Elapsed time: 6.76891 seconds
+==================================
+Number of threads: 11
+Elapsed time: 6.84143 seconds
+==================================
+Number of threads: 12
+Elapsed time: 6.78281 seconds
+==================================
+Number of threads: 1
+Elapsed time: 127.66 seconds
+==================================
+Number of threads: 2
+Elapsed time: 66.3609 seconds
+==================================
+Number of threads: 3
+Elapsed time: 66.3636 seconds
+==================================
+Number of threads: 4
+Elapsed time: 69.6992 seconds
+==================================
+Number of threads: 5
+Elapsed time: 67.375 seconds
+==================================
+Number of threads: 6
+Elapsed time: 72.4034 seconds
+==================================
+Number of threads: 7
+Elapsed time: 71.0108 seconds
+==================================
+Number of threads: 8
+Elapsed time: 70.7806 seconds
+==================================
+Number of threads: 9
+Elapsed time: 67.5382 seconds
+==================================
+Number of threads: 10
+Elapsed time: 67.5278 seconds
+==================================
+Number of threads: 11
+Elapsed time: 71.1325 seconds
+==================================
+Number of threads: 12
+Elapsed time: 69.6905 seconds
+==================================
+Number of threads: 1
+Elapsed time: 1243.46 seconds
+==================================
+Number of threads: 2
+Elapsed time: 673.626 seconds
+==================================
+Number of threads: 3
+Elapsed time: 665.079 seconds
+==================================
+Number of threads: 4
+Elapsed time: 683.141 seconds
+==================================
+Number of threads: 5
+Elapsed time: 656.445 seconds
+==================================
+Number of threads: 6
+Elapsed time: 663.695 seconds
+==================================
+Number of threads: 7
+Elapsed time: 673.085 seconds
+==================================
+Number of threads: 8
+Elapsed time: 686.382 seconds
+==================================
+Number of threads: 9
+Elapsed time: 668.01 seconds
+==================================
+Number of threads: 10
+Elapsed time: 678.387 seconds
+==================================
+Number of threads: 11
+Elapsed time: 666.33 seconds
+==================================
+Number of threads: 12
+Elapsed time: 658.665 seconds
+==================================
+Number of threads: 1
+Elapsed time: 1.25839 seconds
+==================================
+Number of threads: 2
+Elapsed time: 0.675412 seconds
+==================================
+Number of threads: 3
+Elapsed time: 0.681348 seconds
+==================================
+Number of threads: 4
+Elapsed time: 0.690157 seconds
+==================================
+Number of threads: 5
+Elapsed time: 0.681404 seconds
+==================================
+Number of threads: 6
+Elapsed time: 0.675941 seconds
+==================================
+Number of threads: 7
+Elapsed time: 0.663746 seconds
+==================================
+Number of threads: 8
+Elapsed time: 0.66031 seconds
+==================================
+Number of threads: 9
+Elapsed time: 0.650483 seconds
+==================================
+Number of threads: 10
+Elapsed time: 0.682248 seconds
+==================================
+Number of threads: 11
+Elapsed time: 0.650237 seconds
+==================================
+Number of threads: 12
+Elapsed time: 0.664042 seconds
+==================================
+Number of threads: 1
+Elapsed time: 11.8973 seconds
+==================================
+Number of threads: 2
+Elapsed time: 6.6777 seconds
+==================================
+Number of threads: 3
+Elapsed time: 6.47102 seconds
+==================================
+Number of threads: 4
+Elapsed time: 6.50402 seconds
+==================================
+Number of threads: 5
+Elapsed time: 6.74183 seconds
+==================================
+Number of threads: 6
+Elapsed time: 6.71894 seconds
+==================================
+Number of threads: 7
+Elapsed time: 6.27125 seconds
+==================================
+Number of threads: 8
+Elapsed time: 6.72574 seconds
+==================================
+Number of threads: 9
+Elapsed time: 6.67506 seconds
+==================================
+Number of threads: 10
+Elapsed time: 6.96905 seconds
+==================================
+Number of threads: 11
+Elapsed time: 6.40878 seconds
+==================================
+Number of threads: 12
+Elapsed time: 7.04687 seconds
+==================================
+Number of threads: 1
+Elapsed time: 119.86 seconds
+==================================
+Number of threads: 2
+Elapsed time: 72.7568 seconds
+==================================
+Number of threads: 3
+Elapsed time: 68.2797 seconds
+==================================
+Number of threads: 4
+Elapsed time: 67.3923 seconds
+==================================
+Number of threads: 5
+Elapsed time: 65.4369 seconds
+==================================
+Number of threads: 6
+Elapsed time: 71.4477 seconds
+==================================
+Number of threads: 7
+Elapsed time: 70.5969 seconds
+==================================
+Number of threads: 8
+Elapsed time: 67.97 seconds
+==================================
+Number of threads: 9
+Elapsed time: 69.6639 seconds
+==================================
+Number of threads: 10
+Elapsed time: 65.515 seconds
+==================================
+Number of threads: 11
+Elapsed time: 69.1141 seconds
+==================================
+Number of threads: 12
+Elapsed time: 70.0153 seconds
+==================================
+Number of threads: 1
+Elapsed time: 1182.89 seconds
+==================================
+Number of threads: 2
+Elapsed time: 659.752 seconds
+==================================
+Number of threads: 3
+Elapsed time: 666.024 seconds
+==================================
+Number of threads: 4
+Elapsed time: 671.152 seconds
+==================================
+Number of threads: 5
+Elapsed time: 659.871 seconds
+==================================
+Number of threads: 6
+Elapsed time: 672.321 seconds
+==================================
+Number of threads: 7
+Elapsed time: 668.06 seconds
+==================================
+Number of threads: 8
+Elapsed time: 678.158 seconds
+==================================
+Number of threads: 9
+Elapsed time: 649.062 seconds
+==================================
+Number of threads: 10
+Elapsed time: 687.106 seconds
+==================================
+Number of threads: 11
+Elapsed time: 676.729 seconds
+==================================
+Number of threads: 12
+Elapsed time: 635.965 seconds
+==================================
+Number of threads: 1
+Elapsed time: 1.23727 seconds
+==================================
+Number of threads: 2
+Elapsed time: 0.6652 seconds
+==================================
+Number of threads: 3
+Elapsed time: 0.66157 seconds
+==================================
+Number of threads: 4
+Elapsed time: 0.663459 seconds
+==================================
+Number of threads: 5
+Elapsed time: 0.674467 seconds
+==================================
+Number of threads: 6
+Elapsed time: 0.674183 seconds
+==================================
+Number of threads: 7
+Elapsed time: 0.76182 seconds
+==================================
+Number of threads: 8
+Elapsed time: 0.650593 seconds
+==================================
+Number of threads: 9
+Elapsed time: 0.661707 seconds
+==================================
+Number of threads: 10
+Elapsed time: 0.652928 seconds
+==================================
+Number of threads: 11
+Elapsed time: 0.663473 seconds
+==================================
+Number of threads: 12
+Elapsed time: 0.695644 seconds
+==================================
+Number of threads: 1
+Elapsed time: 11.4331 seconds
+==================================
+Number of threads: 2
+Elapsed time: 6.00313 seconds
+==================================
+Number of threads: 3
+Elapsed time: 6.39736 seconds
+==================================
+Number of threads: 4
+Elapsed time: 6.96635 seconds
+==================================
+Number of threads: 5
+Elapsed time: 6.41579 seconds
+==================================
+Number of threads: 6
+Elapsed time: 6.04159 seconds
+==================================
+Number of threads: 7
+Elapsed time: 6.9608 seconds
+==================================
+Number of threads: 8
+Elapsed time: 6.06914 seconds
+==================================
+Number of threads: 9
+Elapsed time: 7.15939 seconds
+==================================
+Number of threads: 10
+Elapsed time: 6.24856 seconds
+==================================
+Number of threads: 11
+Elapsed time: 7.20409 seconds
+==================================
+Number of threads: 12
+Elapsed time: 6.2155 seconds
+==================================
+Number of threads: 1
+Elapsed time: 121.53 seconds
+==================================
+Number of threads: 2
+Elapsed time: 67.0216 seconds
+==================================
+Number of threads: 3
+Elapsed time: 65.652 seconds
+==================================
+Number of threads: 4
+Elapsed time: 65.541 seconds
+==================================
+Number of threads: 5
+Elapsed time: 66.8301 seconds
+==================================
+Number of threads: 6
+Elapsed time: 67.223 seconds
+==================================
+Number of threads: 7
+Elapsed time: 64.8067 seconds
+==================================
+Number of threads: 8
+Elapsed time: 66.9967 seconds
+==================================
+Number of threads: 9
+Elapsed time: 64.6172 seconds
+==================================
+Number of threads: 10
+Elapsed time: 66.6949 seconds
+==================================
+Number of threads: 11
+Elapsed time: 63.9889 seconds
+==================================
+Number of threads: 12
+Elapsed time: 66.0567 seconds
+==================================
+Number of threads: 1
+Elapsed time: 1223.2 seconds
+==================================
+Number of threads: 2
+Elapsed time: 635.411 seconds
+==================================
+Number of threads: 3
+Elapsed time: 640.067 seconds
+==================================
+Number of threads: 4
+Elapsed time: 633.282 seconds
+==================================
+Number of threads: 5
+Elapsed time: 644.652 seconds
+==================================
+Number of threads: 6
+Elapsed time: 636.722 seconds
+==================================
+Number of threads: 7
+Elapsed time: 666.382 seconds
+==================================
+Number of threads: 8
+Elapsed time: 666.684 seconds
+==================================
+Number of threads: 9
+Elapsed time: 654.057 seconds
+==================================
+Number of threads: 10
+Elapsed time: 646.928 seconds
+==================================
+Number of threads: 11
+Elapsed time: 643.924 seconds
+==================================
+Number of threads: 12
+Elapsed time: 629.577 seconds
+==================================
+Number of threads: 1
+Elapsed time: 1.25619 seconds
+==================================
+Number of threads: 2
+Elapsed time: 0.65485 seconds
+==================================
+Number of threads: 3
+Elapsed time: 0.673088 seconds
+==================================
+Number of threads: 4
+Elapsed time: 0.682298 seconds
+==================================
+Number of threads: 5
+Elapsed time: 0.650626 seconds
+==================================
+Number of threads: 6
+Elapsed time: 1.24161 seconds
+==================================
+Number of threads: 7
+Elapsed time: 0.665521 seconds
+==================================
+Number of threads: 8
+Elapsed time: 0.682833 seconds
+==================================
+Number of threads: 9
+Elapsed time: 0.689105 seconds
+==================================
+Number of threads: 10
+Elapsed time: 0.663129 seconds
+==================================
+Number of threads: 11
+Elapsed time: 0.669851 seconds
+==================================
+Number of threads: 12
+Elapsed time: 0.697995 seconds
+==================================
+Number of threads: 1
+Elapsed time: 11.7624 seconds
+==================================
+Number of threads: 2
+Elapsed time: 6.25064 seconds
+==================================
+Number of threads: 3
+Elapsed time: 6.25297 seconds
+==================================
+Number of threads: 4
+Elapsed time: 6.13959 seconds
+==================================
+Number of threads: 5
+Elapsed time: 6.22161 seconds
+==================================
+Number of threads: 6
+Elapsed time: 6.27353 seconds
+==================================
+Number of threads: 7
+Elapsed time: 6.72029 seconds
+==================================
+Number of threads: 8
+Elapsed time: 7.0559 seconds
+==================================
+Number of threads: 9
+Elapsed time: 6.13045 seconds
+==================================
+Number of threads: 10
+Elapsed time: 6.3252 seconds
+==================================
+Number of threads: 11
+Elapsed time: 7.15898 seconds
+==================================
+Number of threads: 12
+Elapsed time: 6.617 seconds
+==================================
+Number of threads: 1
+Elapsed time: 125.947 seconds
+==================================
+Number of threads: 2
+Elapsed time: 65.6768 seconds
+==================================
+Number of threads: 3
+Elapsed time: 68.2131 seconds
+==================================
+Number of threads: 4
+Elapsed time: 65.4083 seconds
+==================================
+Number of threads: 5
+Elapsed time: 66.2625 seconds
+==================================
+Number of threads: 6
+Elapsed time: 64.7884 seconds
+==================================
+Number of threads: 7
+Elapsed time: 66.17 seconds
+==================================
+Number of threads: 8
+Elapsed time: 67.2035 seconds
+==================================
+Number of threads: 9
+Elapsed time: 63.3044 seconds
+==================================
+Number of threads: 10
+Elapsed time: 65.153 seconds
+==================================
+Number of threads: 11
+Elapsed time: 64.2505 seconds
+==================================
+Number of threads: 12
+Elapsed time: 64.9189 seconds
+==================================
+Number of threads: 1
+Elapsed time: 1180.99 seconds
+==================================
+Number of threads: 2
+Elapsed time: 637.628 seconds
+==================================
+Number of threads: 3
+Elapsed time: 631.077 seconds
+==================================
+Number of threads: 4
+Elapsed time: 635.746 seconds
+==================================
+Number of threads: 5
+Elapsed time: 648.57 seconds
+==================================
+Number of threads: 6
+Elapsed time: 653.226 seconds
+==================================
+Number of threads: 7
+Elapsed time: 637.83 seconds
+==================================
+Number of threads: 8
+Elapsed time: 635.461 seconds
+==================================
+Number of threads: 9
+Elapsed time: 638.189 seconds
+==================================
+Number of threads: 10
+Elapsed time: 640.471 seconds
+==================================
+Number of threads: 11
+Elapsed time: 628.747 seconds
+==================================
+Number of threads: 12
+Elapsed time: 643.292 seconds
+==================================
+Number of threads: 1
+Elapsed time: 1.25291 seconds
+==================================
+Number of threads: 2
+Elapsed time: 0.72616 seconds
+==================================
+Number of threads: 3
+Elapsed time: 0.66551 seconds
+==================================
+Number of threads: 4
+Elapsed time: 0.737886 seconds
+==================================
+Number of threads: 5
+Elapsed time: 0.664361 seconds
+==================================
+Number of threads: 6
+Elapsed time: 0.662037 seconds
+==================================
+Number of threads: 7
+Elapsed time: 0.657781 seconds
+==================================
+Number of threads: 8
+Elapsed time: 0.658418 seconds
+==================================
+Number of threads: 9
+Elapsed time: 0.664161 seconds
+==================================
+Number of threads: 10
+Elapsed time: 0.660982 seconds
+==================================
+Number of threads: 11
+Elapsed time: 0.660586 seconds
+==================================
+Number of threads: 12
+Elapsed time: 0.606916 seconds
+==================================
+Number of threads: 1
+Elapsed time: 12.606 seconds
+==================================
+Number of threads: 2
+Elapsed time: 7.3503 seconds
+==================================
+Number of threads: 3
+Elapsed time: 6.87783 seconds
+==================================
+Number of threads: 4
+Elapsed time: 6.79021 seconds
+==================================
+Number of threads: 5
+Elapsed time: 6.48894 seconds
+==================================
+Number of threads: 6
+Elapsed time: 6.66182 seconds
+==================================
+Number of threads: 7
+Elapsed time: 6.00215 seconds
+==================================
+Number of threads: 8
+Elapsed time: 7.41426 seconds
+==================================
+Number of threads: 9
+Elapsed time: 6.1921 seconds
+==================================
+Number of threads: 10
+Elapsed time: 6.27703 seconds
+==================================
+Number of threads: 11
+Elapsed time: 6.23624 seconds
+==================================
+Number of threads: 12
+Elapsed time: 6.15205 seconds
+==================================
+Number of threads: 1
+Elapsed time: 120.1 seconds
+==================================
+Number of threads: 2
+Elapsed time: 64.6308 seconds
+==================================
+Number of threads: 3
+Elapsed time: 67.5948 seconds
+==================================
+Number of threads: 4
+Elapsed time: 64.1938 seconds
+==================================
+Number of threads: 5
+Elapsed time: 66.5139 seconds
+==================================
+Number of threads: 6
+Elapsed time: 64.3431 seconds
+==================================
+Number of threads: 7
+Elapsed time: 66.0008 seconds
+==================================
+Number of threads: 8
+Elapsed time: 63.0775 seconds
+==================================
+Number of threads: 9
+Elapsed time: 65.3693 seconds
+==================================
+Number of threads: 10
+Elapsed time: 65.4328 seconds
+==================================
+Number of threads: 11
+Elapsed time: 64.9109 seconds
+==================================
+Number of threads: 12
+Elapsed time: 64.5649 seconds
+==================================
+Number of threads: 1
+Elapsed time: 1234.72 seconds
+==================================
+Number of threads: 2
+Elapsed time: 643.67 seconds
+==================================
+Number of threads: 3
+Elapsed time: 657.529 seconds
+==================================
+Number of threads: 4
+Elapsed time: 651.268 seconds
+==================================
+Number of threads: 5
+Elapsed time: 667.242 seconds
+==================================
+Number of threads: 6
+Elapsed time: 656.601 seconds
+==================================
+Number of threads: 7
+Elapsed time: 670.199 seconds
+==================================
+Number of threads: 8
+Elapsed time: 663.485 seconds
+==================================
+Number of threads: 9
+Elapsed time: 671.656 seconds
+==================================
+Number of threads: 10
+Elapsed time: 682.221 seconds
+==================================
+Number of threads: 11
+Elapsed time: 652.342 seconds
+==================================
+Number of threads: 12
+Elapsed time: 648.76 seconds
+==================================
