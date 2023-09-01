@@ -1,0 +1,6080 @@
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 0.089544 seconds
+counters value:
+        cycles: 252502420
+  instructions: 410393359
+      branches: 79733416
+ branch-misses: 7920883
+ active-cycles: 252501913
+load_store_instructions: 177251994
+l1i-cache-misses: 2005
+l1d_cache_load_misses: 746986
+l1d_cache_store_misses: 419742
+l1i-tlb-misses: 18006
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 0.037423 seconds
+counters value:
+        cycles: 143967850
+  instructions: 228065634
+      branches: 43322242
+ branch-misses: 4215381
+ active-cycles: 143967810
+load_store_instructions: 92033339
+l1i-cache-misses: 1185
+l1d_cache_load_misses: 500523
+l1d_cache_store_misses: 304695
+l1i-tlb-misses: 10517
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 0.027216 seconds
+counters value:
+        cycles: 109868239
+  instructions: 171476909
+      branches: 32094670
+ branch-misses: 2986374
+ active-cycles: 109868090
+load_store_instructions: 65329781
+l1i-cache-misses: 1365
+l1d_cache_load_misses: 426150
+l1d_cache_store_misses: 274820
+l1i-tlb-misses: 8573
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 0.021551 seconds
+counters value:
+        cycles: 92958677
+  instructions: 140753709
+      branches: 26228080
+ branch-misses: 2398635
+ active-cycles: 92958412
+load_store_instructions: 50376778
+l1i-cache-misses: 2675
+l1d_cache_load_misses: 441192
+l1d_cache_store_misses: 289787
+l1i-tlb-misses: 7410
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 0.019624 seconds
+counters value:
+        cycles: 87185513
+  instructions: 129748028
+      branches: 24149850
+ branch-misses: 2204460
+ active-cycles: 87185406
+load_store_instructions: 44982309
+l1i-cache-misses: 1535
+l1d_cache_load_misses: 429864
+l1d_cache_store_misses: 269768
+l1i-tlb-misses: 6926
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 0.018090 seconds
+counters value:
+        cycles: 82602019
+  instructions: 120997758
+      branches: 22452765
+ branch-misses: 2048365
+ active-cycles: 82601895
+load_store_instructions: 40818613
+l1i-cache-misses: 2041
+l1d_cache_load_misses: 446712
+l1d_cache_store_misses: 267753
+l1i-tlb-misses: 6502
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 0.017004 seconds
+counters value:
+        cycles: 78990197
+  instructions: 118716609
+      branches: 21308826
+ branch-misses: 1851052
+ active-cycles: 78990144
+load_store_instructions: 41132334
+l1i-cache-misses: 2999
+l1d_cache_load_misses: 370644
+l1d_cache_store_misses: 239805
+l1i-tlb-misses: 7574
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 0.016021 seconds
+counters value:
+        cycles: 74732738
+  instructions: 109918485
+      branches: 20083837
+ branch-misses: 1704230
+ active-cycles: 74732622
+load_store_instructions: 35865489
+l1i-cache-misses: 2690
+l1d_cache_load_misses: 415221
+l1d_cache_store_misses: 261567
+l1i-tlb-misses: 6291
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 0.783696 seconds
+counters value:
+        cycles: 2793452015
+  instructions: 4413439615
+      branches: 885723385
+ branch-misses: 90229325
+ active-cycles: 2793451859
+load_store_instructions: 1861445546
+l1i-cache-misses: 1269
+l1d_cache_load_misses: 10907645
+l1d_cache_store_misses: 5493356
+l1i-tlb-misses: 163290
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 0.418379 seconds
+counters value:
+        cycles: 1580056328
+  instructions: 2459691609
+      branches: 473757794
+ branch-misses: 46579062
+ active-cycles: 1580056688
+load_store_instructions: 992705761
+l1i-cache-misses: 3807
+l1d_cache_load_misses: 6131207
+l1d_cache_store_misses: 2998936
+l1i-tlb-misses: 102499
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 0.297330 seconds
+counters value:
+        cycles: 1177923143
+  instructions: 1782750266
+      branches: 337962908
+ branch-misses: 32504918
+ active-cycles: 1177922786
+load_store_instructions: 677555548
+l1i-cache-misses: 5507
+l1d_cache_load_misses: 5312238
+l1d_cache_store_misses: 2656593
+l1i-tlb-misses: 72035
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 0.232550 seconds
+counters value:
+        cycles: 978249431
+  instructions: 1484455429
+      branches: 277974870
+ branch-misses: 25289029
+ active-cycles: 978248597
+load_store_instructions: 538444072
+l1i-cache-misses: 10705
+l1d_cache_load_misses: 4772208
+l1d_cache_store_misses: 2505293
+l1i-tlb-misses: 61996
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 0.208575 seconds
+counters value:
+        cycles: 880107314
+  instructions: 1290623255
+      branches: 239998307
+ branch-misses: 21437306
+ active-cycles: 880107028
+load_store_instructions: 446341157
+l1i-cache-misses: 6520
+l1d_cache_load_misses: 4701206
+l1d_cache_store_misses: 2589658
+l1i-tlb-misses: 58818
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 0.189365 seconds
+counters value:
+        cycles: 805377996
+  instructions: 1150254221
+      branches: 211603194
+ branch-misses: 18562099
+ active-cycles: 805377516
+load_store_instructions: 381259815
+l1i-cache-misses: 7239
+l1d_cache_load_misses: 4395509
+l1d_cache_store_misses: 2295878
+l1i-tlb-misses: 58206
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 0.177567 seconds
+counters value:
+        cycles: 737001904
+  instructions: 1000617439
+      branches: 179370205
+ branch-misses: 15571288
+ active-cycles: 737000322
+load_store_instructions: 315090293
+l1i-cache-misses: 17879
+l1d_cache_load_misses: 3790970
+l1d_cache_store_misses: 1778852
+l1i-tlb-misses: 61654
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 0.164270 seconds
+counters value:
+        cycles: 704810554
+  instructions: 959363957
+      branches: 170742835
+ branch-misses: 14579950
+ active-cycles: 704809578
+load_store_instructions: 297102107
+l1i-cache-misses: 10472
+l1d_cache_load_misses: 3728872
+l1d_cache_store_misses: 1933254
+l1i-tlb-misses: 53806
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 8.826680 seconds
+counters value:
+        cycles: 31067589215
+  instructions: 47384098649
+      branches: 9701147637
+ branch-misses: 1029819971
+ active-cycles: 31067589338
+load_store_instructions: 19748181268
+l1i-cache-misses: 13006
+l1d_cache_load_misses: 140698446
+l1d_cache_store_misses: 73755562
+l1i-tlb-misses: 1746727
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 4.677856 seconds
+counters value:
+        cycles: 17288015667
+  instructions: 25830285604
+      branches: 5127017395
+ branch-misses: 534908410
+ active-cycles: 17288015922
+load_store_instructions: 10219995238
+l1i-cache-misses: 7242
+l1d_cache_load_misses: 77985409
+l1d_cache_store_misses: 41439236
+l1i-tlb-misses: 935532
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 3.332562 seconds
+counters value:
+        cycles: 12728276654
+  instructions: 19010745912
+      branches: 3686859787
+ branch-misses: 364817166
+ active-cycles: 12728269518
+load_store_instructions: 7178235806
+l1i-cache-misses: 94549
+l1d_cache_load_misses: 60642696
+l1d_cache_store_misses: 32674362
+l1i-tlb-misses: 781813
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 2.589175 seconds
+counters value:
+        cycles: 10502967392
+  instructions: 15312407152
+      branches: 2954164134
+ branch-misses: 285864653
+ active-cycles: 10502958111
+load_store_instructions: 5443028033
+l1i-cache-misses: 89702
+l1d_cache_load_misses: 54507631
+l1d_cache_store_misses: 30408086
+l1i-tlb-misses: 577528
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 2.281887 seconds
+counters value:
+        cycles: 9314797817
+  instructions: 13241966072
+      branches: 2491511602
+ branch-misses: 236357447
+ active-cycles: 9314797019
+load_store_instructions: 4573218986
+l1i-cache-misses: 12250
+l1d_cache_load_misses: 47542159
+l1d_cache_store_misses: 24812476
+l1i-tlb-misses: 575232
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 2.081467 seconds
+counters value:
+        cycles: 8542863977
+  instructions: 11750670547
+      branches: 2184088966
+ branch-misses: 208470963
+ active-cycles: 8542861916
+load_store_instructions: 3895977166
+l1i-cache-misses: 24203
+l1d_cache_load_misses: 44540536
+l1d_cache_store_misses: 22359765
+l1i-tlb-misses: 549998
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 1.920697 seconds
+counters value:
+        cycles: 7969241410
+  instructions: 11001290105
+      branches: 2027025418
+ branch-misses: 184285536
+ active-cycles: 7969238921
+load_store_instructions: 3553965905
+l1i-cache-misses: 19424
+l1d_cache_load_misses: 38949224
+l1d_cache_store_misses: 20046976
+l1i-tlb-misses: 556504
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 1.796632 seconds
+counters value:
+        cycles: 7566914911
+  instructions: 10219751021
+      branches: 1864296017
+ branch-misses: 170668749
+ active-cycles: 7566908414
+load_store_instructions: 3205535330
+l1i-cache-misses: 21213
+l1d_cache_load_misses: 40174213
+l1d_cache_store_misses: 19578398
+l1i-tlb-misses: 523664
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 100.609458 seconds
+counters value:
+        cycles: 350136278004
+  instructions: 517180116587
+      branches: 107407780122
+ branch-misses: 11593474048
+ active-cycles: 350136242477
+load_store_instructions: 212929450769
+l1i-cache-misses: 519375
+l1d_cache_load_misses: 2190631327
+l1d_cache_store_misses: 1531301568
+l1i-tlb-misses: 29735315
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 52.762167 seconds
+counters value:
+        cycles: 191376704384
+  instructions: 280450692565
+      branches: 56683711705
+ branch-misses: 5954107248
+ active-cycles: 191376694551
+load_store_instructions: 110241541384
+l1i-cache-misses: 252502
+l1d_cache_load_misses: 1004004281
+l1d_cache_store_misses: 623831918
+l1i-tlb-misses: 12596993
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 37.140680 seconds
+counters value:
+        cycles: 139639623348
+  instructions: 201927512121
+      branches: 39916254759
+ branch-misses: 4136367466
+ active-cycles: 139639622636
+load_store_instructions: 75937361712
+l1i-cache-misses: 15749
+l1d_cache_load_misses: 690767225
+l1d_cache_store_misses: 361442489
+l1i-tlb-misses: 7402526
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 28.897292 seconds
+counters value:
+        cycles: 114826605403
+  instructions: 163061511480
+      branches: 31758677038
+ branch-misses: 3243284108
+ active-cycles: 114826606030
+load_store_instructions: 58572453169
+l1i-cache-misses: 4827
+l1d_cache_load_misses: 536227050
+l1d_cache_store_misses: 312993990
+l1i-tlb-misses: 6178801
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 25.969510 seconds
+counters value:
+        cycles: 102293677549
+  instructions: 140837295175
+      branches: 26938569174
+ branch-misses: 2703342730
+ active-cycles: 102293665444
+load_store_instructions: 48873071649
+l1i-cache-misses: 145818
+l1d_cache_load_misses: 510475585
+l1d_cache_store_misses: 271089842
+l1i-tlb-misses: 6528275
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 23.592770 seconds
+counters value:
+        cycles: 92996781463
+  instructions: 125086180846
+      branches: 23476901953
+ branch-misses: 2350101684
+ active-cycles: 92996758741
+load_store_instructions: 42190244544
+l1i-cache-misses: 171744
+l1d_cache_load_misses: 405012754
+l1d_cache_store_misses: 226938514
+l1i-tlb-misses: 5838222
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 21.786299 seconds
+counters value:
+        cycles: 86415366069
+  instructions: 113445116898
+      branches: 21235556230
+ branch-misses: 2104392779
+ active-cycles: 86415330061
+load_store_instructions: 36568969880
+l1i-cache-misses: 245464
+l1d_cache_load_misses: 402121649
+l1d_cache_store_misses: 216678524
+l1i-tlb-misses: 5538955
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 20.183804 seconds
+counters value:
+        cycles: 81240889062
+  instructions: 105298355602
+      branches: 19400579720
+ branch-misses: 1913618300
+ active-cycles: 81240791704
+load_store_instructions: 33170137615
+l1i-cache-misses: 235248
+l1d_cache_load_misses: 358882926
+l1d_cache_store_misses: 199589622
+l1i-tlb-misses: 5293858
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 0.070642 seconds
+counters value:
+        cycles: 249801294
+  instructions: 410241338
+      branches: 79708748
+ branch-misses: 7933881
+ active-cycles: 249801113
+load_store_instructions: 177209290
+l1i-cache-misses: 867
+l1d_cache_load_misses: 726853
+l1d_cache_store_misses: 407074
+l1i-tlb-misses: 18671
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 0.037503 seconds
+counters value:
+        cycles: 144018434
+  instructions: 228074801
+      branches: 43322396
+ branch-misses: 4218218
+ active-cycles: 144018303
+load_store_instructions: 92048979
+l1i-cache-misses: 1001
+l1d_cache_load_misses: 497601
+l1d_cache_store_misses: 302507
+l1i-tlb-misses: 10281
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 0.027252 seconds
+counters value:
+        cycles: 109738623
+  instructions: 171603357
+      branches: 32109881
+ branch-misses: 2986904
+ active-cycles: 109738263
+load_store_instructions: 65430035
+l1i-cache-misses: 1447
+l1d_cache_load_misses: 437256
+l1d_cache_store_misses: 278658
+l1i-tlb-misses: 8051
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 0.021566 seconds
+counters value:
+        cycles: 92784480
+  instructions: 140090393
+      branches: 26089330
+ branch-misses: 2405750
+ active-cycles: 92784445
+load_store_instructions: 50141215
+l1i-cache-misses: 1550
+l1d_cache_load_misses: 423334
+l1d_cache_store_misses: 272551
+l1i-tlb-misses: 7139
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 0.019804 seconds
+counters value:
+        cycles: 87548812
+  instructions: 130399879
+      branches: 24221274
+ branch-misses: 2222537
+ active-cycles: 87548598
+load_store_instructions: 45439325
+l1i-cache-misses: 1729
+l1d_cache_load_misses: 443717
+l1d_cache_store_misses: 285031
+l1i-tlb-misses: 7299
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 0.018094 seconds
+counters value:
+        cycles: 79069327
+  instructions: 117254587
+      branches: 21076165
+ branch-misses: 1801732
+ active-cycles: 79069170
+load_store_instructions: 40330353
+l1i-cache-misses: 2454
+l1d_cache_load_misses: 363916
+l1d_cache_store_misses: 232364
+l1i-tlb-misses: 7538
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 0.016901 seconds
+counters value:
+        cycles: 75303172
+  instructions: 108917017
+      branches: 19474223
+ branch-misses: 1676186
+ active-cycles: 75303193
+load_store_instructions: 36264218
+l1i-cache-misses: 3584
+l1d_cache_load_misses: 375769
+l1d_cache_store_misses: 238702
+l1i-tlb-misses: 7363
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 0.016133 seconds
+counters value:
+        cycles: 75251088
+  instructions: 112190527
+      branches: 20441557
+ branch-misses: 1715830
+ active-cycles: 75250859
+load_store_instructions: 37059122
+l1i-cache-misses: 3905
+l1d_cache_load_misses: 418776
+l1d_cache_store_misses: 264454
+l1i-tlb-misses: 6679
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 0.796969 seconds
+counters value:
+        cycles: 2786996806
+  instructions: 4412113327
+      branches: 885483583
+ branch-misses: 90203201
+ active-cycles: 2786996724
+load_store_instructions: 1861058039
+l1i-cache-misses: 1063
+l1d_cache_load_misses: 10785230
+l1d_cache_store_misses: 5467552
+l1i-tlb-misses: 168057
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 0.416119 seconds
+counters value:
+        cycles: 1570200008
+  instructions: 2458001747
+      branches: 473443675
+ branch-misses: 46538651
+ active-cycles: 1570200273
+load_store_instructions: 992367636
+l1i-cache-misses: 1294
+l1d_cache_load_misses: 5727712
+l1d_cache_store_misses: 3018816
+l1i-tlb-misses: 95354
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 0.296976 seconds
+counters value:
+        cycles: 1171174532
+  instructions: 1778534818
+      branches: 337195073
+ branch-misses: 32453847
+ active-cycles: 1171174748
+load_store_instructions: 675790906
+l1i-cache-misses: 1634
+l1d_cache_load_misses: 5003506
+l1d_cache_store_misses: 2641744
+l1i-tlb-misses: 67409
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 0.244744 seconds
+counters value:
+        cycles: 1016432609
+  instructions: 1449153075
+      branches: 276823340
+ branch-misses: 27468471
+ active-cycles: 1016432920
+load_store_instructions: 510122351
+l1i-cache-misses: 1363
+l1d_cache_load_misses: 5116342
+l1d_cache_store_misses: 2770973
+l1i-tlb-misses: 55945
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 0.224059 seconds
+counters value:
+        cycles: 876427644
+  instructions: 1308291155
+      branches: 249445788
+ branch-misses: 20683961
+ active-cycles: 876427363
+load_store_instructions: 430506106
+l1i-cache-misses: 7396
+l1d_cache_load_misses: 4441184
+l1d_cache_store_misses: 2256140
+l1i-tlb-misses: 53723
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 0.188784 seconds
+counters value:
+        cycles: 801904909
+  instructions: 1138434635
+      branches: 207920082
+ branch-misses: 18422971
+ active-cycles: 801905188
+load_store_instructions: 378358395
+l1i-cache-misses: 3418
+l1d_cache_load_misses: 4202695
+l1d_cache_store_misses: 2196448
+l1i-tlb-misses: 55969
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 0.173928 seconds
+counters value:
+        cycles: 745478312
+  instructions: 1028801448
+      branches: 183578890
+ branch-misses: 16429122
+ active-cycles: 745478187
+load_store_instructions: 332160710
+l1i-cache-misses: 5319
+l1d_cache_load_misses: 3546987
+l1d_cache_store_misses: 1787042
+l1i-tlb-misses: 51924
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 0.161833 seconds
+counters value:
+        cycles: 702029790
+  instructions: 949922390
+      branches: 169226538
+ branch-misses: 14780431
+ active-cycles: 702029665
+load_store_instructions: 292225539
+l1i-cache-misses: 6100
+l1d_cache_load_misses: 3687468
+l1d_cache_store_misses: 1936805
+l1i-tlb-misses: 52875
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 8.948587 seconds
+counters value:
+        cycles: 30932885896
+  instructions: 47346627266
+      branches: 9694125544
+ branch-misses: 1032087493
+ active-cycles: 30932885926
+load_store_instructions: 19736914761
+l1i-cache-misses: 1068
+l1d_cache_load_misses: 135468190
+l1d_cache_store_misses: 72697283
+l1i-tlb-misses: 1631297
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 4.661401 seconds
+counters value:
+        cycles: 17221684504
+  instructions: 25713435684
+      branches: 5103483261
+ branch-misses: 533246552
+ active-cycles: 17221684470
+load_store_instructions: 10170283817
+l1i-cache-misses: 7772
+l1d_cache_load_misses: 75831260
+l1d_cache_store_misses: 41916552
+l1i-tlb-misses: 918400
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 3.298121 seconds
+counters value:
+        cycles: 12692786133
+  instructions: 18968615305
+      branches: 3713882525
+ branch-misses: 366378503
+ active-cycles: 12692786465
+load_store_instructions: 7098767522
+l1i-cache-misses: 3189
+l1d_cache_load_misses: 67062438
+l1d_cache_store_misses: 38282535
+l1i-tlb-misses: 603003
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 2.545796 seconds
+counters value:
+        cycles: 10442269506
+  instructions: 15140683755
+      branches: 2932592555
+ branch-misses: 287521539
+ active-cycles: 10442270037
+load_store_instructions: 5343078229
+l1i-cache-misses: 2778
+l1d_cache_load_misses: 54674604
+l1d_cache_store_misses: 33703578
+l1i-tlb-misses: 523076
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 2.278925 seconds
+counters value:
+        cycles: 9293116719
+  instructions: 13155579794
+      branches: 2478316513
+ branch-misses: 239705648
+ active-cycles: 9293116941
+load_store_instructions: 4534459589
+l1i-cache-misses: 4162
+l1d_cache_load_misses: 49605474
+l1d_cache_store_misses: 29435982
+l1i-tlb-misses: 512408
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 2.076937 seconds
+counters value:
+        cycles: 8508023698
+  instructions: 11968949465
+      branches: 2230556854
+ branch-misses: 206491173
+ active-cycles: 8508022109
+load_store_instructions: 3996005063
+l1i-cache-misses: 16370
+l1d_cache_load_misses: 44098861
+l1d_cache_store_misses: 22261584
+l1i-tlb-misses: 519640
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 1.914063 seconds
+counters value:
+        cycles: 7944514183
+  instructions: 10896251682
+      branches: 1997483901
+ branch-misses: 184791293
+ active-cycles: 7944512300
+load_store_instructions: 3529640224
+l1i-cache-misses: 18680
+l1d_cache_load_misses: 38308860
+l1d_cache_store_misses: 20234704
+l1i-tlb-misses: 484807
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 1.793640 seconds
+counters value:
+        cycles: 7529177985
+  instructions: 10230962415
+      branches: 1857469040
+ branch-misses: 169487115
+ active-cycles: 7529172123
+load_store_instructions: 3229629575
+l1i-cache-misses: 25909
+l1d_cache_load_misses: 37267334
+l1d_cache_store_misses: 19886452
+l1i-tlb-misses: 497617
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 99.027056 seconds
+counters value:
+        cycles: 345113629908
+  instructions: 511764264261
+      branches: 106508953364
+ branch-misses: 11576615002
+ active-cycles: 345113629964
+load_store_instructions: 210883038550
+l1i-cache-misses: 15313
+l1d_cache_load_misses: 1823487429
+l1d_cache_store_misses: 1134677152
+l1i-tlb-misses: 20937808
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 51.876601 seconds
+counters value:
+        cycles: 188826728950
+  instructions: 278281293931
+      branches: 56325051489
+ branch-misses: 5944025913
+ active-cycles: 188826729180
+load_store_instructions: 109413267740
+l1i-cache-misses: 4428
+l1d_cache_load_misses: 891180826
+l1d_cache_store_misses: 483116172
+l1i-tlb-misses: 9072292
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 37.112039 seconds
+counters value:
+        cycles: 139400900487
+  instructions: 202803732835
+      branches: 40047568948
+ branch-misses: 4128069518
+ active-cycles: 139400901153
+load_store_instructions: 76459337092
+l1i-cache-misses: 4231
+l1d_cache_load_misses: 629545138
+l1d_cache_store_misses: 357891572
+l1i-tlb-misses: 7844583
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 30.535104 seconds
+counters value:
+        cycles: 119383087833
+  instructions: 169898708176
+      branches: 33128015078
+ branch-misses: 3263966027
+ active-cycles: 119383069377
+load_store_instructions: 61117668653
+l1i-cache-misses: 270922
+l1d_cache_load_misses: 799718647
+l1d_cache_store_misses: 628708240
+l1i-tlb-misses: 11018878
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 25.904633 seconds
+counters value:
+        cycles: 101835131829
+  instructions: 140500841758
+      branches: 26990829701
+ branch-misses: 2709857966
+ active-cycles: 101835127954
+load_store_instructions: 48560194285
+l1i-cache-misses: 51988
+l1d_cache_load_misses: 483069755
+l1d_cache_store_misses: 276525924
+l1i-tlb-misses: 5755295
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 23.565201 seconds
+counters value:
+        cycles: 92870509272
+  instructions: 125207955927
+      branches: 23848772432
+ branch-misses: 2352781406
+ active-cycles: 92870483145
+load_store_instructions: 41517945210
+l1i-cache-misses: 164014
+l1d_cache_load_misses: 433615111
+l1d_cache_store_misses: 237767457
+l1i-tlb-misses: 5258390
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 21.733407 seconds
+counters value:
+        cycles: 86334416504
+  instructions: 113837409360
+      branches: 21224922578
+ branch-misses: 2096585021
+ active-cycles: 86334388165
+load_store_instructions: 36921281223
+l1i-cache-misses: 206766
+l1d_cache_load_misses: 380376335
+l1d_cache_store_misses: 212576880
+l1i-tlb-misses: 5410211
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 20.260828 seconds
+counters value:
+        cycles: 81289604410
+  instructions: 105573565570
+      branches: 19479518427
+ branch-misses: 1910915567
+ active-cycles: 81289517256
+load_store_instructions: 33244808549
+l1i-cache-misses: 213423
+l1d_cache_load_misses: 355692616
+l1d_cache_store_misses: 200944200
+l1i-tlb-misses: 5251876
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 0.070562 seconds
+counters value:
+        cycles: 249573326
+  instructions: 410218191
+      branches: 79703876
+ branch-misses: 7933904
+ active-cycles: 249573180
+load_store_instructions: 177202042
+l1i-cache-misses: 761
+l1d_cache_load_misses: 737375
+l1d_cache_store_misses: 414552
+l1i-tlb-misses: 17395
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 0.037501 seconds
+counters value:
+        cycles: 143961831
+  instructions: 228050178
+      branches: 43314701
+ branch-misses: 4217247
+ active-cycles: 143961807
+load_store_instructions: 92044538
+l1i-cache-misses: 1462
+l1d_cache_load_misses: 501247
+l1d_cache_store_misses: 296705
+l1i-tlb-misses: 11231
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 0.027268 seconds
+counters value:
+        cycles: 109733717
+  instructions: 171486179
+      branches: 32092442
+ branch-misses: 2988852
+ active-cycles: 109733609
+load_store_instructions: 65350606
+l1i-cache-misses: 1969
+l1d_cache_load_misses: 431692
+l1d_cache_store_misses: 271948
+l1i-tlb-misses: 8550
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 0.021548 seconds
+counters value:
+        cycles: 92677905
+  instructions: 140273289
+      branches: 26069228
+ branch-misses: 2401105
+ active-cycles: 92677491
+load_store_instructions: 50341348
+l1i-cache-misses: 1538
+l1d_cache_load_misses: 420914
+l1d_cache_store_misses: 275050
+l1i-tlb-misses: 6872
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 0.019713 seconds
+counters value:
+        cycles: 87252675
+  instructions: 130225009
+      branches: 24220569
+ branch-misses: 2212219
+ active-cycles: 87252519
+load_store_instructions: 45271927
+l1i-cache-misses: 1452
+l1d_cache_load_misses: 434598
+l1d_cache_store_misses: 268670
+l1i-tlb-misses: 6705
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 0.018067 seconds
+counters value:
+        cycles: 82192180
+  instructions: 122229786
+      branches: 22097686
+ branch-misses: 1995317
+ active-cycles: 82192048
+load_store_instructions: 42593626
+l1i-cache-misses: 1484
+l1d_cache_load_misses: 398401
+l1d_cache_store_misses: 249418
+l1i-tlb-misses: 7310
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 0.016896 seconds
+counters value:
+        cycles: 78763137
+  instructions: 117319713
+      branches: 21188620
+ branch-misses: 1885288
+ active-cycles: 78763121
+load_store_instructions: 40172881
+l1i-cache-misses: 1666
+l1d_cache_load_misses: 389436
+l1d_cache_store_misses: 246874
+l1i-tlb-misses: 6317
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 0.015774 seconds
+counters value:
+        cycles: 74234441
+  instructions: 109875032
+      branches: 19953741
+ branch-misses: 1686201
+ active-cycles: 74234282
+load_store_instructions: 36202178
+l1i-cache-misses: 2379
+l1d_cache_load_misses: 426436
+l1d_cache_store_misses: 263499
+l1i-tlb-misses: 6631
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 0.797975 seconds
+counters value:
+        cycles: 2788981496
+  instructions: 4412075179
+      branches: 885470185
+ branch-misses: 90348193
+ active-cycles: 2788981758
+load_store_instructions: 1861048451
+l1i-cache-misses: 1036
+l1d_cache_load_misses: 10758023
+l1d_cache_store_misses: 5442395
+l1i-tlb-misses: 157303
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 0.415862 seconds
+counters value:
+        cycles: 1570564287
+  instructions: 2455775970
+      branches: 473002411
+ branch-misses: 46592178
+ active-cycles: 1570564819
+load_store_instructions: 991370875
+l1i-cache-misses: 1935
+l1d_cache_load_misses: 5854804
+l1d_cache_store_misses: 3055040
+l1i-tlb-misses: 94665
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 0.306714 seconds
+counters value:
+        cycles: 1178904240
+  instructions: 1806400717
+      branches: 343293347
+ branch-misses: 32429602
+ active-cycles: 1178904249
+load_store_instructions: 683061767
+l1i-cache-misses: 6221
+l1d_cache_load_misses: 4898642
+l1d_cache_store_misses: 2613689
+l1i-tlb-misses: 68392
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 0.234961 seconds
+counters value:
+        cycles: 969553277
+  instructions: 1473348601
+      branches: 274985441
+ branch-misses: 24998001
+ active-cycles: 969552761
+load_store_instructions: 531474202
+l1i-cache-misses: 5207
+l1d_cache_load_misses: 4062326
+l1d_cache_store_misses: 2187314
+l1i-tlb-misses: 55193
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 0.207466 seconds
+counters value:
+        cycles: 866785023
+  instructions: 1252213033
+      branches: 230434506
+ branch-misses: 20904138
+ active-cycles: 866784724
+load_store_instructions: 432089467
+l1i-cache-misses: 3003
+l1d_cache_load_misses: 4092085
+l1d_cache_store_misses: 2201585
+l1i-tlb-misses: 55104
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 0.188544 seconds
+counters value:
+        cycles: 810684348
+  instructions: 1176309195
+      branches: 213841783
+ branch-misses: 18815987
+ active-cycles: 810684042
+load_store_instructions: 399583224
+l1i-cache-misses: 3470
+l1d_cache_load_misses: 4060550
+l1d_cache_store_misses: 2156017
+l1i-tlb-misses: 55773
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 0.173999 seconds
+counters value:
+        cycles: 747670807
+  instructions: 1022661558
+      branches: 184252675
+ branch-misses: 16563319
+ active-cycles: 747670781
+load_store_instructions: 325032580
+l1i-cache-misses: 4114
+l1d_cache_load_misses: 3862507
+l1d_cache_store_misses: 2028438
+l1i-tlb-misses: 51448
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 0.161538 seconds
+counters value:
+        cycles: 703076666
+  instructions: 954038142
+      branches: 167517981
+ branch-misses: 14755159
+ active-cycles: 703075845
+load_store_instructions: 299364182
+l1i-cache-misses: 4222
+l1d_cache_load_misses: 3442914
+l1d_cache_store_misses: 1872181
+l1i-tlb-misses: 54989
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 8.957896 seconds
+counters value:
+        cycles: 30933987291
+  instructions: 47351536163
+      branches: 9696065867
+ branch-misses: 1031895000
+ active-cycles: 30933987524
+load_store_instructions: 19739098872
+l1i-cache-misses: 4834
+l1d_cache_load_misses: 135083593
+l1d_cache_store_misses: 72305858
+l1i-tlb-misses: 1641929
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 4.661792 seconds
+counters value:
+        cycles: 17235324411
+  instructions: 25716962276
+      branches: 5104223636
+ branch-misses: 533750783
+ active-cycles: 17235324818
+load_store_instructions: 10172003240
+l1i-cache-misses: 2370
+l1d_cache_load_misses: 81727353
+l1d_cache_store_misses: 45074579
+l1i-tlb-misses: 935278
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 3.296193 seconds
+counters value:
+        cycles: 12683168026
+  instructions: 19070756479
+      branches: 3694266607
+ branch-misses: 365154871
+ active-cycles: 12683168775
+load_store_instructions: 7228423586
+l1i-cache-misses: 2907
+l1d_cache_load_misses: 55639746
+l1d_cache_store_misses: 31395915
+l1i-tlb-misses: 653593
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 2.541486 seconds
+counters value:
+        cycles: 10433970905
+  instructions: 15404430099
+      branches: 2933815106
+ branch-misses: 284358119
+ active-cycles: 10433970442
+load_store_instructions: 5570095404
+l1i-cache-misses: 2363
+l1d_cache_load_misses: 53490135
+l1d_cache_store_misses: 31516690
+l1i-tlb-misses: 525769
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 2.273388 seconds
+counters value:
+        cycles: 9271280753
+  instructions: 13220601571
+      branches: 2488270023
+ branch-misses: 237790413
+ active-cycles: 9271280748
+load_store_instructions: 4567980962
+l1i-cache-misses: 4809
+l1d_cache_load_misses: 43749590
+l1d_cache_store_misses: 24143654
+l1i-tlb-misses: 509048
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 2.081188 seconds
+counters value:
+        cycles: 8516740420
+  instructions: 11943946864
+      branches: 2204600047
+ branch-misses: 206438523
+ active-cycles: 8516738220
+load_store_instructions: 4023741187
+l1i-cache-misses: 16735
+l1d_cache_load_misses: 40443147
+l1d_cache_store_misses: 21192270
+l1i-tlb-misses: 515028
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 1.916556 seconds
+counters value:
+        cycles: 7948945262
+  instructions: 10877349947
+      branches: 1997362761
+ branch-misses: 185148368
+ active-cycles: 7948943226
+load_store_instructions: 3514025076
+l1i-cache-misses: 19227
+l1d_cache_load_misses: 43145248
+l1d_cache_store_misses: 24008912
+l1i-tlb-misses: 486540
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 1.796419 seconds
+counters value:
+        cycles: 7520731379
+  instructions: 10055988834
+      branches: 1866997162
+ branch-misses: 170752570
+ active-cycles: 7520722691
+load_store_instructions: 3057277844
+l1i-cache-misses: 25686
+l1d_cache_load_misses: 41792234
+l1d_cache_store_misses: 20859016
+l1i-tlb-misses: 447276
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 97.894016 seconds
+counters value:
+        cycles: 341876547064
+  instructions: 508080948225
+      branches: 105925805250
+ branch-misses: 11587641320
+ active-cycles: 341876539809
+load_store_instructions: 209400346967
+l1i-cache-misses: 103925
+l1d_cache_load_misses: 1711648707
+l1d_cache_store_misses: 869289443
+l1i-tlb-misses: 17251664
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 52.067919 seconds
+counters value:
+        cycles: 189637480368
+  instructions: 278926847675
+      branches: 56437763686
+ branch-misses: 5947175463
+ active-cycles: 189637475132
+load_store_instructions: 109650690922
+l1i-cache-misses: 76539
+l1d_cache_load_misses: 925532097
+l1d_cache_store_misses: 513554674
+l1i-tlb-misses: 10769791
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 37.109344 seconds
+counters value:
+        cycles: 139398717254
+  instructions: 202779664413
+      branches: 40043626072
+ branch-misses: 4123678995
+ active-cycles: 139398716904
+load_store_instructions: 76443887218
+l1i-cache-misses: 12192
+l1d_cache_load_misses: 631422064
+l1d_cache_store_misses: 357749719
+l1i-tlb-misses: 7353623
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 28.897860 seconds
+counters value:
+        cycles: 114802841724
+  instructions: 164700591982
+      branches: 32204472910
+ branch-misses: 3228546909
+ active-cycles: 114802841831
+load_store_instructions: 59079358623
+l1i-cache-misses: 4723
+l1d_cache_load_misses: 539719473
+l1d_cache_store_misses: 313853572
+l1i-tlb-misses: 6167504
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 25.913897 seconds
+counters value:
+        cycles: 101816655156
+  instructions: 140887081001
+      branches: 26998698729
+ branch-misses: 2701465858
+ active-cycles: 101816649915
+load_store_instructions: 48850156904
+l1i-cache-misses: 67238
+l1d_cache_load_misses: 471257508
+l1d_cache_store_misses: 267332544
+l1i-tlb-misses: 5794900
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 23.573284 seconds
+counters value:
+        cycles: 92863489449
+  instructions: 123540041336
+      branches: 23411432856
+ branch-misses: 2361711753
+ active-cycles: 92863466492
+load_store_instructions: 40988324831
+l1i-cache-misses: 147759
+l1d_cache_load_misses: 432105171
+l1d_cache_store_misses: 238711882
+l1i-tlb-misses: 5459375
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 21.750137 seconds
+counters value:
+        cycles: 86435969147
+  instructions: 113634969223
+      branches: 21170838045
+ branch-misses: 2104228247
+ active-cycles: 86435936140
+load_store_instructions: 36848614277
+l1i-cache-misses: 194384
+l1d_cache_load_misses: 412049814
+l1d_cache_store_misses: 211734853
+l1i-tlb-misses: 5626569
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 20.254235 seconds
+counters value:
+        cycles: 81265411934
+  instructions: 105386269847
+      branches: 19505023868
+ branch-misses: 1914108277
+ active-cycles: 81265311753
+load_store_instructions: 33005799611
+l1i-cache-misses: 220507
+l1d_cache_load_misses: 360323031
+l1d_cache_store_misses: 198416739
+l1i-tlb-misses: 5238245
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 0.070701 seconds
+counters value:
+        cycles: 250036253
+  instructions: 410224805
+      branches: 79705498
+ branch-misses: 7957582
+ active-cycles: 250036211
+load_store_instructions: 177204070
+l1i-cache-misses: 906
+l1d_cache_load_misses: 722985
+l1d_cache_store_misses: 401239
+l1i-tlb-misses: 19439
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 0.037520 seconds
+counters value:
+        cycles: 144084571
+  instructions: 228069405
+      branches: 43321133
+ branch-misses: 4219221
+ active-cycles: 144084388
+load_store_instructions: 92044385
+l1i-cache-misses: 1184
+l1d_cache_load_misses: 507676
+l1d_cache_store_misses: 306660
+l1i-tlb-misses: 10084
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 0.027293 seconds
+counters value:
+        cycles: 109935061
+  instructions: 171648126
+      branches: 32127217
+ branch-misses: 2987702
+ active-cycles: 109935071
+load_store_instructions: 65392681
+l1i-cache-misses: 1274
+l1d_cache_load_misses: 445239
+l1d_cache_store_misses: 278587
+l1i-tlb-misses: 8226
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 0.021531 seconds
+counters value:
+        cycles: 92568618
+  instructions: 140114370
+      branches: 26067327
+ branch-misses: 2403292
+ active-cycles: 92568558
+load_store_instructions: 50213702
+l1i-cache-misses: 1129
+l1d_cache_load_misses: 432893
+l1d_cache_store_misses: 286041
+l1i-tlb-misses: 6905
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 0.019888 seconds
+counters value:
+        cycles: 87581200
+  instructions: 131113832
+      branches: 24390937
+ branch-misses: 2226540
+ active-cycles: 87581131
+load_store_instructions: 45689067
+l1i-cache-misses: 1280
+l1d_cache_load_misses: 437947
+l1d_cache_store_misses: 272632
+l1i-tlb-misses: 6322
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 0.018023 seconds
+counters value:
+        cycles: 78772278
+  instructions: 111981791
+      branches: 20293487
+ branch-misses: 1846895
+ active-cycles: 78772135
+load_store_instructions: 37344952
+l1i-cache-misses: 2652
+l1d_cache_load_misses: 403998
+l1d_cache_store_misses: 237517
+l1i-tlb-misses: 6827
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 0.016891 seconds
+counters value:
+        cycles: 78810353
+  instructions: 118907704
+      branches: 21701515
+ branch-misses: 1863849
+ active-cycles: 78810250
+load_store_instructions: 40438536
+l1i-cache-misses: 1518
+l1d_cache_load_misses: 414793
+l1d_cache_store_misses: 262874
+l1i-tlb-misses: 7184
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 0.016115 seconds
+counters value:
+        cycles: 75960291
+  instructions: 108755730
+      branches: 19866452
+ branch-misses: 1801699
+ active-cycles: 75959946
+load_store_instructions: 35349631
+l1i-cache-misses: 3475
+l1d_cache_load_misses: 418347
+l1d_cache_store_misses: 261217
+l1i-tlb-misses: 6282
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 0.797588 seconds
+counters value:
+        cycles: 2787425466
+  instructions: 4412125950
+      branches: 885473076
+ branch-misses: 90260132
+ active-cycles: 2787425736
+load_store_instructions: 1861068389
+l1i-cache-misses: 1067
+l1d_cache_load_misses: 10613759
+l1d_cache_store_misses: 5368188
+l1i-tlb-misses: 168363
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 0.415894 seconds
+counters value:
+        cycles: 1569409534
+  instructions: 2456756101
+      branches: 473189503
+ branch-misses: 46555936
+ active-cycles: 1569409978
+load_store_instructions: 991838732
+l1i-cache-misses: 1878
+l1d_cache_load_misses: 5958170
+l1d_cache_store_misses: 3173432
+l1i-tlb-misses: 96632
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 0.306371 seconds
+counters value:
+        cycles: 1201058705
+  instructions: 1759192060
+      branches: 335742686
+ branch-misses: 33957115
+ active-cycles: 1201058652
+load_store_instructions: 661011939
+l1i-cache-misses: 1573
+l1d_cache_load_misses: 5028144
+l1d_cache_store_misses: 2661061
+l1i-tlb-misses: 67398
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 0.230775 seconds
+counters value:
+        cycles: 974040816
+  instructions: 1470973525
+      branches: 273587832
+ branch-misses: 25302162
+ active-cycles: 974040862
+load_store_instructions: 535529637
+l1i-cache-misses: 1680
+l1d_cache_load_misses: 4189639
+l1d_cache_store_misses: 2251846
+l1i-tlb-misses: 54461
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 0.207706 seconds
+counters value:
+        cycles: 868547536
+  instructions: 1261461587
+      branches: 233825109
+ branch-misses: 20890380
+ active-cycles: 868547329
+load_store_instructions: 433540039
+l1i-cache-misses: 2777
+l1d_cache_load_misses: 4335831
+l1d_cache_store_misses: 2327036
+l1i-tlb-misses: 57967
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 0.189087 seconds
+counters value:
+        cycles: 802562920
+  instructions: 1145134531
+      branches: 207584529
+ branch-misses: 18374675
+ active-cycles: 802562744
+load_store_instructions: 384842020
+l1i-cache-misses: 3086
+l1d_cache_load_misses: 3755948
+l1d_cache_store_misses: 2038209
+l1i-tlb-misses: 56611
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 0.173340 seconds
+counters value:
+        cycles: 746582687
+  instructions: 1036420272
+      branches: 189424269
+ branch-misses: 16389462
+ active-cycles: 746582536
+load_store_instructions: 326975564
+l1i-cache-misses: 3707
+l1d_cache_load_misses: 4115761
+l1d_cache_store_misses: 2219592
+l1i-tlb-misses: 49186
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 0.162700 seconds
+counters value:
+        cycles: 715201368
+  instructions: 976350427
+      branches: 175241676
+ branch-misses: 15172002
+ active-cycles: 715201402
+load_store_instructions: 303010461
+l1i-cache-misses: 5122
+l1d_cache_load_misses: 3859910
+l1d_cache_store_misses: 2121623
+l1i-tlb-misses: 52178
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 8.952763 seconds
+counters value:
+        cycles: 30918121233
+  instructions: 47364353963
+      branches: 9702200739
+ branch-misses: 1030243887
+ active-cycles: 30918121268
+load_store_instructions: 19745324841
+l1i-cache-misses: 5230
+l1d_cache_load_misses: 136007967
+l1d_cache_store_misses: 71843821
+l1i-tlb-misses: 1555079
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 4.660917 seconds
+counters value:
+        cycles: 17230995086
+  instructions: 25709893560
+      branches: 5102760113
+ branch-misses: 533569615
+ active-cycles: 17230995277
+load_store_instructions: 10168782358
+l1i-cache-misses: 2086
+l1d_cache_load_misses: 75809932
+l1d_cache_store_misses: 41143058
+l1i-tlb-misses: 872749
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 3.302104 seconds
+counters value:
+        cycles: 12692254128
+  instructions: 18852135803
+      branches: 3654536945
+ branch-misses: 367996917
+ active-cycles: 12692254255
+load_store_instructions: 7123805058
+l1i-cache-misses: 4493
+l1d_cache_load_misses: 57273250
+l1d_cache_store_misses: 32854337
+l1i-tlb-misses: 634586
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 2.543723 seconds
+counters value:
+        cycles: 10423464966
+  instructions: 15383804614
+      branches: 2925725657
+ branch-misses: 284567155
+ active-cycles: 10423465122
+load_store_instructions: 5568736933
+l1i-cache-misses: 1986
+l1d_cache_load_misses: 46946979
+l1d_cache_store_misses: 26967479
+l1i-tlb-misses: 558317
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 2.314837 seconds
+counters value:
+        cycles: 9294737107
+  instructions: 13239094782
+      branches: 2489918983
+ branch-misses: 237171170
+ active-cycles: 9294731663
+load_store_instructions: 4579309258
+l1i-cache-misses: 45755
+l1d_cache_load_misses: 46023606
+l1d_cache_store_misses: 24105695
+l1i-tlb-misses: 551698
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 2.077202 seconds
+counters value:
+        cycles: 8487044615
+  instructions: 11966984014
+      branches: 2210127087
+ branch-misses: 205775741
+ active-cycles: 8487041861
+load_store_instructions: 4030906515
+l1i-cache-misses: 22713
+l1d_cache_load_misses: 38511797
+l1d_cache_store_misses: 20093631
+l1i-tlb-misses: 529324
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 1.928659 seconds
+counters value:
+        cycles: 7942944630
+  instructions: 10800771385
+      branches: 2022784312
+ branch-misses: 186653830
+ active-cycles: 7942940721
+load_store_instructions: 3390914909
+l1i-cache-misses: 27326
+l1d_cache_load_misses: 44155301
+l1d_cache_store_misses: 21364603
+l1i-tlb-misses: 473238
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 1.796655 seconds
+counters value:
+        cycles: 7549386048
+  instructions: 10159030364
+      branches: 1849555740
+ branch-misses: 172057778
+ active-cycles: 7549379327
+load_store_instructions: 3187723439
+l1i-cache-misses: 24551
+l1d_cache_load_misses: 42566374
+l1d_cache_store_misses: 23937067
+l1i-tlb-misses: 475407
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 99.500878 seconds
+counters value:
+        cycles: 346584388852
+  instructions: 513508947133
+      branches: 106813859529
+ branch-misses: 11588366159
+ active-cycles: 346584366936
+load_store_instructions: 211459441051
+l1i-cache-misses: 458631
+l1d_cache_load_misses: 2029557457
+l1d_cache_store_misses: 1234597443
+l1i-tlb-misses: 26047093
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 52.934798 seconds
+counters value:
+        cycles: 192479675475
+  instructions: 281782437360
+      branches: 56898995970
+ branch-misses: 5953219733
+ active-cycles: 192479665569
+load_store_instructions: 110757890385
+l1i-cache-misses: 192261
+l1d_cache_load_misses: 1150949489
+l1d_cache_store_misses: 720033206
+l1i-tlb-misses: 14718143
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 37.139539 seconds
+counters value:
+        cycles: 139489635377
+  instructions: 201906657000
+      branches: 39919128222
+ branch-misses: 4138358356
+ active-cycles: 139489635361
+load_store_instructions: 75939087705
+l1i-cache-misses: 13302
+l1d_cache_load_misses: 646093076
+l1d_cache_store_misses: 366652539
+l1i-tlb-misses: 6784168
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 28.881661 seconds
+counters value:
+        cycles: 114767313915
+  instructions: 163327277543
+      branches: 31779883770
+ branch-misses: 3231558676
+ active-cycles: 114767314307
+load_store_instructions: 58731288024
+l1i-cache-misses: 5373
+l1d_cache_load_misses: 517941552
+l1d_cache_store_misses: 303995463
+l1i-tlb-misses: 5978057
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 25.894993 seconds
+counters value:
+        cycles: 102167187058
+  instructions: 139514604245
+      branches: 26767515226
+ branch-misses: 2713461562
+ active-cycles: 102167179561
+load_store_instructions: 48075654176
+l1i-cache-misses: 98208
+l1d_cache_load_misses: 547526553
+l1d_cache_store_misses: 264559814
+l1i-tlb-misses: 6139052
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 23.627170 seconds
+counters value:
+        cycles: 92914270891
+  instructions: 123949322579
+      branches: 23479493687
+ branch-misses: 2354176746
+ active-cycles: 92914249425
+load_store_instructions: 41187016675
+l1i-cache-misses: 169981
+l1d_cache_load_misses: 429648048
+l1d_cache_store_misses: 235533910
+l1i-tlb-misses: 5646646
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 21.692622 seconds
+counters value:
+        cycles: 86315617566
+  instructions: 113553989976
+      branches: 21298787629
+ branch-misses: 2107364386
+ active-cycles: 86315587441
+load_store_instructions: 36537754987
+l1i-cache-misses: 225566
+l1d_cache_load_misses: 400075212
+l1d_cache_store_misses: 220186424
+l1i-tlb-misses: 5121033
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 20.260326 seconds
+counters value:
+        cycles: 81229383592
+  instructions: 105024810894
+      branches: 19484102631
+ branch-misses: 1915361818
+ active-cycles: 81229282458
+load_store_instructions: 32763826999
+l1i-cache-misses: 260736
+l1d_cache_load_misses: 370476170
+l1d_cache_store_misses: 206223499
+l1i-tlb-misses: 5145551
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 0.070575 seconds
+counters value:
+        cycles: 249685212
+  instructions: 410231322
+      branches: 79706879
+ branch-misses: 7937680
+ active-cycles: 249685097
+load_store_instructions: 177206163
+l1i-cache-misses: 926
+l1d_cache_load_misses: 732942
+l1d_cache_store_misses: 418985
+l1i-tlb-misses: 18703
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 0.037500 seconds
+counters value:
+        cycles: 143998521
+  instructions: 228064990
+      branches: 43319749
+ branch-misses: 4218389
+ active-cycles: 143998515
+load_store_instructions: 92045978
+l1i-cache-misses: 1027
+l1d_cache_load_misses: 502952
+l1d_cache_store_misses: 306106
+l1i-tlb-misses: 10888
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 0.027293 seconds
+counters value:
+        cycles: 109749102
+  instructions: 171659336
+      branches: 32140660
+ branch-misses: 2987905
+ active-cycles: 109748770
+load_store_instructions: 65381343
+l1i-cache-misses: 1723
+l1d_cache_load_misses: 447593
+l1d_cache_store_misses: 283145
+l1i-tlb-misses: 8317
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 0.021551 seconds
+counters value:
+        cycles: 92690536
+  instructions: 140108077
+      branches: 26099798
+ branch-misses: 2404093
+ active-cycles: 92690419
+load_store_instructions: 50132715
+l1i-cache-misses: 1315
+l1d_cache_load_misses: 419528
+l1d_cache_store_misses: 269753
+l1i-tlb-misses: 6657
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 0.019567 seconds
+counters value:
+        cycles: 86776108
+  instructions: 132232820
+      branches: 24129703
+ branch-misses: 2168851
+ active-cycles: 86776066
+load_store_instructions: 47233437
+l1i-cache-misses: 1646
+l1d_cache_load_misses: 382930
+l1d_cache_store_misses: 252023
+l1i-tlb-misses: 7531
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 0.018079 seconds
+counters value:
+        cycles: 82376436
+  instructions: 122098696
+      branches: 22454814
+ branch-misses: 2036816
+ active-cycles: 82376301
+load_store_instructions: 41783665
+l1i-cache-misses: 1725
+l1d_cache_load_misses: 432630
+l1d_cache_store_misses: 254999
+l1i-tlb-misses: 6747
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 0.016925 seconds
+counters value:
+        cycles: 78823418
+  instructions: 119984121
+      branches: 21803218
+ branch-misses: 1858088
+ active-cycles: 78823273
+load_store_instructions: 41235707
+l1i-cache-misses: 2710
+l1d_cache_load_misses: 398146
+l1d_cache_store_misses: 248671
+l1i-tlb-misses: 6393
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 0.016238 seconds
+counters value:
+        cycles: 76526046
+  instructions: 109378508
+      branches: 20140057
+ branch-misses: 1846989
+ active-cycles: 76525859
+load_store_instructions: 35342158
+l1i-cache-misses: 2512
+l1d_cache_load_misses: 421284
+l1d_cache_store_misses: 253973
+l1i-tlb-misses: 5328
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 0.798246 seconds
+counters value:
+        cycles: 2789461203
+  instructions: 4412305075
+      branches: 885506053
+ branch-misses: 90293767
+ active-cycles: 2789461824
+load_store_instructions: 1861127558
+l1i-cache-misses: 1123
+l1d_cache_load_misses: 10874119
+l1d_cache_store_misses: 5540555
+l1i-tlb-misses: 172506
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 0.416244 seconds
+counters value:
+        cycles: 1570247620
+  instructions: 2455367676
+      branches: 472926513
+ branch-misses: 46520450
+ active-cycles: 1570247807
+load_store_instructions: 991148797
+l1i-cache-misses: 2317
+l1d_cache_load_misses: 5888209
+l1d_cache_store_misses: 3125769
+l1i-tlb-misses: 95465
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 0.297299 seconds
+counters value:
+        cycles: 1172444694
+  instructions: 1798216081
+      branches: 340218706
+ branch-misses: 32358855
+ active-cycles: 1172445456
+load_store_instructions: 686039814
+l1i-cache-misses: 1917
+l1d_cache_load_misses: 5345810
+l1d_cache_store_misses: 2774571
+l1i-tlb-misses: 71869
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 0.230980 seconds
+counters value:
+        cycles: 974119335
+  instructions: 1452751785
+      branches: 272195062
+ branch-misses: 25464438
+ active-cycles: 974119472
+load_store_instructions: 523111405
+l1i-cache-misses: 1659
+l1d_cache_load_misses: 4396436
+l1d_cache_store_misses: 2366673
+l1i-tlb-misses: 57918
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 0.207582 seconds
+counters value:
+        cycles: 870930463
+  instructions: 1269769827
+      branches: 232569836
+ branch-misses: 21024824
+ active-cycles: 870930342
+load_store_instructions: 443264817
+l1i-cache-misses: 2750
+l1d_cache_load_misses: 4162243
+l1d_cache_store_misses: 2311429
+l1i-tlb-misses: 60363
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 0.188998 seconds
+counters value:
+        cycles: 802033138
+  instructions: 1136491738
+      branches: 207097515
+ branch-misses: 18607728
+ active-cycles: 802033384
+load_store_instructions: 378403725
+l1i-cache-misses: 3412
+l1d_cache_load_misses: 3808141
+l1d_cache_store_misses: 1979439
+l1i-tlb-misses: 55878
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 0.174070 seconds
+counters value:
+        cycles: 749230565
+  instructions: 1047186566
+      branches: 188255447
+ branch-misses: 16335406
+ active-cycles: 749230258
+load_store_instructions: 338567574
+l1i-cache-misses: 3352
+l1d_cache_load_misses: 3598624
+l1d_cache_store_misses: 1782824
+l1i-tlb-misses: 54363
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 0.162143 seconds
+counters value:
+        cycles: 714127934
+  instructions: 981461079
+      branches: 174584536
+ branch-misses: 15261823
+ active-cycles: 714128162
+load_store_instructions: 308669517
+l1i-cache-misses: 6402
+l1d_cache_load_misses: 3284347
+l1d_cache_store_misses: 1676748
+l1i-tlb-misses: 53598
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 8.947587 seconds
+counters value:
+        cycles: 30918413191
+  instructions: 47347248180
+      branches: 9694186297
+ branch-misses: 1030557725
+ active-cycles: 30918413203
+load_store_instructions: 19737142413
+l1i-cache-misses: 1641
+l1d_cache_load_misses: 136569542
+l1d_cache_store_misses: 72874987
+l1i-tlb-misses: 1589791
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 4.662186 seconds
+counters value:
+        cycles: 17237174711
+  instructions: 25716129780
+      branches: 5104059717
+ branch-misses: 533763950
+ active-cycles: 17237174968
+load_store_instructions: 10171403769
+l1i-cache-misses: 2430
+l1d_cache_load_misses: 76799962
+l1d_cache_store_misses: 41629714
+l1i-tlb-misses: 921423
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 3.311635 seconds
+counters value:
+        cycles: 12720916971
+  instructions: 18848698066
+      branches: 3694271584
+ branch-misses: 369078440
+ active-cycles: 12720917222
+load_store_instructions: 7036829217
+l1i-cache-misses: 6999
+l1d_cache_load_misses: 61498931
+l1d_cache_store_misses: 35257378
+l1i-tlb-misses: 628534
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 2.547447 seconds
+counters value:
+        cycles: 10439546274
+  instructions: 15302960925
+      branches: 2951639387
+ branch-misses: 285517656
+ active-cycles: 10439546838
+load_store_instructions: 5444265248
+l1i-cache-misses: 2641
+l1d_cache_load_misses: 54734633
+l1d_cache_store_misses: 29898652
+l1i-tlb-misses: 513369
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 2.278796 seconds
+counters value:
+        cycles: 9284318704
+  instructions: 13249823666
+      branches: 2486415875
+ branch-misses: 237479159
+ active-cycles: 9284318334
+load_store_instructions: 4589845106
+l1i-cache-misses: 6849
+l1d_cache_load_misses: 40453092
+l1d_cache_store_misses: 22391811
+l1i-tlb-misses: 519181
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 2.079398 seconds
+counters value:
+        cycles: 8523546159
+  instructions: 11872409779
+      branches: 2210829161
+ branch-misses: 208071399
+ active-cycles: 8523544354
+load_store_instructions: 3953043405
+l1i-cache-misses: 18953
+l1d_cache_load_misses: 43028311
+l1d_cache_store_misses: 21988614
+l1i-tlb-misses: 491267
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 1.924191 seconds
+counters value:
+        cycles: 7966334201
+  instructions: 10924399180
+      branches: 2005785969
+ branch-misses: 185872281
+ active-cycles: 7966332278
+load_store_instructions: 3535454768
+l1i-cache-misses: 22626
+l1d_cache_load_misses: 41374252
+l1d_cache_store_misses: 21535519
+l1i-tlb-misses: 514793
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 1.798817 seconds
+counters value:
+        cycles: 7535858190
+  instructions: 10134643841
+      branches: 1848328212
+ branch-misses: 170490235
+ active-cycles: 7535850751
+load_store_instructions: 3164141612
+l1i-cache-misses: 28182
+l1d_cache_load_misses: 38042223
+l1d_cache_store_misses: 19182213
+l1i-tlb-misses: 478264
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 98.805125 seconds
+counters value:
+        cycles: 341132497036
+  instructions: 507639858538
+      branches: 105838589965
+ branch-misses: 11572920133
+ active-cycles: 341132497302
+load_store_instructions: 209256707854
+l1i-cache-misses: 12195
+l1d_cache_load_misses: 1635453768
+l1d_cache_store_misses: 870719342
+l1i-tlb-misses: 16556992
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 51.930572 seconds
+counters value:
+        cycles: 189368649375
+  instructions: 278537735316
+      branches: 56376790290
+ branch-misses: 5944761730
+ active-cycles: 189368643746
+load_store_instructions: 109494199894
+l1i-cache-misses: 69590
+l1d_cache_load_misses: 956970207
+l1d_cache_store_misses: 479805110
+l1i-tlb-misses: 10156164
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 37.120320 seconds
+counters value:
+        cycles: 139893378426
+  instructions: 202179934198
+      branches: 39969457114
+ branch-misses: 4134021727
+ active-cycles: 139893371920
+load_store_instructions: 76027490723
+l1i-cache-misses: 81959
+l1d_cache_load_misses: 717021822
+l1d_cache_store_misses: 367920436
+l1i-tlb-misses: 7818968
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 28.919997 seconds
+counters value:
+        cycles: 114837033059
+  instructions: 164309184796
+      branches: 31996404195
+ branch-misses: 3231918333
+ active-cycles: 114837033146
+load_store_instructions: 59181906425
+l1i-cache-misses: 4824
+l1d_cache_load_misses: 531367131
+l1d_cache_store_misses: 311994673
+l1i-tlb-misses: 6128821
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 25.911709 seconds
+counters value:
+        cycles: 101852765330
+  instructions: 141124054604
+      branches: 27080352947
+ branch-misses: 2705798483
+ active-cycles: 101852761411
+load_store_instructions: 48916670196
+l1i-cache-misses: 65601
+l1d_cache_load_misses: 481205195
+l1d_cache_store_misses: 272338195
+l1i-tlb-misses: 5719216
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 23.655613 seconds
+counters value:
+        cycles: 92964722446
+  instructions: 123112013320
+      branches: 23335681692
+ branch-misses: 2364819197
+ active-cycles: 92964695736
+load_store_instructions: 40719415822
+l1i-cache-misses: 191121
+l1d_cache_load_misses: 423578761
+l1d_cache_store_misses: 231305517
+l1i-tlb-misses: 5549514
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 21.761124 seconds
+counters value:
+        cycles: 86398881956
+  instructions: 113457030331
+      branches: 21258292694
+ branch-misses: 2107797795
+ active-cycles: 86398847147
+load_store_instructions: 36532610614
+l1i-cache-misses: 241606
+l1d_cache_load_misses: 426018494
+l1d_cache_store_misses: 216627594
+l1i-tlb-misses: 5446384
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 20.313489 seconds
+counters value:
+        cycles: 81344505966
+  instructions: 104202061103
+      branches: 19400163375
+ branch-misses: 1932235386
+ active-cycles: 81344405664
+load_store_instructions: 32211016871
+l1i-cache-misses: 252141
+l1d_cache_load_misses: 380475702
+l1d_cache_store_misses: 207749289
+l1i-tlb-misses: 5012242
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 0.070603 seconds
+counters value:
+        cycles: 249693841
+  instructions: 410227706
+      branches: 79705758
+ branch-misses: 7940065
+ active-cycles: 249693830
+load_store_instructions: 177205156
+l1i-cache-misses: 885
+l1d_cache_load_misses: 687826
+l1d_cache_store_misses: 369267
+l1i-tlb-misses: 19207
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 0.037538 seconds
+counters value:
+        cycles: 144076833
+  instructions: 228048349
+      branches: 43314892
+ branch-misses: 4222975
+ active-cycles: 144076778
+load_store_instructions: 92053243
+l1i-cache-misses: 1308
+l1d_cache_load_misses: 502961
+l1d_cache_store_misses: 308769
+l1i-tlb-misses: 10193
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 0.027245 seconds
+counters value:
+        cycles: 109602599
+  instructions: 171672825
+      branches: 32115932
+ branch-misses: 2979752
+ active-cycles: 109602360
+load_store_instructions: 65498555
+l1i-cache-misses: 1571
+l1d_cache_load_misses: 437329
+l1d_cache_store_misses: 280022
+l1i-tlb-misses: 8751
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 0.021579 seconds
+counters value:
+        cycles: 92698230
+  instructions: 140434632
+      branches: 26121430
+ branch-misses: 2403673
+ active-cycles: 92698176
+load_store_instructions: 50365608
+l1i-cache-misses: 1251
+l1d_cache_load_misses: 436666
+l1d_cache_store_misses: 280446
+l1i-tlb-misses: 7204
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 0.019680 seconds
+counters value:
+        cycles: 87041412
+  instructions: 129807227
+      branches: 24154826
+ branch-misses: 2200280
+ active-cycles: 87041247
+load_store_instructions: 44986825
+l1i-cache-misses: 1546
+l1d_cache_load_misses: 440875
+l1d_cache_store_misses: 277587
+l1i-tlb-misses: 6795
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 0.017997 seconds
+counters value:
+        cycles: 82041034
+  instructions: 121965745
+      branches: 22222595
+ branch-misses: 2019206
+ active-cycles: 82040924
+load_store_instructions: 42095922
+l1i-cache-misses: 1591
+l1d_cache_load_misses: 404751
+l1d_cache_store_misses: 254751
+l1i-tlb-misses: 6060
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 0.017012 seconds
+counters value:
+        cycles: 79180516
+  instructions: 116206678
+      branches: 21268161
+ branch-misses: 1919864
+ active-cycles: 79180422
+load_store_instructions: 38990651
+l1i-cache-misses: 1700
+l1d_cache_load_misses: 422414
+l1d_cache_store_misses: 253731
+l1i-tlb-misses: 6517
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 0.015844 seconds
+counters value:
+        cycles: 74608857
+  instructions: 110389528
+      branches: 20042118
+ branch-misses: 1700827
+ active-cycles: 74608709
+load_store_instructions: 36396223
+l1i-cache-misses: 2407
+l1d_cache_load_misses: 418047
+l1d_cache_store_misses: 255763
+l1i-tlb-misses: 5952
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 0.797749 seconds
+counters value:
+        cycles: 2787774737
+  instructions: 4412051493
+      branches: 885459616
+ branch-misses: 90266585
+ active-cycles: 2787774629
+load_store_instructions: 1861044707
+l1i-cache-misses: 952
+l1d_cache_load_misses: 10737882
+l1d_cache_store_misses: 5468070
+l1i-tlb-misses: 160832
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 0.416429 seconds
+counters value:
+        cycles: 1571031375
+  instructions: 2456386368
+      branches: 473138637
+ branch-misses: 46514939
+ active-cycles: 1571031790
+load_store_instructions: 991528441
+l1i-cache-misses: 1598
+l1d_cache_load_misses: 5853193
+l1d_cache_store_misses: 3100929
+l1i-tlb-misses: 95880
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 0.306326 seconds
+counters value:
+        cycles: 1157109381
+  instructions: 1789495855
+      branches: 342927633
+ branch-misses: 31509821
+ active-cycles: 1157109289
+load_store_instructions: 665685445
+l1i-cache-misses: 9973
+l1d_cache_load_misses: 5225671
+l1d_cache_store_misses: 2790173
+l1i-tlb-misses: 65294
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 0.230681 seconds
+counters value:
+        cycles: 973519416
+  instructions: 1473288589
+      branches: 274198243
+ branch-misses: 25278583
+ active-cycles: 973519960
+load_store_instructions: 536348752
+l1i-cache-misses: 1503
+l1d_cache_load_misses: 4225249
+l1d_cache_store_misses: 2280753
+l1i-tlb-misses: 56480
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 0.207244 seconds
+counters value:
+        cycles: 876417988
+  instructions: 1291310873
+      branches: 237733121
+ branch-misses: 21317780
+ active-cycles: 876418405
+load_store_instructions: 451355021
+l1i-cache-misses: 2553
+l1d_cache_load_misses: 3906522
+l1d_cache_store_misses: 2042129
+l1i-tlb-misses: 56672
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 0.188345 seconds
+counters value:
+        cycles: 799559068
+  instructions: 1138085133
+      branches: 206839032
+ branch-misses: 18412663
+ active-cycles: 799558657
+load_store_instructions: 380442937
+l1i-cache-misses: 4112
+l1d_cache_load_misses: 4004708
+l1d_cache_store_misses: 2135117
+l1i-tlb-misses: 56291
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 0.173410 seconds
+counters value:
+        cycles: 745839079
+  instructions: 1049438986
+      branches: 187969888
+ branch-misses: 16163646
+ active-cycles: 745838620
+load_store_instructions: 341192191
+l1i-cache-misses: 4505
+l1d_cache_load_misses: 3701341
+l1d_cache_store_misses: 2070617
+l1i-tlb-misses: 53192
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 0.163066 seconds
+counters value:
+        cycles: 714049794
+  instructions: 976504147
+      branches: 174052087
+ branch-misses: 15190359
+ active-cycles: 714049790
+load_store_instructions: 305601183
+l1i-cache-misses: 6412
+l1d_cache_load_misses: 3775098
+l1d_cache_store_misses: 2035397
+l1i-tlb-misses: 53623
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 8.948173 seconds
+counters value:
+        cycles: 30919595686
+  instructions: 47356141397
+      branches: 9698545375
+ branch-misses: 1030317157
+ active-cycles: 30919596000
+load_store_instructions: 19741507822
+l1i-cache-misses: 1452
+l1d_cache_load_misses: 135179262
+l1d_cache_store_misses: 71424912
+l1i-tlb-misses: 1607915
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 4.677030 seconds
+counters value:
+        cycles: 17280767881
+  instructions: 25800766939
+      branches: 5121472257
+ branch-misses: 534985259
+ active-cycles: 17280768632
+load_store_instructions: 10210029883
+l1i-cache-misses: 2412
+l1d_cache_load_misses: 77883639
+l1d_cache_store_misses: 43844949
+l1i-tlb-misses: 960398
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 3.302442 seconds
+counters value:
+        cycles: 12693924989
+  instructions: 18868087148
+      branches: 3657135739
+ branch-misses: 368179426
+ active-cycles: 12693925240
+load_store_instructions: 7131295586
+l1i-cache-misses: 3187
+l1d_cache_load_misses: 57147853
+l1d_cache_store_misses: 32959598
+l1i-tlb-misses: 642092
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 2.545434 seconds
+counters value:
+        cycles: 10440855200
+  instructions: 15276900210
+      branches: 2913757209
+ branch-misses: 286341232
+ active-cycles: 10440855343
+load_store_instructions: 5502977418
+l1i-cache-misses: 2672
+l1d_cache_load_misses: 48906797
+l1d_cache_store_misses: 28619005
+l1i-tlb-misses: 508457
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 2.276398 seconds
+counters value:
+        cycles: 9272386749
+  instructions: 13112446692
+      branches: 2508025066
+ branch-misses: 238770756
+ active-cycles: 9272387099
+load_store_instructions: 4431554569
+l1i-cache-misses: 7109
+l1d_cache_load_misses: 54018818
+l1d_cache_store_misses: 30149741
+l1i-tlb-misses: 472622
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 2.078350 seconds
+counters value:
+        cycles: 8511708160
+  instructions: 11880438945
+      branches: 2207990076
+ branch-misses: 207438121
+ active-cycles: 8511706444
+load_store_instructions: 3966500885
+l1i-cache-misses: 17865
+l1d_cache_load_misses: 42764657
+l1d_cache_store_misses: 22577930
+l1i-tlb-misses: 525094
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 1.923127 seconds
+counters value:
+        cycles: 7966264004
+  instructions: 10858745555
+      branches: 1996195388
+ branch-misses: 186148393
+ active-cycles: 7966261329
+load_store_instructions: 3499052093
+l1i-cache-misses: 22282
+l1d_cache_load_misses: 39017219
+l1d_cache_store_misses: 19998537
+l1i-tlb-misses: 500395
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 1.798766 seconds
+counters value:
+        cycles: 7534402452
+  instructions: 10168193871
+      branches: 1850661993
+ branch-misses: 170551054
+ active-cycles: 7534393774
+load_store_instructions: 3192739136
+l1i-cache-misses: 24705
+l1d_cache_load_misses: 43194884
+l1d_cache_store_misses: 24061955
+l1i-tlb-misses: 463659
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 100.897463 seconds
+counters value:
+        cycles: 346635596730
+  instructions: 513564139505
+      branches: 106803529271
+ branch-misses: 11583894867
+ active-cycles: 346635591563
+load_store_instructions: 211570186854
+l1i-cache-misses: 200259
+l1d_cache_load_misses: 1941353734
+l1d_cache_store_misses: 1287703213
+l1i-tlb-misses: 23548320
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 51.956456 seconds
+counters value:
+        cycles: 189045988354
+  instructions: 278291313096
+      branches: 56325321276
+ branch-misses: 5947922745
+ active-cycles: 189045988633
+load_store_instructions: 109413128994
+l1i-cache-misses: 6367
+l1d_cache_load_misses: 889484489
+l1d_cache_store_misses: 481653376
+l1i-tlb-misses: 9723399
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 37.805229 seconds
+counters value:
+        cycles: 141247169720
+  instructions: 202889335039
+      branches: 40312840808
+ branch-misses: 4119374350
+ active-cycles: 141247168671
+load_store_instructions: 75625147713
+l1i-cache-misses: 79908
+l1d_cache_load_misses: 767533409
+l1d_cache_store_misses: 526347475
+l1i-tlb-misses: 9901217
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 28.889649 seconds
+counters value:
+        cycles: 114831681994
+  instructions: 162627339226
+      branches: 31702388790
+ branch-misses: 3247781714
+ active-cycles: 114831682581
+load_store_instructions: 58313760402
+l1i-cache-misses: 5523
+l1d_cache_load_misses: 537415666
+l1d_cache_store_misses: 315812265
+l1i-tlb-misses: 6229443
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 25.941283 seconds
+counters value:
+        cycles: 102276137970
+  instructions: 140730092593
+      branches: 27029767083
+ branch-misses: 2710110278
+ active-cycles: 102276127691
+load_store_instructions: 48645299269
+l1i-cache-misses: 126583
+l1d_cache_load_misses: 561647154
+l1d_cache_store_misses: 271595147
+l1i-tlb-misses: 6062891
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 23.657577 seconds
+counters value:
+        cycles: 92942580215
+  instructions: 125269868101
+      branches: 23614026543
+ branch-misses: 2345511919
+ active-cycles: 92942555559
+load_store_instructions: 42073781804
+l1i-cache-misses: 191450
+l1d_cache_load_misses: 418468914
+l1d_cache_store_misses: 235252408
+l1i-tlb-misses: 5865173
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 22.031072 seconds
+counters value:
+        cycles: 87010292742
+  instructions: 114868156351
+      branches: 21430399769
+ branch-misses: 2112189776
+ active-cycles: 87010243403
+load_store_instructions: 37367602489
+l1i-cache-misses: 305420
+l1d_cache_load_misses: 423268785
+l1d_cache_store_misses: 211473471
+l1i-tlb-misses: 5919164
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 20.378338 seconds
+counters value:
+        cycles: 81527615956
+  instructions: 106387499060
+      branches: 19677390747
+ branch-misses: 1909233581
+ active-cycles: 81527510247
+load_store_instructions: 33521198361
+l1i-cache-misses: 261907
+l1d_cache_load_misses: 384263406
+l1d_cache_store_misses: 196835463
+l1i-tlb-misses: 5548618
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 0.070587 seconds
+counters value:
+        cycles: 249697388
+  instructions: 410240863
+      branches: 79708334
+ branch-misses: 7928117
+ active-cycles: 249697253
+load_store_instructions: 177209053
+l1i-cache-misses: 990
+l1d_cache_load_misses: 745864
+l1d_cache_store_misses: 427523
+l1i-tlb-misses: 17866
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 0.037513 seconds
+counters value:
+        cycles: 144045777
+  instructions: 227950015
+      branches: 43296487
+ branch-misses: 4217744
+ active-cycles: 144045780
+load_store_instructions: 91995520
+l1i-cache-misses: 1249
+l1d_cache_load_misses: 505845
+l1d_cache_store_misses: 307474
+l1i-tlb-misses: 11044
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 0.027266 seconds
+counters value:
+        cycles: 109799714
+  instructions: 170824314
+      branches: 31976236
+ branch-misses: 2993349
+ active-cycles: 109799467
+load_store_instructions: 65046189
+l1i-cache-misses: 1309
+l1d_cache_load_misses: 428543
+l1d_cache_store_misses: 273572
+l1i-tlb-misses: 8189
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 0.021660 seconds
+counters value:
+        cycles: 92901018
+  instructions: 140941851
+      branches: 26272183
+ branch-misses: 2410086
+ active-cycles: 92900820
+load_store_instructions: 50495494
+l1i-cache-misses: 1745
+l1d_cache_load_misses: 421496
+l1d_cache_store_misses: 268940
+l1i-tlb-misses: 6958
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 0.019682 seconds
+counters value:
+        cycles: 87163097
+  instructions: 129970186
+      branches: 24150893
+ branch-misses: 2209573
+ active-cycles: 87162934
+load_store_instructions: 45231899
+l1i-cache-misses: 1608
+l1d_cache_load_misses: 447458
+l1d_cache_store_misses: 278756
+l1i-tlb-misses: 7018
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 0.018021 seconds
+counters value:
+        cycles: 82202525
+  instructions: 123500881
+      branches: 22565703
+ branch-misses: 2010494
+ active-cycles: 82202424
+load_store_instructions: 42788388
+l1i-cache-misses: 1704
+l1d_cache_load_misses: 404942
+l1d_cache_store_misses: 248095
+l1i-tlb-misses: 7291
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 0.017607 seconds
+counters value:
+        cycles: 79979854
+  instructions: 120736312
+      branches: 21788869
+ branch-misses: 1862195
+ active-cycles: 79979778
+load_store_instructions: 41766593
+l1i-cache-misses: 5198
+l1d_cache_load_misses: 393439
+l1d_cache_store_misses: 248822
+l1i-tlb-misses: 8873
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 0.016018 seconds
+counters value:
+        cycles: 74288153
+  instructions: 107795899
+      branches: 19276847
+ branch-misses: 1679054
+ active-cycles: 74287943
+load_store_instructions: 35687129
+l1i-cache-misses: 2160
+l1d_cache_load_misses: 382166
+l1d_cache_store_misses: 238299
+l1i-tlb-misses: 6977
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 0.797427 seconds
+counters value:
+        cycles: 2787974103
+  instructions: 4412265442
+      branches: 885512135
+ branch-misses: 90213792
+ active-cycles: 2787973850
+load_store_instructions: 1861106834
+l1i-cache-misses: 1057
+l1d_cache_load_misses: 11175058
+l1d_cache_store_misses: 5591401
+l1i-tlb-misses: 168873
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 0.419663 seconds
+counters value:
+        cycles: 1575640119
+  instructions: 2465253863
+      branches: 475608513
+ branch-misses: 46696823
+ active-cycles: 1575640101
+load_store_instructions: 992731006
+l1i-cache-misses: 2732
+l1d_cache_load_misses: 5951130
+l1d_cache_store_misses: 3138289
+l1i-tlb-misses: 93029
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 0.306424 seconds
+counters value:
+        cycles: 1200579370
+  instructions: 1761820234
+      branches: 335477003
+ branch-misses: 33912351
+ active-cycles: 1200580475
+load_store_instructions: 664079201
+l1i-cache-misses: 1553
+l1d_cache_load_misses: 5560201
+l1d_cache_store_misses: 2931786
+l1i-tlb-misses: 69727
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 0.231028 seconds
+counters value:
+        cycles: 974943804
+  instructions: 1466840060
+      branches: 274926383
+ branch-misses: 25399739
+ active-cycles: 974944633
+load_store_instructions: 529080205
+l1i-cache-misses: 1577
+l1d_cache_load_misses: 4586439
+l1d_cache_store_misses: 2503554
+l1i-tlb-misses: 60973
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 0.207078 seconds
+counters value:
+        cycles: 881944376
+  instructions: 1290095729
+      branches: 237999950
+ branch-misses: 21733706
+ active-cycles: 881944323
+load_store_instructions: 449941291
+l1i-cache-misses: 1956
+l1d_cache_load_misses: 4650666
+l1d_cache_store_misses: 2384822
+l1i-tlb-misses: 58552
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 0.189193 seconds
+counters value:
+        cycles: 802126116
+  instructions: 1145897347
+      branches: 208238671
+ branch-misses: 18468681
+ active-cycles: 802125831
+load_store_instructions: 384316062
+l1i-cache-misses: 3786
+l1d_cache_load_misses: 3930767
+l1d_cache_store_misses: 2031001
+l1i-tlb-misses: 58586
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 0.174306 seconds
+counters value:
+        cycles: 752016505
+  instructions: 1047706217
+      branches: 126423486
+ branch-misses: 13509213
+ active-cycles: 404127912
+load_store_instructions: 274512882
+l1i-cache-misses: 3374
+l1d_cache_load_misses: 2905573
+l1d_cache_store_misses: 1215545
+l1i-tlb-misses: 34784
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 0.162485 seconds
+counters value:
+        cycles: 710415140
+  instructions: 971730653
+      branches: 171841514
+ branch-misses: 15117967
+ active-cycles: 710414716
+load_store_instructions: 305999243
+l1i-cache-misses: 4999
+l1d_cache_load_misses: 3270850
+l1d_cache_store_misses: 1678300
+l1i-tlb-misses: 52749
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 8.947426 seconds
+counters value:
+        cycles: 30918098604
+  instructions: 47347671393
+      branches: 9694318848
+ branch-misses: 1030501983
+ active-cycles: 30918098516
+load_store_instructions: 19737243017
+l1i-cache-misses: 1498
+l1d_cache_load_misses: 135759778
+l1d_cache_store_misses: 73231577
+l1i-tlb-misses: 1629578
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 4.662532 seconds
+counters value:
+        cycles: 17236988926
+  instructions: 25726183385
+      branches: 5105955505
+ branch-misses: 533498631
+ active-cycles: 17236989139
+load_store_instructions: 10176445971
+l1i-cache-misses: 1978
+l1d_cache_load_misses: 82447965
+l1d_cache_store_misses: 45442522
+l1i-tlb-misses: 866667
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 3.301269 seconds
+counters value:
+        cycles: 12687330979
+  instructions: 18910600261
+      branches: 3665324745
+ branch-misses: 367577930
+ active-cycles: 12687331304
+load_store_instructions: 7150731740
+l1i-cache-misses: 3907
+l1d_cache_load_misses: 56910663
+l1d_cache_store_misses: 32680294
+l1i-tlb-misses: 609395
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 2.543167 seconds
+counters value:
+        cycles: 10439494140
+  instructions: 15289987970
+      branches: 2917161760
+ branch-misses: 286217428
+ active-cycles: 10439494315
+load_store_instructions: 5507768788
+l1i-cache-misses: 2713
+l1d_cache_load_misses: 52445356
+l1d_cache_store_misses: 32573937
+l1i-tlb-misses: 513872
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 2.275637 seconds
+counters value:
+        cycles: 9269273293
+  instructions: 13260523251
+      branches: 2492293672
+ branch-misses: 237175041
+ active-cycles: 9269273346
+load_store_instructions: 4593959191
+l1i-cache-misses: 5640
+l1d_cache_load_misses: 45747835
+l1d_cache_store_misses: 23721801
+l1i-tlb-misses: 517502
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 2.078067 seconds
+counters value:
+        cycles: 8499348784
+  instructions: 11771615275
+      branches: 2183485781
+ branch-misses: 207429952
+ active-cycles: 8499346875
+load_store_instructions: 3919524346
+l1i-cache-misses: 18189
+l1d_cache_load_misses: 41956031
+l1d_cache_store_misses: 21804188
+l1i-tlb-misses: 527606
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 1.923763 seconds
+counters value:
+        cycles: 7953215428
+  instructions: 10918551331
+      branches: 2002941187
+ branch-misses: 184831805
+ active-cycles: 7953213353
+load_store_instructions: 3533959159
+l1i-cache-misses: 55684
+l1d_cache_load_misses: 43678113
+l1d_cache_store_misses: 23460786
+l1i-tlb-misses: 521054
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 1.797356 seconds
+counters value:
+        cycles: 7538095815
+  instructions: 10195722293
+      branches: 1861063974
+ branch-misses: 170313936
+ active-cycles: 7538087213
+load_store_instructions: 3193707598
+l1i-cache-misses: 20849
+l1d_cache_load_misses: 37745847
+l1d_cache_store_misses: 19702097
+l1i-tlb-misses: 481670
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 100.275537 seconds
+counters value:
+        cycles: 346971655446
+  instructions: 511169574792
+      branches: 106415316729
+ branch-misses: 11584790127
+ active-cycles: 346971644983
+load_store_instructions: 210620651922
+l1i-cache-misses: 324102
+l1d_cache_load_misses: 1844828624
+l1d_cache_store_misses: 1097114125
+l1i-tlb-misses: 22821027
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 52.004417 seconds
+counters value:
+        cycles: 189073208467
+  instructions: 277342084779
+      branches: 56121425513
+ branch-misses: 5936883462
+ active-cycles: 189073205316
+load_store_instructions: 108955412263
+l1i-cache-misses: 53045
+l1d_cache_load_misses: 913482503
+l1d_cache_store_misses: 490069808
+l1i-tlb-misses: 9469661
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 37.130759 seconds
+counters value:
+        cycles: 139526077298
+  instructions: 201688893479
+      branches: 40121143858
+ branch-misses: 4118102184
+ active-cycles: 139526077473
+load_store_instructions: 75315163961
+l1i-cache-misses: 7612
+l1d_cache_load_misses: 666287084
+l1d_cache_store_misses: 374335532
+l1i-tlb-misses: 7211832
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 29.042215 seconds
+counters value:
+        cycles: 115511864733
+  instructions: 163229014774
+      branches: 31937463808
+ branch-misses: 3233817662
+ active-cycles: 115511851863
+load_store_instructions: 58288910719
+l1i-cache-misses: 139990
+l1d_cache_load_misses: 587237406
+l1d_cache_store_misses: 328950872
+l1i-tlb-misses: 6311578
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 26.021295 seconds
+counters value:
+        cycles: 102140267252
+  instructions: 139661461608
+      branches: 26795174575
+ branch-misses: 2719452625
+ active-cycles: 102140257044
+load_store_instructions: 48152483973
+l1i-cache-misses: 317510
+l1d_cache_load_misses: 501615117
+l1d_cache_store_misses: 267292533
+l1i-tlb-misses: 6090859
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 24.657476 seconds
+counters value:
+        cycles: 96098786404
+  instructions: 128912405678
+      branches: 24428570310
+ branch-misses: 2357603349
+ active-cycles: 96098738322
+load_store_instructions: 43040352494
+l1i-cache-misses: 703450
+l1d_cache_load_misses: 628891967
+l1d_cache_store_misses: 489322138
+l1i-tlb-misses: 9851837
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 21.936143 seconds
+counters value:
+        cycles: 86524544069
+  instructions: 114042749395
+      branches: 21341153179
+ branch-misses: 2093253245
+ active-cycles: 86524447693
+load_store_instructions: 36857027667
+l1i-cache-misses: 752133
+l1d_cache_load_misses: 413640031
+l1d_cache_store_misses: 217778283
+l1i-tlb-misses: 5627644
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 21.565397 seconds
+counters value:
+        cycles: 83939806840
+  instructions: 108134192759
+      branches: 20127997554
+ branch-misses: 1916107945
+ active-cycles: 83939615874
+load_store_instructions: 33691340725
+l1i-cache-misses: 764745
+l1d_cache_load_misses: 551843990
+l1d_cache_store_misses: 423716151
+l1i-tlb-misses: 8451888
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 0.070684 seconds
+counters value:
+        cycles: 250001344
+  instructions: 410299752
+      branches: 79720286
+ branch-misses: 7941429
+ active-cycles: 250001083
+load_store_instructions: 177226567
+l1i-cache-misses: 919
+l1d_cache_load_misses: 740533
+l1d_cache_store_misses: 410867
+l1i-tlb-misses: 18804
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 0.038422 seconds
+counters value:
+        cycles: 144515648
+  instructions: 228115128
+      branches: 43330401
+ branch-misses: 4235598
+ active-cycles: 144515667
+load_store_instructions: 92042273
+l1i-cache-misses: 2114
+l1d_cache_load_misses: 528359
+l1d_cache_store_misses: 318147
+l1i-tlb-misses: 11569
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 0.027284 seconds
+counters value:
+        cycles: 110816258
+  instructions: 173151412
+      branches: 33027481
+ branch-misses: 2982001
+ active-cycles: 110816139
+load_store_instructions: 66207029
+l1i-cache-misses: 1558
+l1d_cache_load_misses: 464956
+l1d_cache_store_misses: 301640
+l1i-tlb-misses: 8690
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 0.021572 seconds
+counters value:
+        cycles: 92886653
+  instructions: 140560997
+      branches: 26150376
+ branch-misses: 2403205
+ active-cycles: 92886679
+load_store_instructions: 50432388
+l1i-cache-misses: 1707
+l1d_cache_load_misses: 425726
+l1d_cache_store_misses: 271309
+l1i-tlb-misses: 7638
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 0.019873 seconds
+counters value:
+        cycles: 87738698
+  instructions: 131219596
+      branches: 24747294
+ branch-misses: 2210670
+ active-cycles: 87738702
+load_store_instructions: 45820325
+l1i-cache-misses: 1732
+l1d_cache_load_misses: 417686
+l1d_cache_store_misses: 266447
+l1i-tlb-misses: 6619
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 0.018151 seconds
+counters value:
+        cycles: 82496799
+  instructions: 123684826
+      branches: 22417401
+ branch-misses: 2022192
+ active-cycles: 82496494
+load_store_instructions: 43220942
+l1i-cache-misses: 1897
+l1d_cache_load_misses: 381540
+l1d_cache_store_misses: 251434
+l1i-tlb-misses: 7130
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 0.017173 seconds
+counters value:
+        cycles: 73695681
+  instructions: 101707321
+      branches: 18391842
+ branch-misses: 1640027
+ active-cycles: 73695168
+load_store_instructions: 32181802
+l1i-cache-misses: 4270
+l1d_cache_load_misses: 401478
+l1d_cache_store_misses: 254946
+l1i-tlb-misses: 6816
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 0.016085 seconds
+counters value:
+        cycles: 75796333
+  instructions: 113661068
+      branches: 20436055
+ branch-misses: 1742499
+ active-cycles: 75796228
+load_store_instructions: 38487074
+l1i-cache-misses: 2607
+l1d_cache_load_misses: 377130
+l1d_cache_store_misses: 240713
+l1i-tlb-misses: 6698
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 0.799152 seconds
+counters value:
+        cycles: 2792172979
+  instructions: 4412900734
+      branches: 885619619
+ branch-misses: 90204470
+ active-cycles: 2792173153
+load_store_instructions: 1861313527
+l1i-cache-misses: 2029
+l1d_cache_load_misses: 10753256
+l1d_cache_store_misses: 5540889
+l1i-tlb-misses: 163303
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 0.416471 seconds
+counters value:
+        cycles: 1571094483
+  instructions: 2459809765
+      branches: 473848033
+ branch-misses: 46583199
+ active-cycles: 1571095051
+load_store_instructions: 993017346
+l1i-cache-misses: 1723
+l1d_cache_load_misses: 5877033
+l1d_cache_store_misses: 3132754
+l1i-tlb-misses: 92538
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 0.297044 seconds
+counters value:
+        cycles: 1171606965
+  instructions: 1789763238
+      branches: 338579816
+ branch-misses: 32315180
+ active-cycles: 1171607280
+load_store_instructions: 681934066
+l1i-cache-misses: 1882
+l1d_cache_load_misses: 4696987
+l1d_cache_store_misses: 2574274
+l1i-tlb-misses: 74124
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 0.230940 seconds
+counters value:
+        cycles: 976002134
+  instructions: 1447749230
+      branches: 270787235
+ branch-misses: 25433912
+ active-cycles: 976002416
+load_store_instructions: 521516530
+l1i-cache-misses: 1622
+l1d_cache_load_misses: 4326783
+l1d_cache_store_misses: 2451701
+l1i-tlb-misses: 57975
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 0.207807 seconds
+counters value:
+        cycles: 877558867
+  instructions: 1279867680
+      branches: 239096071
+ branch-misses: 21492841
+ active-cycles: 877559351
+load_store_instructions: 438960650
+l1i-cache-misses: 3641
+l1d_cache_load_misses: 4717121
+l1d_cache_store_misses: 2592541
+l1i-tlb-misses: 55300
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 0.189085 seconds
+counters value:
+        cycles: 806295907
+  instructions: 1153011198
+      branches: 209625484
+ branch-misses: 18662540
+ active-cycles: 806295459
+load_store_instructions: 387626069
+l1i-cache-misses: 7124
+l1d_cache_load_misses: 3603102
+l1d_cache_store_misses: 2261546
+l1i-tlb-misses: 55881
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 0.175314 seconds
+counters value:
+        cycles: 760622663
+  instructions: 1040763882
+      branches: 188174844
+ branch-misses: 17119803
+ active-cycles: 760622343
+load_store_instructions: 333549519
+l1i-cache-misses: 6681
+l1d_cache_load_misses: 3934554
+l1d_cache_store_misses: 2081339
+l1i-tlb-misses: 50169
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 0.165525 seconds
+counters value:
+        cycles: 696735436
+  instructions: 954763475
+      branches: 168989282
+ branch-misses: 14583799
+ active-cycles: 696734535
+load_store_instructions: 296543937
+l1i-cache-misses: 10324
+l1d_cache_load_misses: 3336035
+l1d_cache_store_misses: 1904156
+l1i-tlb-misses: 50029
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 8.969002 seconds
+counters value:
+        cycles: 30987473394
+  instructions: 47368014845
+      branches: 9700566344
+ branch-misses: 1030222117
+ active-cycles: 30987473640
+load_store_instructions: 19744998904
+l1i-cache-misses: 3358
+l1d_cache_load_misses: 137402472
+l1d_cache_store_misses: 73397368
+l1i-tlb-misses: 1662889
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 4.667033 seconds
+counters value:
+        cycles: 17250514341
+  instructions: 25698628142
+      branches: 5100588801
+ branch-misses: 532548538
+ active-cycles: 17250514702
+load_store_instructions: 10161590800
+l1i-cache-misses: 2234
+l1d_cache_load_misses: 76378360
+l1d_cache_store_misses: 42214412
+l1i-tlb-misses: 875159
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 3.303598 seconds
+counters value:
+        cycles: 12702727971
+  instructions: 18988916191
+      branches: 3670318873
+ branch-misses: 364799663
+ active-cycles: 12702728393
+load_store_instructions: 7205456215
+l1i-cache-misses: 2937
+l1d_cache_load_misses: 56585997
+l1d_cache_store_misses: 31605422
+l1i-tlb-misses: 701304
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 2.547798 seconds
+counters value:
+        cycles: 10444064079
+  instructions: 15449193559
+      branches: 2948094016
+ branch-misses: 283202699
+ active-cycles: 10444064715
+load_store_instructions: 5578407098
+l1i-cache-misses: 2088
+l1d_cache_load_misses: 47944296
+l1d_cache_store_misses: 27426401
+l1i-tlb-misses: 571120
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 2.279825 seconds
+counters value:
+        cycles: 9278187952
+  instructions: 13036110598
+      branches: 2486626075
+ branch-misses: 238595339
+ active-cycles: 9278186953
+load_store_instructions: 4404847181
+l1i-cache-misses: 24869
+l1d_cache_load_misses: 48873413
+l1d_cache_store_misses: 26544488
+l1i-tlb-misses: 497024
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 2.081578 seconds
+counters value:
+        cycles: 8515704695
+  instructions: 11993126303
+      branches: 2230697690
+ branch-misses: 205112184
+ active-cycles: 8515700889
+load_store_instructions: 4007965443
+l1i-cache-misses: 51708
+l1d_cache_load_misses: 42145325
+l1d_cache_store_misses: 20888600
+l1i-tlb-misses: 525869
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 1.937863 seconds
+counters value:
+        cycles: 7969432236
+  instructions: 10980361996
+      branches: 2013571226
+ branch-misses: 185407261
+ active-cycles: 7969424764
+load_store_instructions: 3566009078
+l1i-cache-misses: 68342
+l1d_cache_load_misses: 38895617
+l1d_cache_store_misses: 19661738
+l1i-tlb-misses: 492698
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 1.830404 seconds
+counters value:
+        cycles: 7546136446
+  instructions: 10099831616
+      branches: 1842451151
+ branch-misses: 171486456
+ active-cycles: 7546119554
+load_store_instructions: 3147696768
+l1i-cache-misses: 68217
+l1d_cache_load_misses: 39287776
+l1d_cache_store_misses: 20426124
+l1i-tlb-misses: 484521
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 100.623516 seconds
+counters value:
+        cycles: 347687316993
+  instructions: 514250046873
+      branches: 106927901839
+ branch-misses: 11582603423
+ active-cycles: 347687313526
+load_store_instructions: 211802698978
+l1i-cache-misses: 271847
+l1d_cache_load_misses: 2019695274
+l1d_cache_store_misses: 1316159985
+l1i-tlb-misses: 25230225
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 53.120999 seconds
+counters value:
+        cycles: 192425825836
+  instructions: 281045662984
+      branches: 56730698889
+ branch-misses: 5953484285
+ active-cycles: 192425813835
+load_store_instructions: 110378999082
+l1i-cache-misses: 236386
+l1d_cache_load_misses: 1110511077
+l1d_cache_store_misses: 748652648
+l1i-tlb-misses: 14764644
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 37.151440 seconds
+counters value:
+        cycles: 139545422033
+  instructions: 202086018738
+      branches: 39947109584
+ branch-misses: 4140596395
+ active-cycles: 139545421970
+load_store_instructions: 76032724595
+l1i-cache-misses: 11473
+l1d_cache_load_misses: 644301794
+l1d_cache_store_misses: 368281721
+l1i-tlb-misses: 7207038
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 28.965003 seconds
+counters value:
+        cycles: 114956521470
+  instructions: 164006399331
+      branches: 31979432942
+ branch-misses: 3238876612
+ active-cycles: 114956521515
+load_store_instructions: 58941686492
+l1i-cache-misses: 6060
+l1d_cache_load_misses: 537257459
+l1d_cache_store_misses: 312323724
+l1i-tlb-misses: 5913919
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 25.999646 seconds
+counters value:
+        cycles: 101903040278
+  instructions: 140882453140
+      branches: 26967654416
+ branch-misses: 2698405011
+ active-cycles: 101903011598
+load_store_instructions: 48907049228
+l1i-cache-misses: 436961
+l1d_cache_load_misses: 473257907
+l1d_cache_store_misses: 266449408
+l1i-tlb-misses: 5949218
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 23.711841 seconds
+counters value:
+        cycles: 92984773912
+  instructions: 124935567038
+      branches: 23706960900
+ branch-misses: 2355914396
+ active-cycles: 92984712153
+load_store_instructions: 41559997508
+l1i-cache-misses: 636832
+l1d_cache_load_misses: 431371407
+l1d_cache_store_misses: 235419014
+l1i-tlb-misses: 5718463
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 21.953100 seconds
+counters value:
+        cycles: 86470209587
+  instructions: 113939339661
+      branches: 21167373528
+ branch-misses: 2104411362
+ active-cycles: 86470108264
+load_store_instructions: 37117871467
+l1i-cache-misses: 746284
+l1d_cache_load_misses: 382824881
+l1d_cache_store_misses: 214018953
+l1i-tlb-misses: 5636321
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 20.717432 seconds
+counters value:
+        cycles: 81371921886
+  instructions: 106235745528
+      branches: 19576547499
+ branch-misses: 1906275187
+ active-cycles: 81371735653
+load_store_instructions: 33601108188
+l1i-cache-misses: 714149
+l1d_cache_load_misses: 369178744
+l1d_cache_store_misses: 198182868
+l1i-tlb-misses: 5438430
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 0.070718 seconds
+counters value:
+        cycles: 250126813
+  instructions: 410310415
+      branches: 79721969
+ branch-misses: 7940782
+ active-cycles: 250126742
+load_store_instructions: 177230214
+l1i-cache-misses: 936
+l1d_cache_load_misses: 752945
+l1d_cache_store_misses: 424167
+l1i-tlb-misses: 19613
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 0.037537 seconds
+counters value:
+        cycles: 144303518
+  instructions: 228007289
+      branches: 43310938
+ branch-misses: 4218636
+ active-cycles: 144303424
+load_store_instructions: 92002113
+l1i-cache-misses: 1288
+l1d_cache_load_misses: 521266
+l1d_cache_store_misses: 316915
+l1i-tlb-misses: 11288
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 0.027270 seconds
+counters value:
+        cycles: 109761573
+  instructions: 171843171
+      branches: 32138278
+ branch-misses: 2980484
+ active-cycles: 109761383
+load_store_instructions: 65591614
+l1i-cache-misses: 2014
+l1d_cache_load_misses: 430381
+l1d_cache_store_misses: 277427
+l1i-tlb-misses: 8240
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 0.021553 seconds
+counters value:
+        cycles: 92804459
+  instructions: 140426336
+      branches: 26134636
+ branch-misses: 2403128
+ active-cycles: 92804443
+load_store_instructions: 50331381
+l1i-cache-misses: 1519
+l1d_cache_load_misses: 420486
+l1d_cache_store_misses: 275365
+l1i-tlb-misses: 6767
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 0.019631 seconds
+counters value:
+        cycles: 84376819
+  instructions: 122510220
+      branches: 22731375
+ branch-misses: 2081689
+ active-cycles: 84376857
+load_store_instructions: 41593516
+l1i-cache-misses: 2249
+l1d_cache_load_misses: 418990
+l1d_cache_store_misses: 257305
+l1i-tlb-misses: 6435
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 0.018075 seconds
+counters value:
+        cycles: 79532929
+  instructions: 118232196
+      branches: 21330939
+ branch-misses: 1837908
+ active-cycles: 79532765
+load_store_instructions: 40705839
+l1i-cache-misses: 2144
+l1d_cache_load_misses: 376447
+l1d_cache_store_misses: 240889
+l1i-tlb-misses: 6786
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 0.016991 seconds
+counters value:
+        cycles: 76925538
+  instructions: 114085388
+      branches: 20655686
+ branch-misses: 1776728
+ active-cycles: 76925388
+load_store_instructions: 38409425
+l1i-cache-misses: 2229
+l1d_cache_load_misses: 393120
+l1d_cache_store_misses: 257382
+l1i-tlb-misses: 6341
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 0.016183 seconds
+counters value:
+        cycles: 75074561
+  instructions: 111949432
+      branches: 20095082
+ branch-misses: 1718627
+ active-cycles: 75074329
+load_store_instructions: 37638650
+l1i-cache-misses: 3676
+l1d_cache_load_misses: 372481
+l1d_cache_store_misses: 249612
+l1i-tlb-misses: 7121
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 0.799284 seconds
+counters value:
+        cycles: 2794231246
+  instructions: 4412767618
+      branches: 885595898
+ branch-misses: 90311967
+ active-cycles: 2794231060
+load_store_instructions: 1861270341
+l1i-cache-misses: 1120
+l1d_cache_load_misses: 10851269
+l1d_cache_store_misses: 5615832
+l1i-tlb-misses: 165619
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 0.416916 seconds
+counters value:
+        cycles: 1572235772
+  instructions: 2459512479
+      branches: 474085984
+ branch-misses: 46677029
+ active-cycles: 1572235959
+load_store_instructions: 992290941
+l1i-cache-misses: 2459
+l1d_cache_load_misses: 5902138
+l1d_cache_store_misses: 3186315
+l1i-tlb-misses: 89736
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 0.297099 seconds
+counters value:
+        cycles: 1172849557
+  instructions: 1777429675
+      branches: 337377011
+ branch-misses: 32459733
+ active-cycles: 1172849355
+load_store_instructions: 674269331
+l1i-cache-misses: 1764
+l1d_cache_load_misses: 5170927
+l1d_cache_store_misses: 2765897
+l1i-tlb-misses: 71115
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 0.230746 seconds
+counters value:
+        cycles: 973642829
+  instructions: 1468553490
+      branches: 273467069
+ branch-misses: 25296499
+ active-cycles: 973642141
+load_store_instructions: 533858777
+l1i-cache-misses: 1563
+l1d_cache_load_misses: 3748240
+l1d_cache_store_misses: 2333273
+l1i-tlb-misses: 58735
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 0.207737 seconds
+counters value:
+        cycles: 874932144
+  instructions: 1281938406
+      branches: 235462243
+ branch-misses: 21136911
+ active-cycles: 874931664
+load_store_instructions: 447610185
+l1i-cache-misses: 5227
+l1d_cache_load_misses: 4063025
+l1d_cache_store_misses: 2262707
+l1i-tlb-misses: 61490
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 0.191518 seconds
+counters value:
+        cycles: 798993917
+  instructions: 1138356902
+      branches: 208132174
+ branch-misses: 18286103
+ active-cycles: 798993682
+load_store_instructions: 375481241
+l1i-cache-misses: 7231
+l1d_cache_load_misses: 4061558
+l1d_cache_store_misses: 2198953
+l1i-tlb-misses: 57641
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 0.175096 seconds
+counters value:
+        cycles: 751788908
+  instructions: 1051841783
+      branches: 189709827
+ branch-misses: 16583974
+ active-cycles: 751787839
+load_store_instructions: 339630244
+l1i-cache-misses: 11215
+l1d_cache_load_misses: 3737530
+l1d_cache_store_misses: 1945763
+l1i-tlb-misses: 51377
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 0.164100 seconds
+counters value:
+        cycles: 709578221
+  instructions: 968747017
+      branches: 172240924
+ branch-misses: 15060484
+ active-cycles: 709577867
+load_store_instructions: 302401219
+l1i-cache-misses: 9960
+l1d_cache_load_misses: 3249968
+l1d_cache_store_misses: 1955924
+l1i-tlb-misses: 49056
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 8.968625 seconds
+counters value:
+        cycles: 30990226005
+  instructions: 47355668173
+      branches: 9695852634
+ branch-misses: 1030931583
+ active-cycles: 30990226204
+load_store_instructions: 19739788386
+l1i-cache-misses: 1691
+l1d_cache_load_misses: 142634938
+l1d_cache_store_misses: 77580821
+l1i-tlb-misses: 1732504
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 4.668509 seconds
+counters value:
+        cycles: 17257098667
+  instructions: 25706474572
+      branches: 5106089121
+ branch-misses: 533094545
+ active-cycles: 17257098771
+load_store_instructions: 10166426690
+l1i-cache-misses: 2523
+l1d_cache_load_misses: 76679779
+l1d_cache_store_misses: 42154883
+l1i-tlb-misses: 959580
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 3.302733 seconds
+counters value:
+        cycles: 12703317071
+  instructions: 18839262470
+      branches: 3693702993
+ branch-misses: 368561452
+ active-cycles: 12703317480
+load_store_instructions: 7029589426
+l1i-cache-misses: 2611
+l1d_cache_load_misses: 61643179
+l1d_cache_store_misses: 35036444
+l1i-tlb-misses: 607596
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 2.548647 seconds
+counters value:
+        cycles: 10446506119
+  instructions: 15261819497
+      branches: 2914592604
+ branch-misses: 285880686
+ active-cycles: 10446506444
+load_store_instructions: 5487383030
+l1i-cache-misses: 2572
+l1d_cache_load_misses: 48391653
+l1d_cache_store_misses: 29002079
+l1i-tlb-misses: 551847
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 2.280375 seconds
+counters value:
+        cycles: 9269262547
+  instructions: 13171087554
+      branches: 2476399485
+ branch-misses: 238086832
+ active-cycles: 9269260613
+load_store_instructions: 4549387924
+l1i-cache-misses: 36877
+l1d_cache_load_misses: 46122900
+l1d_cache_store_misses: 24651704
+l1i-tlb-misses: 532201
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 2.088754 seconds
+counters value:
+        cycles: 8529935724
+  instructions: 11963510832
+      branches: 2220359185
+ branch-misses: 207277257
+ active-cycles: 8529931108
+load_store_instructions: 4012437299
+l1i-cache-misses: 53449
+l1d_cache_load_misses: 42860316
+l1d_cache_store_misses: 22405204
+l1i-tlb-misses: 511947
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 1.941132 seconds
+counters value:
+        cycles: 7967087569
+  instructions: 10932815780
+      branches: 2007578384
+ branch-misses: 185020275
+ active-cycles: 7967081188
+load_store_instructions: 3539089003
+l1i-cache-misses: 72803
+l1d_cache_load_misses: 38932282
+l1d_cache_store_misses: 20032481
+l1i-tlb-misses: 509987
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 1.833365 seconds
+counters value:
+        cycles: 7525043826
+  instructions: 10120479422
+      branches: 1867656431
+ branch-misses: 170925307
+ active-cycles: 7525030720
+load_store_instructions: 3114543830
+l1i-cache-misses: 65232
+l1d_cache_load_misses: 42255458
+l1d_cache_store_misses: 21623309
+l1i-tlb-misses: 462556
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 99.939553 seconds
+counters value:
+        cycles: 345357896120
+  instructions: 511470639244
+      branches: 106472465683
+ branch-misses: 11592679769
+ active-cycles: 345357891169
+load_store_instructions: 210726062300
+l1i-cache-misses: 93472
+l1d_cache_load_misses: 1849019992
+l1d_cache_store_misses: 1142652712
+l1i-tlb-misses: 20664035
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 51.991252 seconds
+counters value:
+        cycles: 189068021442
+  instructions: 277219472269
+      branches: 56089834795
+ branch-misses: 5935114650
+ active-cycles: 189068019175
+load_store_instructions: 108927672791
+l1i-cache-misses: 38058
+l1d_cache_load_misses: 889671905
+l1d_cache_store_misses: 492664089
+l1i-tlb-misses: 9720530
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 37.144790 seconds
+counters value:
+        cycles: 139637040449
+  instructions: 200911109348
+      branches: 40005224588
+ branch-misses: 4121681022
+ active-cycles: 139637040217
+load_store_instructions: 74855244838
+l1i-cache-misses: 8700
+l1d_cache_load_misses: 665512665
+l1d_cache_store_misses: 372536168
+l1i-tlb-misses: 7234715
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 28.905745 seconds
+counters value:
+        cycles: 114942066502
+  instructions: 163433618452
+      branches: 31823484759
+ branch-misses: 3238443277
+ active-cycles: 114942066721
+load_store_instructions: 58715910609
+l1i-cache-misses: 9253
+l1d_cache_load_misses: 525850400
+l1d_cache_store_misses: 304754678
+l1i-tlb-misses: 5557152
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 25.991688 seconds
+counters value:
+        cycles: 101967587962
+  instructions: 140401920713
+      branches: 27054611356
+ branch-misses: 2707691287
+ active-cycles: 101967572790
+load_store_instructions: 48257064383
+l1i-cache-misses: 338393
+l1d_cache_load_misses: 481453712
+l1d_cache_store_misses: 263874310
+l1i-tlb-misses: 5939039
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 24.135986 seconds
+counters value:
+        cycles: 94500464624
+  instructions: 125850137355
+      branches: 23660722167
+ branch-misses: 2366176944
+ active-cycles: 94500419506
+load_store_instructions: 42226254386
+l1i-cache-misses: 611464
+l1d_cache_load_misses: 491915131
+l1d_cache_store_misses: 326890548
+l1i-tlb-misses: 7656539
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 23.095612 seconds
+counters value:
+        cycles: 88314701401
+  instructions: 115667707630
+      branches: 21577919974
+ branch-misses: 2129469775
+ active-cycles: 88314587694
+load_store_instructions: 37592619774
+l1i-cache-misses: 1075424
+l1d_cache_load_misses: 486522823
+l1d_cache_store_misses: 278685446
+l1i-tlb-misses: 7292625
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 20.758206 seconds
+counters value:
+        cycles: 81540334647
+  instructions: 106345840683
+      branches: 19838306234
+ branch-misses: 1914330325
+ active-cycles: 81540143434
+load_store_instructions: 33152931721
+l1i-cache-misses: 742724
+l1d_cache_load_misses: 395462917
+l1d_cache_store_misses: 206954612
+l1i-tlb-misses: 5338326
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 0.070721 seconds
+counters value:
+        cycles: 250075242
+  instructions: 410340432
+      branches: 79727894
+ branch-misses: 7931634
+ active-cycles: 250075042
+load_store_instructions: 177239459
+l1i-cache-misses: 908
+l1d_cache_load_misses: 754522
+l1d_cache_store_misses: 429139
+l1i-tlb-misses: 18071
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 0.037545 seconds
+counters value:
+        cycles: 144194412
+  instructions: 228144640
+      branches: 43336669
+ branch-misses: 4217508
+ active-cycles: 144194285
+load_store_instructions: 92055063
+l1i-cache-misses: 1242
+l1d_cache_load_misses: 522076
+l1d_cache_store_misses: 320309
+l1i-tlb-misses: 11597
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 0.027279 seconds
+counters value:
+        cycles: 109810981
+  instructions: 170727404
+      branches: 31954195
+ branch-misses: 2989215
+ active-cycles: 109810898
+load_store_instructions: 65005310
+l1i-cache-misses: 1349
+l1d_cache_load_misses: 450932
+l1d_cache_store_misses: 285454
+l1i-tlb-misses: 8433
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 0.021530 seconds
+counters value:
+        cycles: 92719875
+  instructions: 140288262
+      branches: 26099913
+ branch-misses: 2395966
+ active-cycles: 92719895
+load_store_instructions: 50260936
+l1i-cache-misses: 1353
+l1d_cache_load_misses: 439210
+l1d_cache_store_misses: 290797
+l1i-tlb-misses: 7225
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 0.019736 seconds
+counters value:
+        cycles: 87338090
+  instructions: 130580375
+      branches: 24159569
+ branch-misses: 2209846
+ active-cycles: 87337956
+load_store_instructions: 45686369
+l1i-cache-misses: 1209
+l1d_cache_load_misses: 413718
+l1d_cache_store_misses: 261466
+l1i-tlb-misses: 6671
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 0.018195 seconds
+counters value:
+        cycles: 82613915
+  instructions: 121575662
+      branches: 22583138
+ branch-misses: 2051097
+ active-cycles: 82613563
+load_store_instructions: 41003715
+l1i-cache-misses: 1687
+l1d_cache_load_misses: 438070
+l1d_cache_store_misses: 272146
+l1i-tlb-misses: 6065
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 0.016899 seconds
+counters value:
+        cycles: 78945682
+  instructions: 119726643
+      branches: 21670976
+ branch-misses: 1864579
+ active-cycles: 78945569
+load_store_instructions: 41253254
+l1i-cache-misses: 1950
+l1d_cache_load_misses: 392350
+l1d_cache_store_misses: 249495
+l1i-tlb-misses: 7205
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 0.016594 seconds
+counters value:
+        cycles: 77544068
+  instructions: 112305335
+      branches: 20551089
+ branch-misses: 1857686
+ active-cycles: 77544190
+load_store_instructions: 37041672
+l1i-cache-misses: 2336
+l1d_cache_load_misses: 419548
+l1d_cache_store_misses: 260205
+l1i-tlb-misses: 6265
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 0.799802 seconds
+counters value:
+        cycles: 2795085177
+  instructions: 4413065485
+      branches: 885650894
+ branch-misses: 90380580
+ active-cycles: 2795085183
+load_store_instructions: 1861363300
+l1i-cache-misses: 1132
+l1d_cache_load_misses: 10937782
+l1d_cache_store_misses: 5613081
+l1i-tlb-misses: 165137
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 0.416795 seconds
+counters value:
+        cycles: 1572634629
+  instructions: 2453242685
+      branches: 472522379
+ branch-misses: 46445449
+ active-cycles: 1572634818
+load_store_instructions: 990020641
+l1i-cache-misses: 1576
+l1d_cache_load_misses: 6108638
+l1d_cache_store_misses: 3271338
+l1i-tlb-misses: 99612
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 0.308932 seconds
+counters value:
+        cycles: 1183491140
+  instructions: 1807347743
+      branches: 343831808
+ branch-misses: 32577496
+ active-cycles: 1183490681
+load_store_instructions: 682301926
+l1i-cache-misses: 7915
+l1d_cache_load_misses: 4681521
+l1d_cache_store_misses: 2672982
+l1i-tlb-misses: 66566
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 0.230999 seconds
+counters value:
+        cycles: 976317930
+  instructions: 1468823539
+      branches: 273325231
+ branch-misses: 25356860
+ active-cycles: 976318020
+load_store_instructions: 534153160
+l1i-cache-misses: 1620
+l1d_cache_load_misses: 4105281
+l1d_cache_store_misses: 2309633
+l1i-tlb-misses: 58630
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 0.208038 seconds
+counters value:
+        cycles: 869644327
+  instructions: 1262744052
+      branches: 232058525
+ branch-misses: 20972700
+ active-cycles: 869643411
+load_store_instructions: 437859959
+l1i-cache-misses: 6828
+l1d_cache_load_misses: 4021604
+l1d_cache_store_misses: 2160205
+l1i-tlb-misses: 57930
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 0.189510 seconds
+counters value:
+        cycles: 802519572
+  instructions: 1156366017
+      branches: 209129380
+ branch-misses: 18295021
+ active-cycles: 802519502
+load_store_instructions: 391591943
+l1i-cache-misses: 8811
+l1d_cache_load_misses: 3926959
+l1d_cache_store_misses: 2183537
+l1i-tlb-misses: 59497
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 0.175175 seconds
+counters value:
+        cycles: 745715297
+  instructions: 1044709339
+      branches: 187172047
+ branch-misses: 16177118
+ active-cycles: 745714618
+load_store_instructions: 338276152
+l1i-cache-misses: 10460
+l1d_cache_load_misses: 3480615
+l1d_cache_store_misses: 1775782
+l1i-tlb-misses: 56702
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 10000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 0.164955 seconds
+counters value:
+        cycles: 707753150
+  instructions: 976329524
+      branches: 172581450
+ branch-misses: 14755010
+ active-cycles: 707752604
+load_store_instructions: 308078834
+l1i-cache-misses: 12618
+l1d_cache_load_misses: 3437126
+l1d_cache_store_misses: 1906143
+l1i-tlb-misses: 53595
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 8.969531 seconds
+counters value:
+        cycles: 30995606127
+  instructions: 47358715193
+      branches: 9696442324
+ branch-misses: 1030343048
+ active-cycles: 30995606468
+load_store_instructions: 19740745993
+l1i-cache-misses: 1585
+l1d_cache_load_misses: 140554846
+l1d_cache_store_misses: 77454072
+l1i-tlb-misses: 1629929
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 4.667560 seconds
+counters value:
+        cycles: 17254364726
+  instructions: 25768198197
+      branches: 5115002872
+ branch-misses: 535061815
+ active-cycles: 17254377709
+load_store_instructions: 10194738820
+l1i-cache-misses: 2608
+l1d_cache_load_misses: 74804697
+l1d_cache_store_misses: 41820389
+l1i-tlb-misses: 886372
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 3.305169 seconds
+counters value:
+        cycles: 12708069426
+  instructions: 18925897182
+      branches: 3668324481
+ branch-misses: 368278702
+ active-cycles: 12708069737
+load_store_instructions: 7158819688
+l1i-cache-misses: 2330
+l1d_cache_load_misses: 57644081
+l1d_cache_store_misses: 34225623
+l1i-tlb-misses: 646007
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 2.549370 seconds
+counters value:
+        cycles: 10452567728
+  instructions: 15365330282
+      branches: 2933187579
+ branch-misses: 284171480
+ active-cycles: 10452567712
+load_store_instructions: 5530649090
+l1i-cache-misses: 2222
+l1d_cache_load_misses: 47791133
+l1d_cache_store_misses: 27140282
+l1i-tlb-misses: 568824
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 2.278395 seconds
+counters value:
+        cycles: 9283663238
+  instructions: 13149727191
+      branches: 2478693551
+ branch-misses: 239221253
+ active-cycles: 9283662690
+load_store_instructions: 4527430312
+l1i-cache-misses: 28298
+l1d_cache_load_misses: 47577044
+l1d_cache_store_misses: 25451094
+l1i-tlb-misses: 522534
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 2.083729 seconds
+counters value:
+        cycles: 8502867805
+  instructions: 11786224667
+      branches: 2199230836
+ branch-misses: 207940397
+ active-cycles: 8502863568
+load_store_instructions: 3903128181
+l1i-cache-misses: 58149
+l1d_cache_load_misses: 44052733
+l1d_cache_store_misses: 23057324
+l1i-tlb-misses: 475849
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 1.938314 seconds
+counters value:
+        cycles: 7972143914
+  instructions: 10951753728
+      branches: 2015051966
+ branch-misses: 185647303
+ active-cycles: 7972135096
+load_store_instructions: 3544880365
+l1i-cache-misses: 79987
+l1d_cache_load_misses: 40469246
+l1d_cache_store_misses: 20657947
+l1i-tlb-misses: 502490
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 100000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 1.846496 seconds
+counters value:
+        cycles: 7512132814
+  instructions: 10175451554
+      branches: 1851459340
+ branch-misses: 169341406
+ active-cycles: 7512117205
+load_store_instructions: 3193999750
+l1i-cache-misses: 73000
+l1d_cache_load_misses: 39030909
+l1d_cache_store_misses: 22134668
+l1i-tlb-misses: 492048
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 1
+Elapsed time: 99.372913 seconds
+counters value:
+        cycles: 342124761869
+  instructions: 507786572841
+      branches: 105872166091
+ branch-misses: 11579391363
+ active-cycles: 342124761947
+load_store_instructions: 209306159416
+l1i-cache-misses: 18789
+l1d_cache_load_misses: 1666134154
+l1d_cache_store_misses: 875365660
+l1i-tlb-misses: 17515898
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 2
+Elapsed time: 52.009303 seconds
+counters value:
+        cycles: 189867667614
+  instructions: 278744240310
+      branches: 56413175832
+ branch-misses: 5948196361
+ active-cycles: 189867659256
+load_store_instructions: 109565254403
+l1i-cache-misses: 103735
+l1d_cache_load_misses: 992000454
+l1d_cache_store_misses: 494634253
+l1i-tlb-misses: 10694424
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 3
+Elapsed time: 37.138072 seconds
+counters value:
+        cycles: 139532867767
+  instructions: 201348918146
+      branches: 40044185253
+ branch-misses: 4120852680
+ active-cycles: 139532867587
+load_store_instructions: 75166692209
+l1i-cache-misses: 10202
+l1d_cache_load_misses: 665113585
+l1d_cache_store_misses: 373684899
+l1i-tlb-misses: 7339186
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 4
+Elapsed time: 28.925849 seconds
+counters value:
+        cycles: 114947085930
+  instructions: 163077090333
+      branches: 31729658481
+ branch-misses: 3232270436
+ active-cycles: 114947086205
+load_store_instructions: 58645582978
+l1i-cache-misses: 6504
+l1d_cache_load_misses: 538258452
+l1d_cache_store_misses: 315649039
+l1i-tlb-misses: 6295926
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 5
+Elapsed time: 26.030132 seconds
+counters value:
+        cycles: 102529480603
+  instructions: 141006104899
+      branches: 27006790219
+ branch-misses: 2707499594
+ active-cycles: 102529455023
+load_store_instructions: 48875763250
+l1i-cache-misses: 394821
+l1d_cache_load_misses: 539390916
+l1d_cache_store_misses: 265126131
+l1i-tlb-misses: 6736366
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 6
+Elapsed time: 23.691277 seconds
+counters value:
+        cycles: 93018653361
+  instructions: 125794965425
+      branches: 23734796933
+ branch-misses: 2344795576
+ active-cycles: 93018610200
+load_store_instructions: 42287439886
+l1i-cache-misses: 553471
+l1d_cache_load_misses: 426152011
+l1d_cache_store_misses: 239241975
+l1i-tlb-misses: 5926056
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 7
+Elapsed time: 21.913866 seconds
+counters value:
+        cycles: 86582338629
+  instructions: 114413385645
+      branches: 21417182967
+ branch-misses: 2098386050
+ active-cycles: 86582255481
+load_store_instructions: 36992744941
+l1i-cache-misses: 739745
+l1d_cache_load_misses: 397667621
+l1d_cache_store_misses: 213496890
+l1i-tlb-misses: 5682009
+===================================
+loaded db: a14 (Apple A14/M1)
+number of fixed counters: 2
+number of configurable counters: 8
+Sorting 1000000000 integers
+All sorts succeeded
+Number of threads: 8
+Elapsed time: 20.617291 seconds
+counters value:
+        cycles: 81247567525
+  instructions: 105658097193
+      branches: 19502888105
+ branch-misses: 1908116494
+ active-cycles: 81247400543
+load_store_instructions: 33244201529
+l1i-cache-misses: 692330
+l1d_cache_load_misses: 365147869
+l1d_cache_store_misses: 200925884
+l1i-tlb-misses: 5384199
+===================================

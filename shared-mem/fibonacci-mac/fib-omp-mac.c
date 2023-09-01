@@ -904,8 +904,11 @@ static const event_alias profile_events[] = {
             "BR_MISP_RETIRED.ALL_BRANCHES", // Intel Core 2th-10th
             "BR_INST_RETIRED.MISPRED",      // Intel Yonah, Merom
     }},
-    {   "l1i-cache-misses", {
-            "L1I_CACHE_MISS_DEMAND",
+    //{   "l1i-cache-misses", {
+    //        "L1I_CACHE_MISS_DEMAND",
+    //}},
+    {   "active-cycles", {
+         "CORE_ACTIVE_CYCLE",
     }},
     {   "l1d_cache_load_misses", {
             //"L1D_CACHE_MISS_LD_NONSPEC",
